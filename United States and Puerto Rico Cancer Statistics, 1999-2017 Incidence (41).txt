@@ -1,0 +1,883 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	75
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	67
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	130
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	85
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	110
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	185
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	103
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	131
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	253
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	137
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	244
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	134
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	296
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	248
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	333
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	131
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	369
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	205
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	450
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	98
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	290
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	148
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	328
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	86
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	230
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	69
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	232
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	172
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	167
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	65
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	234
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	167
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	86
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	72
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	154
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	78
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	205
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	103
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	310
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	120
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	403
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	236
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	72
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	618
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	474
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	80
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	752
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	123
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	764
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	87
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	924
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	134
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1003
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	51
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	98
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	975
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	122
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1160
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	70
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	875
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	83
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	996
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	73
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	56
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	710
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	829
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	563
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	654
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	599
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	566
+	"All Invasive Cancer Sites Combined"	"0"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Oral Cavity and Pharynx"	"20010-20100"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Oral Cavity and Pharynx"	"20010-20100"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Oral Cavity and Pharynx"	"20010-20100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Oral Cavity and Pharynx"	"20010-20100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	51
+	"Oral Cavity and Pharynx"	"20010-20100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	46
+	"Oral Cavity and Pharynx"	"20010-20100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Oral Cavity and Pharynx"	"20010-20100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Oral Cavity and Pharynx"	"20010-20100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Oral Cavity and Pharynx"	"20010-20100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Tongue"	"20020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Tonsil"	"20070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Tonsil"	"20070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	62
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	45
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	71
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	56
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	48
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	45
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	44
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	65
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	99
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	146
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	123
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	207
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	141
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	256
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	150
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	218
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	152
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	190
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	133
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	157
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	114
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	134
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	155
+	"Digestive System"	"21010-21130"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	120
+	"Esophagus"	"21010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Esophagus"	"21010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Esophagus"	"21010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Esophagus"	"21010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Stomach"	"21020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Stomach"	"21020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Stomach"	"21020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Stomach"	"21020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	34
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	62
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	75
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	57
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	103
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	62
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	100
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	67
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	88
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	65
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	66
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	63
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	75
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	56
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	57
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	84
+	"Colon and Rectum"	"21041-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	58
+	"Colon excluding Rectum"	"21041-21049"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon excluding Rectum"	"21041-21049"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	42
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	44
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	36
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	58
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	44
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	57
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	50
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	63
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	49
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	42
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	50
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	61
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	45
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	41
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	71
+	"Colon excluding Rectum"	"21041-21049"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	46
+	"Cecum"	"21041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Cecum"	"21041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Cecum"	"21041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Ascending Colon"	"21043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Sigmoid Colon"	"21048"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Sigmoid Colon"	"21048"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Sigmoid Colon"	"21048"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Sigmoid Colon"	"21048"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	45
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	43
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Rectum"	"21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	37
+	"Rectum"	"21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Rectum"	"21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum"	"21052"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	36
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	47
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Liver"	"21071"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver"	"21071"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver"	"21071"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"Liver"	"21071"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Liver"	"21071"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	45
+	"Liver"	"21071"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Liver"	"21071"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Liver"	"21071"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Pancreas"	"21100"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	43
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	37
+	"Pancreas"	"21100"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	52
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	46
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	105
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	61
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	59
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	46
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	53
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	53
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	28
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	62
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	71
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	83
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	91
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	125
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	129
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	153
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	143
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	128
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	148
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	109
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	94
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	86
+	"Respiratory System"	"22010-22060"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	75
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	45
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	97
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	57
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	55
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	44
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	49
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	50
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	39
+	"Lung and Bronchus"	"22030"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	61
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	64
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	79
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	83
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	123
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	112
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	149
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	130
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	127
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	140
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	107
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	90
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	83
+	"Lung and Bronchus"	"22030"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	69
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	51
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	64
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	67
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	65
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	65
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	52
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	61
+	"Melanoma of the Skin"	"25010"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	49
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	62
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	39
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	62
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	61
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	62
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	49
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	52
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	34
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	59
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	73
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	92
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	97
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	46
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	118
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	80
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	70
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast"	"26000"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	54
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	34
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	55
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	118
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	166
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	203
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	242
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	292
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	337
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	267
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	170
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	117
+	"Male and Female Breast"	"26000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	100
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	59
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	73
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	92
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	97
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	46
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	118
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	80
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	70
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast"	"26000-Female"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	54
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	55
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	118
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	166
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	203
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	242
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	292
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	337
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	267
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	170
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	117
+	"Female Breast"	"26000-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	100
+	"Female Genital System"	"27010-27070"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Genital System"	"27010-27070"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Genital System"	"27010-27070"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Genital System"	"27010-27070"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Genital System"	"27010-27070"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Genital System"	"27010-27070"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Genital System"	"27010-27070"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	54
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	67
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	108
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	140
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	164
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	113
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	100
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	72
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Genital System"	"27010-27070"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	39
+	"Cervix Uteri"	"27010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	18
+	"Cervix Uteri"	"27010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	25
+	"Cervix Uteri"	"27010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Cervix Uteri"	"27010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Cervix Uteri"	"27010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Corpus Uteri"	"27020"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Corpus Uteri"	"27020"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Corpus Uteri"	"27020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Corpus Uteri"	"27020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Corpus Uteri"	"27020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	56
+	"Corpus Uteri"	"27020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	92
+	"Corpus Uteri"	"27020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	107
+	"Corpus Uteri"	"27020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	72
+	"Corpus Uteri"	"27020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	55
+	"Corpus Uteri"	"27020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	38
+	"Corpus Uteri"	"27020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Ovary"	"27040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	22
+	"Ovary"	"27040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Ovary"	"27040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Ovary"	"27040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Ovary"	"27040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Ovary"	"27040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Ovary"	"27040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Ovary"	"27040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	65
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	107
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	95
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	92
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	131
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	83
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	35
+	"Male Genital System"	"28010-28040"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	30
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	19
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	25
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	90
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	62
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	173
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	270
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	31
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	65
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	407
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	37
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	276
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	52
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	175
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	27
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	103
+	"Male Genital System"	"28010-28040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	80
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	65
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	107
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	94
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	92
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	131
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	83
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Prostate"	"28010"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	88
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	62
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	163
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	269
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	31
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	65
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	404
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	37
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	274
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	52
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	172
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	27
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	102
+	"Prostate"	"28010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	80
+	"Testis"	"28020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	20
+	"Testis"	"28020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	30
+	"Testis"	"28020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Urinary System"	"29010-29040"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary System"	"29010-29040"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary System"	"29010-29040"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	34
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	95
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	49
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	120
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	49
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	134
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	131
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	41
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	119
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	41
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	107
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Urinary System"	"29010-29040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	86
+	"Urinary Bladder, invasive and in situ"	"29010"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Richmond, VA"	"40060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Richmond, VA"	"40060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	53
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	79
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	75
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	76
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	83
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary Bladder, invasive and in situ"	"29010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	69
+	"Kidney and Renal Pelvis"	"29020"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	59
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	66
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	55
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	49
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	41
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Brain and Other Nervous System"	"31010-31040"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Brain"	"31010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	27
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	31
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	41
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	37
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	46
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	32
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Endocrine System"	"32010-32020"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	27
+	"Thyroid"	"32010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	31
+	"Thyroid"	"32010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	41
+	"Thyroid"	"32010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	35
+	"Thyroid"	"32010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Thyroid"	"32010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	46
+	"Thyroid"	"32010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	32
+	"Thyroid"	"32010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Thyroid"	"32010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Thyroid"	"32010"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	52
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	48
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	41
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	41
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	38
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	40
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	39
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	31
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"NHL - Nodal"	"33041"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	25
+	"Myeloma"	"34000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	30
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Leukemias"	"35011-35043"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Richmond, VA"	"40060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Richmond, VA"	"40060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	33
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	38
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	41
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	60
+	"Miscellaneous"	"37000"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	47
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	58
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	71
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	63
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	62
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	51
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Richmond, VA"	"40060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Richmond, VA"	"40060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Richmond, VA"	"40060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Richmond, VA"	"40060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Richmond, VA"	"40060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	58
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	71
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	62
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Riverside-San Bernardino-Ontario, CA"	"40140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	30
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Richmond, VA (40060); Riverside-San Bernardino-Ontario, CA (40140)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 2:27:42 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 2:27:42 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

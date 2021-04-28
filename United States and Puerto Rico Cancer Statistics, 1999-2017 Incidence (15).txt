@@ -1,0 +1,927 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	73
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"25-29 years"	"25-29"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	54
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	119
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	75
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	177
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	92
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	87
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	285
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	155
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	183
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	525
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	89
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	298
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	208
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	759
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	208
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	616
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	336
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	1007
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	345
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	1064
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	357
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	1140
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	455
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1445
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	390
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1301
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	457
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1607
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	254
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	1136
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	291
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1403
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	194
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	914
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	200
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1063
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	170
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	769
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	117
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	722
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	176
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	835
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	91
+	"All Invasive Cancer Sites Combined"	"0"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	755
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	88
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	63
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	102
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	54
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	136
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	67
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	156
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	79
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	196
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	179
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	158
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	166
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	116
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	118
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	88
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	93
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	89
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Durham-Chapel Hill, NC"	"20500"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	82
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	42
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	65
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	84
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	53
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	35
+	"Oral Cavity and Pharynx"	"20010-20100"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Tongue"	"20020"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Tongue"	"20020"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"Tongue"	"20020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Tongue"	"20020"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Tonsil"	"20070"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Tonsil"	"20070"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	55
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	61
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	100
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	52
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	125
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	68
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	132
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	86
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	198
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	82
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	152
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	109
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	264
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	83
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	205
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	95
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	291
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	165
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	55
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	242
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	193
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	189
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	160
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	151
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	206
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Digestive System"	"21010-21130"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	163
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Durham-Chapel Hill, NC"	"20500"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Esophagus"	"21010"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Esophagus"	"21010"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Esophagus"	"21010"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Esophagus"	"21010"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Esophagus"	"21010"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Esophagus"	"21010"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Stomach"	"21020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Stomach"	"21020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Stomach"	"21020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Stomach"	"21020"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Stomach"	"21020"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Stomach"	"21020"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Stomach"	"21020"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	35
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	33
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	59
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	66
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	63
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	94
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	81
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	116
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	84
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	123
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	81
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	87
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	74
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	91
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	87
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	62
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	113
+	"Colon and Rectum"	"21041-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	73
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	44
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	50
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	53
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	50
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	72
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	58
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	79
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	66
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	60
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	59
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	63
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	75
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	45
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	97
+	"Colon excluding Rectum"	"21041-21049"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	60
+	"Cecum"	"21041"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Cecum"	"21041"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Cecum"	"21041"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Cecum"	"21041"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Cecum"	"21041"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Ascending Colon"	"21043"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Ascending Colon"	"21043"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Ascending Colon"	"21043"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Ascending Colon"	"21043"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Ascending Colon"	"21043"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Ascending Colon"	"21043"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Sigmoid Colon"	"21048"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Sigmoid Colon"	"21048"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Sigmoid Colon"	"21048"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Sigmoid Colon"	"21048"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Sigmoid Colon"	"21048"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Sigmoid Colon"	"21048"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	41
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	44
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Rectum"	"21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectum"	"21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Rectum"	"21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Rectum"	"21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	38
+	"Rectum"	"21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum"	"21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Rectum"	"21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum"	"21052"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	45
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver"	"21071"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver"	"21071"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Liver"	"21071"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	38
+	"Liver"	"21071"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Liver"	"21071"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Liver"	"21071"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Liver"	"21071"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	48
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	54
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	47
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	58
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	32
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	33
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Pancreas"	"21100"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	69
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	76
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	57
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	126
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	55
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	130
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	178
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	78
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	207
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	67
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	230
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	75
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	234
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	63
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	263
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	69
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	235
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	184
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	215
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	151
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	132
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	120
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	123
+	"Respiratory System"	"22010-22060"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Respiratory System"	"22010-22060"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Respiratory System"	"22010-22060"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Respiratory System"	"22010-22060"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Larynx"	"22020"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Larynx"	"22020"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Larynx"	"22020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Larynx"	"22020"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	64
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	62
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	122
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	109
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	175
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	67
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	181
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	65
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	218
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	68
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	210
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	59
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	256
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	62
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	206
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	46
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	182
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	206
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	147
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	124
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	120
+	"Lung and Bronchus"	"22030"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	114
+	"Lung and Bronchus"	"22030"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Lung and Bronchus"	"22030"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Lung and Bronchus"	"22030"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	48
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	43
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	91
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	48
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	84
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	41
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	81
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	75
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	31
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	74
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	48
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	37
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	65
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	36
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	29
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	46
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	88
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	45
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	79
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	39
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	70
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	68
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	65
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	40
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	56
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	59
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	104
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	76
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	225
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	70
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	282
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	101
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	333
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	120
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	368
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	105
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	371
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	59
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	321
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	222
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	175
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Male and Female Breast"	"26000"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	169
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	41
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	51
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	69
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	55
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Male and Female Breast"	"26000"	"Durham-Chapel Hill, NC"	"20500"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	59
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	104
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	76
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	225
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	70
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	282
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	101
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	333
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	120
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	368
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	105
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	371
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	59
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	321
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	222
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	175
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Female Breast"	"26000-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	169
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	41
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	69
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	55
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast"	"26000-Female"	"Durham-Chapel Hill, NC"	"20500"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	78
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	111
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	46
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	173
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	160
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	169
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	122
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	59
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	64
+	"Female Genital System"	"27010-27070"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Genital System"	"27010-27070"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Genital System"	"27010-27070"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	64
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	118
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	102
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	119
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	69
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	30
+	"Corpus Uteri"	"27020"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Ovary"	"27040"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Ovary"	"27040"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Ovary"	"27040"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	34
+	"Ovary"	"27040"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Ovary"	"27040"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Ovary"	"27040"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Ovary"	"27040"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Vulva"	"27060"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	44
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	78
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	149
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	129
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	297
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	167
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	455
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	179
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	529
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	99
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	379
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	62
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	210
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	101
+	"Male Genital System"	"28010-28040"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	82
+	"Male Genital System"	"28010-28040"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Male Genital System"	"28010-28040"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Male Genital System"	"28010-28040"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Male Genital System"	"28010-28040"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	46
+	"Male Genital System"	"28010-28040"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Male Genital System"	"28010-28040"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	47
+	"Male Genital System"	"28010-28040"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"Male Genital System"	"28010-28040"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	32
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	78
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	142
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	128
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	292
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	167
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	450
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	177
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	526
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	98
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	378
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	62
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	209
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	97
+	"Prostate"	"28010"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	80
+	"Prostate"	"28010"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Prostate"	"28010"	"Durham-Chapel Hill, NC"	"20500"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Prostate"	"28010"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Prostate"	"28010"	"Durham-Chapel Hill, NC"	"20500"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	46
+	"Prostate"	"28010"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Prostate"	"28010"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Prostate"	"28010"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"Prostate"	"28010"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	74
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	37
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	121
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	55
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	142
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	68
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	183
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	64
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	194
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	62
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	144
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	49
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	111
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	61
+	"Urinary System"	"29010-29040"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	147
+	"Urinary System"	"29010-29040"	"Durham-Chapel Hill, NC"	"20500"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Durham-Chapel Hill, NC"	"20500"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Durham-Chapel Hill, NC"	"20500"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Durham-Chapel Hill, NC"	"20500"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Durham-Chapel Hill, NC"	"20500"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	72
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	80
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	108
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	128
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	115
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	89
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	39
+	"Urinary Bladder, invasive and in situ"	"29010"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	113
+	"Urinary Bladder, invasive and in situ"	"29010"	"Durham-Chapel Hill, NC"	"20500"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	40
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	47
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	59
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	71
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	59
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"Brain and Other Nervous System"	"31010-31040"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Brain and Other Nervous System"	"31010-31040"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Brain"	"31010"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Brain"	"31010"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	24
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	35
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	44
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	44
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	50
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	43
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	24
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	35
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	44
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	44
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	48
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	42
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	36
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	50
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	45
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	70
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	61
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	55
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	48
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	78
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	52
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	46
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	45
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	50
+	"Lymphomas"	"33011-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	36
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	45
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	68
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	60
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	46
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	76
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	37
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	51
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	46
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	43
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	49
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	37
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	44
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	36
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	49
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"NHL - Nodal"	"33041"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"NHL - Extranodal"	"33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"NHL - Extranodal"	"33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"NHL - Extranodal"	"33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"NHL - Extranodal"	"33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Extranodal"	"33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Extranodal"	"33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"NHL - Extranodal"	"33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"NHL - Extranodal"	"33042"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Myeloma"	"34000"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Myeloma"	"34000"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Myeloma"	"34000"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Myeloma"	"34000"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Myeloma"	"34000"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Myeloma"	"34000"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Myeloma"	"34000"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Myeloma"	"34000"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	43
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	50
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	34
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	43
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	38
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Leukemias"	"35011-35043"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Chronic Lymphocytic Leukemia"	"35012"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Chronic Lymphocytic Leukemia"	"35012"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Chronic Lymphocytic Leukemia"	"35012"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Chronic Lymphocytic Leukemia"	"35012"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Acute Myeloid Leukemia"	"35021"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Acute Myeloid Leukemia"	"35021"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	42
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	50
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	35
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	55
+	"Miscellaneous"	"37000"	"Detroit-Warren-Dearborn, MI"	"19820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	52
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	41
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	81
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	92
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	93
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	91
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	87
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	41
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	81
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	92
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	93
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	91
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	87
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Detroit-Warren-Dearborn, MI"	"19820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Detroit-Warren-Dearborn, MI (19820); Durham-Chapel Hill, NC (20500)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 9:27:40 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 9:27:40 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. These MSAs are missing data for the indicated years: Boise City, ID 1999-2002; Cape Coral-Fort Myers, FL 1999-2003;"
+"Chattanooga, TN-GA 1999-2005; Deltona-Daytona Beach-Ormond Beach, FL 1999-2000; Denver-Aurora-Lakewood, CO 1999-2001;"
+"Durham-Chapel Hill, NC 1999-2003; Fayetteville, NC 1999-2011; Fayetteville-Springdale-Rogers, AR-MO 1999-2015; Jackson, MS"
+"1999-2002; Kansas City, MO-KS 1999-2017; Lakeland-Winter Haven, FL 1999-2001; Lancaster, PA 1999-2005; Lexington-Fayette, KY"
+"1999-2014; Little Rock-North Little Rock-Conway, AR 1999-2000; Memphis, TN-MS-AR 1999-2002; Minneapolis-St. Paul-Bloomington,"
+"MN-WI 1999-2017; Modesto, CA 1999-2004; Ogden-Clearfield, UT 1999-2001; Palm Bay-Melbourne-Titusville, FL 1999-2002;"
+"Portland-South Portland, ME 1999-2001; Provo-Orem, UT 1999-2008; Santa Rosa, CA 1999-2014; Spokane-Spokane Valley, WA 1999-2007;"
+"Urban Honolulu, HI 1999; Wichita, KS 1999-2017."
+"6. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"7. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"8. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

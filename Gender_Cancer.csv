@@ -1,0 +1,60 @@
+﻿Cancer_Sites,Sex,Sex_Code,Count
+Male and Female Breast,Female,F,232021.0
+Male Genital System,Male,M,194895.0
+Lung and Bronchus,Male,M,106290.0
+Lung and Bronchus,Female,F,98618.0
+Urinary System,Male,M,91224.0
+Female Genital System,Female,F,88391.0
+Colon and Rectum,Male,M,63389.0
+Colon and Rectum,Female,F,57060.0
+Skin excluding Basal and Squamous,Male,M,46540.0
+"Male and Female Breast, In Situ",Female,F,45133.0
+Urinary System,Female,F,33349.0
+Lymphomas,Male,M,32223.0
+Skin excluding Basal and Squamous,Female,F,27848.0
+Endocrine System,Female,F,25865.0
+Lymphomas,Female,F,25424.0
+Oral Cavity and Pharynx,Male,M,25002.0
+Miscellaneous,Male,M,23739.0
+Miscellaneous,Female,F,20824.0
+Leukemias,Male,M,20387.0
+Pancreas,Male,M,18313.0
+Liver and Intrahepatic Bile Duct,Male,M,16801.0
+Pancreas,Female,F,16512.0
+Leukemias,Female,F,12721.0
+Esophagus,Male,M,8722.0
+Myeloma,Male,M,8573.0
+Stomach,Male,M,8221.0
+Endocrine System,Male,M,7231.0
+Oral Cavity and Pharynx,Female,F,7012.0
+Brain and Other Nervous System,Male,M,6250.0
+Myeloma,Female,F,6201.0
+Larynx,Male,M,5389.0
+Liver and Intrahepatic Bile Duct,Female,F,4619.0
+Brain and Other Nervous System,Female,F,4364.0
+Stomach,Female,F,4191.0
+Soft Tissue including Heart,Male,M,2493.0
+Small Intestine,Male,M,2014.0
+Soft Tissue including Heart,Female,F,1709.0
+Small Intestine,Female,F,1630.0
+Esophagus,Female,F,1477.0
+Other Biliary,Male,M,1307.0
+Other Biliary,Female,F,1053.0
+Larynx,Female,F,1052.0
+Mesothelioma,Male,M,970.0
+Gallbladder,Female,F,877.0
+Male and Female Breast,Male,M,695.0
+"Peritoneum, Omentum and Mesentery",Female,F,545.0
+Bones and Joints,Male,M,538.0
+Eye and Orbit,Male,M,501.0
+"Nose, Nasal Cavity and Middle Ear",Male,M,478.0
+Eye and Orbit,Female,F,438.0
+Other Digestive Organs,Male,M,399.0
+Gallbladder,Male,M,379.0
+Other Digestive Organs,Female,F,372.0
+Bones and Joints,Female,F,369.0
+"Nose, Nasal Cavity and Middle Ear",Female,F,240.0
+Mesothelioma,Female,F,240.0
+Retroperitoneum,Male,M,146.0
+Retroperitoneum,Female,F,109.0
+"Trachea, Mediastinum and Other Respiratory Organs",Male,M,16.0

@@ -1,0 +1,160 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	63
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	64
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	103
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	112
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	143
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	126
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	146
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	177
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	118
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	156
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	117
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	97
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	80
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	81
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	98
+	"All Invasive Cancer Sites Combined"	"0"	"Modesto, CA"	"33700"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	75
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Modesto, CA"	"33700"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Respiratory System"	"22010-22060"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Modesto, CA"	"33700"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Modesto, CA"	"33700"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Modesto, CA"	"33700"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Lung and Bronchus"	"22030"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Modesto, CA"	"33700"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Modesto, CA"	"33700"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"Modesto, CA"	"33700"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Modesto, CA"	"33700"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast"	"26000"	"Modesto, CA"	"33700"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Male and Female Breast"	"26000"	"Modesto, CA"	"33700"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Male and Female Breast"	"26000"	"Modesto, CA"	"33700"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Male and Female Breast"	"26000"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast"	"26000"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast"	"26000"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast"	"26000"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Male and Female Breast"	"26000"	"Modesto, CA"	"33700"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast"	"26000-Female"	"Modesto, CA"	"33700"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast"	"26000-Female"	"Modesto, CA"	"33700"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Breast"	"26000-Female"	"Modesto, CA"	"33700"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast"	"26000-Female"	"Modesto, CA"	"33700"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Breast"	"26000-Female"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast"	"26000-Female"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast"	"26000-Female"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast"	"26000-Female"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast"	"26000-Female"	"Modesto, CA"	"33700"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Modesto, CA"	"33700"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Male Genital System"	"28010-28040"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Male Genital System"	"28010-28040"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Male Genital System"	"28010-28040"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Male Genital System"	"28010-28040"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Prostate"	"28010"	"Modesto, CA"	"33700"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Prostate"	"28010"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Prostate"	"28010"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Prostate"	"28010"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Prostate"	"28010"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Modesto, CA"	"33700"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Modesto, CA"	"33700"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Modesto, CA"	"33700"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Modesto, CA"	"33700"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Minneapolis-St. Paul-Bloomington, MN-WI (33460); Modesto, CA (33700)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 1:03:57 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 1:03:57 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. 'Missing' is displayed for a combination of states/territories/MSAs and years that did not meet the United States Cancer"
+"Statistics (USCS) publication standard or did not allow permission for their data to be used."
+"4. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"5. Age-adjusted rates are not available when results are grouped by age."
+"6. These MSAs are missing data for the indicated years: Boise City, ID 1999-2002; Cape Coral-Fort Myers, FL 1999-2003;"
+"Chattanooga, TN-GA 1999-2005; Deltona-Daytona Beach-Ormond Beach, FL 1999-2000; Denver-Aurora-Lakewood, CO 1999-2001;"
+"Durham-Chapel Hill, NC 1999-2003; Fayetteville, NC 1999-2011; Fayetteville-Springdale-Rogers, AR-MO 1999-2015; Jackson, MS"
+"1999-2002; Kansas City, MO-KS 1999-2017; Lakeland-Winter Haven, FL 1999-2001; Lancaster, PA 1999-2005; Lexington-Fayette, KY"
+"1999-2014; Little Rock-North Little Rock-Conway, AR 1999-2000; Memphis, TN-MS-AR 1999-2002; Minneapolis-St. Paul-Bloomington,"
+"MN-WI 1999-2017; Modesto, CA 1999-2004; Ogden-Clearfield, UT 1999-2001; Palm Bay-Melbourne-Titusville, FL 1999-2002;"
+"Portland-South Portland, ME 1999-2001; Provo-Orem, UT 1999-2008; Santa Rosa, CA 1999-2014; Spokane-Spokane Valley, WA 1999-2007;"
+"Urban Honolulu, HI 1999; Wichita, KS 1999-2017."
+"7. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"8. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"9. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

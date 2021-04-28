@@ -1,0 +1,227 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	65
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	97
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	154
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	93
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	170
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	167
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	205
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	243
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	231
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	273
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	229
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	251
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	182
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	202
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	145
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	114
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	150
+	"All Invasive Cancer Sites Combined"	"0"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	124
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	36
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	49
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Digestive System"	"21010-21130"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	46
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	39
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	54
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	58
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	45
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	50
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Respiratory System"	"22010-22060"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	44
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	48
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	54
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	43
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	48
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Male and Female Breast"	"26000"	"Winston-Salem, NC"	"49180"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Male and Female Breast"	"26000"	"Winston-Salem, NC"	"49180"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	39
+	"Male and Female Breast"	"26000"	"Winston-Salem, NC"	"49180"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	52
+	"Male and Female Breast"	"26000"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	61
+	"Male and Female Breast"	"26000"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Male and Female Breast"	"26000"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast"	"26000"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	76
+	"Male and Female Breast"	"26000"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	85
+	"Male and Female Breast"	"26000"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	48
+	"Male and Female Breast"	"26000"	"Winston-Salem, NC"	"49180"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"Male and Female Breast"	"26000"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast"	"26000-Female"	"Winston-Salem, NC"	"49180"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast"	"26000-Female"	"Winston-Salem, NC"	"49180"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Breast"	"26000-Female"	"Winston-Salem, NC"	"49180"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Breast"	"26000-Female"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	61
+	"Female Breast"	"26000-Female"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Female Breast"	"26000-Female"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast"	"26000-Female"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	76
+	"Female Breast"	"26000-Female"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	85
+	"Female Breast"	"26000-Female"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	48
+	"Female Breast"	"26000-Female"	"Winston-Salem, NC"	"49180"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Breast"	"26000-Female"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Genital System"	"27010-27070"	"Winston-Salem, NC"	"49180"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Genital System"	"27010-27070"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Genital System"	"27010-27070"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Genital System"	"27010-27070"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Corpus Uteri"	"27020"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Corpus Uteri"	"27020"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Corpus Uteri"	"27020"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Male Genital System"	"28010-28040"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	58
+	"Male Genital System"	"28010-28040"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Male Genital System"	"28010-28040"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	70
+	"Male Genital System"	"28010-28040"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Male Genital System"	"28010-28040"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"Male Genital System"	"28010-28040"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Male Genital System"	"28010-28040"	"Winston-Salem, NC"	"49180"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Prostate"	"28010"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Prostate"	"28010"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	58
+	"Prostate"	"28010"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Prostate"	"28010"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	70
+	"Prostate"	"28010"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Prostate"	"28010"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"Prostate"	"28010"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Prostate"	"28010"	"Winston-Salem, NC"	"49180"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Winston-Salem, NC"	"49180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Urinary System"	"29010-29040"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"Urinary System"	"29010-29040"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary System"	"29010-29040"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"Winston-Salem, NC"	"49180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary Bladder, invasive and in situ"	"29010"	"Winston-Salem, NC"	"49180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"Winston-Salem, NC"	"49180"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Winston-Salem, NC"	"49180"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Winston-Salem, NC"	"49180"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Winston-Salem, NC"	"49180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Winston-Salem, NC"	"49180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Wichita, KS (48620); Winston-Salem, NC (49180)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 6:01:21 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 6:01:21 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. 'Missing' is displayed for a combination of states/territories/MSAs and years that did not meet the United States Cancer"
+"Statistics (USCS) publication standard or did not allow permission for their data to be used."
+"4. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"5. Age-adjusted rates are not available when results are grouped by age."
+"6. These MSAs are missing data for the indicated years: Boise City, ID 1999-2002; Cape Coral-Fort Myers, FL 1999-2003;"
+"Chattanooga, TN-GA 1999-2005; Deltona-Daytona Beach-Ormond Beach, FL 1999-2000; Denver-Aurora-Lakewood, CO 1999-2001;"
+"Durham-Chapel Hill, NC 1999-2003; Fayetteville, NC 1999-2011; Fayetteville-Springdale-Rogers, AR-MO 1999-2015; Jackson, MS"
+"1999-2002; Kansas City, MO-KS 1999-2017; Lakeland-Winter Haven, FL 1999-2001; Lancaster, PA 1999-2005; Lexington-Fayette, KY"
+"1999-2014; Little Rock-North Little Rock-Conway, AR 1999-2000; Memphis, TN-MS-AR 1999-2002; Minneapolis-St. Paul-Bloomington,"
+"MN-WI 1999-2017; Modesto, CA 1999-2004; Ogden-Clearfield, UT 1999-2001; Palm Bay-Melbourne-Titusville, FL 1999-2002;"
+"Portland-South Portland, ME 1999-2001; Provo-Orem, UT 1999-2008; Santa Rosa, CA 1999-2014; Spokane-Spokane Valley, WA 1999-2007;"
+"Urban Honolulu, HI 1999; Wichita, KS 1999-2017."
+"7. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"8. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"9. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

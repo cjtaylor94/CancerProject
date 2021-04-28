@@ -1,0 +1,440 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	50
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	86
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	122
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	76
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	202
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	176
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	218
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	248
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	292
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	312
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	283
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	371
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	248
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	331
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	210
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	275
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	169
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	193
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	172
+	"All Invasive Cancer Sites Combined"	"0"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	178
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	63
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	87
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	138
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	112
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	61
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	143
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	65
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	173
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	63
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	205
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	82
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	226
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	72
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	258
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	89
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	330
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	243
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	65
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	276
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	172
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	208
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	126
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	164
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	149
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	129
+	"Oral Cavity and Pharynx"	"20010-20100"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	38
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	60
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	49
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	63
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	38
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Digestive System"	"21010-21130"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	44
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	49
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	37
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon excluding Rectum"	"21041-21049"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	56
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	49
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	75
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	49
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	55
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	51
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	45
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	43
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	57
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	45
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	62
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	50
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	37
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	54
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	42
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	41
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	73
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	49
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	54
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	34
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	48
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	53
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	44
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	54
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Melanoma of the Skin"	"25010"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Male and Female Breast"	"26000"	"Grand Rapids-Wyoming, MI"	"24340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	39
+	"Male and Female Breast"	"26000"	"Grand Rapids-Wyoming, MI"	"24340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	48
+	"Male and Female Breast"	"26000"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	82
+	"Male and Female Breast"	"26000"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	72
+	"Male and Female Breast"	"26000"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	91
+	"Male and Female Breast"	"26000"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	97
+	"Male and Female Breast"	"26000"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	75
+	"Male and Female Breast"	"26000"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	57
+	"Male and Female Breast"	"26000"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	46
+	"Male and Female Breast"	"26000"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	45
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	25
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	46
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	47
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	49
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	81
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	82
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	69
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	52
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast"	"26000"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast"	"26000-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Breast"	"26000-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	48
+	"Female Breast"	"26000-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	82
+	"Female Breast"	"26000-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	72
+	"Female Breast"	"26000-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	91
+	"Female Breast"	"26000-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	97
+	"Female Breast"	"26000-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	75
+	"Female Breast"	"26000-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	57
+	"Female Breast"	"26000-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	46
+	"Female Breast"	"26000-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	45
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	46
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	81
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	82
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	69
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast"	"26000-Female"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Genital System"	"27010-27070"	"Grand Rapids-Wyoming, MI"	"24340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Genital System"	"27010-27070"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Genital System"	"27010-27070"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Genital System"	"27010-27070"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Genital System"	"27010-27070"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Genital System"	"27010-27070"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Genital System"	"27010-27070"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Corpus Uteri"	"27020"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Corpus Uteri"	"27020"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Corpus Uteri"	"27020"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Corpus Uteri"	"27020"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Corpus Uteri"	"27020"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Corpus Uteri"	"27020"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Male Genital System"	"28010-28040"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Male Genital System"	"28010-28040"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	70
+	"Male Genital System"	"28010-28040"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	86
+	"Male Genital System"	"28010-28040"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	107
+	"Male Genital System"	"28010-28040"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	77
+	"Male Genital System"	"28010-28040"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	56
+	"Male Genital System"	"28010-28040"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	43
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	60
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	99
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	67
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	44
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Male Genital System"	"28010-28040"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Prostate"	"28010"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Prostate"	"28010"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	66
+	"Prostate"	"28010"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	85
+	"Prostate"	"28010"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	104
+	"Prostate"	"28010"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	77
+	"Prostate"	"28010"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	56
+	"Prostate"	"28010"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Prostate"	"28010"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	42
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	60
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	98
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	66
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	42
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Prostate"	"28010"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary System"	"29010-29040"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Urinary System"	"29010-29040"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary System"	"29010-29040"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Urinary System"	"29010-29040"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	42
+	"Urinary System"	"29010-29040"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"Urinary System"	"29010-29040"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary System"	"29010-29040"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Urinary System"	"29010-29040"	"Greensboro-High Point, NC"	"24660"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Greensboro-High Point, NC"	"24660"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Greensboro-High Point, NC"	"24660"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary Bladder, invasive and in situ"	"29010"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary Bladder, invasive and in situ"	"29010"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"Grand Rapids-Wyoming, MI"	"24340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Urinary Bladder, invasive and in situ"	"29010"	"Grand Rapids-Wyoming, MI"	"24340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	33
+	"Urinary Bladder, invasive and in situ"	"29010"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Greensboro-High Point, NC"	"24660"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Grand Rapids-Wyoming, MI"	"24340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Grand Rapids-Wyoming, MI"	"24340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Greensboro-High Point, NC"	"24660"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Grand Rapids-Wyoming, MI"	"24340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Greensboro-High Point, NC"	"24660"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Greensboro-High Point, NC"	"24660"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Greensboro-High Point, NC"	"24660"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Greensboro-High Point, NC"	"24660"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Grand Rapids-Wyoming, MI (24340); Greensboro-High Point, NC (24660)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 10:17:00 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 10:17:00 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

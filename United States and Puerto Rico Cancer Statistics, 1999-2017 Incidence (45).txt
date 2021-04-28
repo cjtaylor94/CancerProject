@@ -1,0 +1,940 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	30
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	27
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	42
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"25-29 years"	"25-29"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	26
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	80
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"25-29 years"	"25-29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	24
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	69
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	62
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	133
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	28
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	97
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	86
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	169
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	33
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	119
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	124
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	263
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	140
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	181
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	459
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	235
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	90
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	560
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	68
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	484
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	24
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	119
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	774
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	123
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	749
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	34
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	142
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	821
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	22
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	166
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1016
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	47
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	134
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1033
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	218
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1250
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	57
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	120
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	949
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	17
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	130
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1065
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	47
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	104
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	774
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	87
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	852
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	24
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	61
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	613
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	632
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	96
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	798
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"All Invasive Cancer Sites Combined"	"0"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	747
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	37
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	39
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	66
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	43
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	108
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	57
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	161
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	96
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	209
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	179
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	300
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	297
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	333
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	364
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	335
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	446
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	336
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	358
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	293
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	297
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	245
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	256
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	288
+	"All Invasive Cancer Sites Combined"	"0"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	267
+	"Oral Cavity and Pharynx"	"20010-20100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Oral Cavity and Pharynx"	"20010-20100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	49
+	"Oral Cavity and Pharynx"	"20010-20100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	50
+	"Oral Cavity and Pharynx"	"20010-20100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	56
+	"Oral Cavity and Pharynx"	"20010-20100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Oral Cavity and Pharynx"	"20010-20100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Oral Cavity and Pharynx"	"20010-20100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Oral Cavity and Pharynx"	"20010-20100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Oral Cavity and Pharynx"	"20010-20100"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Tongue"	"20020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Tongue"	"20020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Tonsil"	"20070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Tonsil"	"20070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	20
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	43
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	63
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	77
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	123
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	96
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	154
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	112
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	51
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	232
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	170
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	255
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	150
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	161
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	140
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	159
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	130
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	134
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	200
+	"Digestive System"	"21010-21130"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	135
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	56
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	49
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	71
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	81
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	51
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	87
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	49
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	53
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	58
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	68
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	37
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	70
+	"Digestive System"	"21010-21130"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	49
+	"Esophagus"	"21010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Esophagus"	"21010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Esophagus"	"21010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Stomach"	"21020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Stomach"	"21020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Stomach"	"21020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Stomach"	"21020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Stomach"	"21020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Stomach"	"21020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Stomach"	"21020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	41
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	49
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	62
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	46
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	76
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	48
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	79
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	75
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	104
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	66
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	64
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	56
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	55
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	59
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	59
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	97
+	"Colon and Rectum"	"21041-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	59
+	"Colon and Rectum"	"21041-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	35
+	"Colon and Rectum"	"21041-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Colon and Rectum"	"21041-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Colon and Rectum"	"21041-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	40
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	53
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	50
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	74
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	53
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	48
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	48
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	42
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	54
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	44
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	75
+	"Colon excluding Rectum"	"21041-21049"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	47
+	"Colon excluding Rectum"	"21041-21049"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Colon excluding Rectum"	"21041-21049"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Cecum"	"21041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Cecum"	"21041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Cecum"	"21041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Cecum"	"21041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Cecum"	"21041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Ascending Colon"	"21043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Ascending Colon"	"21043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Sigmoid Colon"	"21048"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Sigmoid Colon"	"21048"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Sigmoid Colon"	"21048"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	36
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectum"	"21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum"	"21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum"	"21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum"	"21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Rectum"	"21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Rectum"	"21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum"	"21052"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum"	"21052"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	54
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	48
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver"	"21071"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver"	"21071"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver"	"21071"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Liver"	"21071"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	50
+	"Liver"	"21071"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Liver"	"21071"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Liver"	"21071"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Liver"	"21071"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver"	"21071"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver"	"21071"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Liver"	"21071"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	39
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	31
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Pancreas"	"21100"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Pancreas"	"21100"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	52
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	89
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	108
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	106
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	117
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	139
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	126
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	118
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	100
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	83
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	108
+	"Respiratory System"	"22010-22060"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	95
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	49
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	48
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	38
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	43
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	45
+	"Respiratory System"	"22010-22060"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	39
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	50
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	40
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	85
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	106
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	98
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	114
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	125
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	122
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	110
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	99
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	77
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	103
+	"Lung and Bronchus"	"22030"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	91
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	46
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	37
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	42
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	45
+	"Lung and Bronchus"	"22030"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	30
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	44
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	40
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	58
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	59
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	98
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	71
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	87
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	60
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	110
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	57
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	127
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	85
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	76
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	53
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	102
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	37
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	42
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	50
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	43
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	25
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	41
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	54
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	57
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	95
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	67
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	84
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	56
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	101
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	55
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	121
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	74
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	59
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	47
+	"Melanoma of the Skin"	"25010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	90
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	36
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	44
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	34
+	"Other Non-Epithelial Skin"	"25020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	21
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	36
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	57
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	62
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	125
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	88
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	217
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	245
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	300
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	307
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	334
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	287
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	211
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	146
+	"Male and Female Breast"	"26000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	152
+	"Male and Female Breast"	"26000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	25
+	"Male and Female Breast"	"26000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	51
+	"Male and Female Breast"	"26000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	88
+	"Male and Female Breast"	"26000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	86
+	"Male and Female Breast"	"26000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	98
+	"Male and Female Breast"	"26000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	112
+	"Male and Female Breast"	"26000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	115
+	"Male and Female Breast"	"26000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	122
+	"Male and Female Breast"	"26000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	66
+	"Male and Female Breast"	"26000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	49
+	"Male and Female Breast"	"26000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	21
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	36
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	57
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	62
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	125
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	88
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	217
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	245
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	300
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	307
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	334
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	287
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	211
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	146
+	"Female Breast"	"26000-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	152
+	"Female Breast"	"26000-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast"	"26000-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Breast"	"26000-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	88
+	"Female Breast"	"26000-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	86
+	"Female Breast"	"26000-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	98
+	"Female Breast"	"26000-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	112
+	"Female Breast"	"26000-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	115
+	"Female Breast"	"26000-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	122
+	"Female Breast"	"26000-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	66
+	"Female Breast"	"26000-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Breast"	"26000-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	17
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	32
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	54
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	73
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	113
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	121
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	151
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	120
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	74
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	68
+	"Female Genital System"	"27010-27070"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	65
+	"Female Genital System"	"27010-27070"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Genital System"	"27010-27070"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Genital System"	"27010-27070"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Genital System"	"27010-27070"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	54
+	"Female Genital System"	"27010-27070"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Genital System"	"27010-27070"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Genital System"	"27010-27070"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Genital System"	"27010-27070"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	17
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	78
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	81
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	100
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	79
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Corpus Uteri"	"27020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Corpus Uteri"	"27020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	37
+	"Corpus Uteri"	"27020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Corpus Uteri"	"27020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Corpus Uteri"	"27020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Ovary"	"27040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Ovary"	"27040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Ovary"	"27040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Ovary"	"27040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Ovary"	"27040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Ovary"	"27040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Ovary"	"27040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Ovary"	"27040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	24
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	26
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	33
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	107
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	190
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	54
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	284
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	31
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	90
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	375
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	38
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	281
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	31
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	161
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	86
+	"Male Genital System"	"28010-28040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	87
+	"Male Genital System"	"28010-28040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	32
+	"Male Genital System"	"28010-28040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	76
+	"Male Genital System"	"28010-28040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	101
+	"Male Genital System"	"28010-28040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	146
+	"Male Genital System"	"28010-28040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	83
+	"Male Genital System"	"28010-28040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	63
+	"Male Genital System"	"28010-28040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	43
+	"Male Genital System"	"28010-28040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	101
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	187
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	54
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	281
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	31
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	89
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	371
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	38
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	279
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	30
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	157
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	84
+	"Prostate"	"28010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	80
+	"Prostate"	"28010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Prostate"	"28010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	72
+	"Prostate"	"28010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	100
+	"Prostate"	"28010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	144
+	"Prostate"	"28010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	82
+	"Prostate"	"28010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	58
+	"Prostate"	"28010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	42
+	"Prostate"	"28010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"Testis"	"28020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	17
+	"Testis"	"28020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	24
+	"Testis"	"28020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	42
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	68
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	96
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	127
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	50
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	135
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	51
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	134
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	33
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	111
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	48
+	"Urinary System"	"29010-29040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	134
+	"Urinary System"	"29010-29040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"Urinary System"	"29010-29040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	47
+	"Urinary System"	"29010-29040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	49
+	"Urinary System"	"29010-29040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Urinary System"	"29010-29040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	44
+	"Urinary System"	"29010-29040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	45
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	69
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	88
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	79
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	80
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	102
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	38
+	"Urinary Bladder, invasive and in situ"	"29010"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	51
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	57
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	51
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Kidney and Renal Pelvis"	"29020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	25
+	"Kidney and Renal Pelvis"	"29020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Brain and Other Nervous System"	"31010-31040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Brain and Other Nervous System"	"31010-31040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Brain and Other Nervous System"	"31010-31040"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Brain"	"31010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Brain"	"31010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Brain"	"31010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	28
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	17
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	22
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	16
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	24
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	39
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	30
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	28
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	16
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	22
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	16
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	24
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Thyroid"	"32010"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	57
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	57
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	48
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	62
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	47
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	60
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	42
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	33
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	41
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	45
+	"Lymphomas"	"33011-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	49
+	"Lymphomas"	"33011-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Lymphomas"	"33011-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	54
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	52
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	45
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	60
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	45
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	58
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	41
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	32
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	41
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	48
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	37
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	37
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	42
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"NHL - Nodal"	"33041"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Nodal"	"33041"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"NHL - Extranodal"	"33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"NHL - Extranodal"	"33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"NHL - Extranodal"	"33042"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Myeloma"	"34000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Myeloma"	"34000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Myeloma"	"34000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	38
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	35
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	41
+	"Leukemias"	"35011-35043"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Chronic Lymphocytic Leukemia"	"35012"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Chronic Lymphocytic Leukemia"	"35012"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Chronic Lymphocytic Leukemia"	"35012"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Acute Myeloid Leukemia"	"35021"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Acute Myeloid Leukemia"	"35021"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Miscellaneous"	"37000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Miscellaneous"	"37000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Miscellaneous"	"37000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Miscellaneous"	"37000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Miscellaneous"	"37000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	31
+	"Miscellaneous"	"37000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Miscellaneous"	"37000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	63
+	"Miscellaneous"	"37000"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	46
+	"Miscellaneous"	"37000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Miscellaneous"	"37000"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	42
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	64
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	64
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	72
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	83
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	79
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	67
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	42
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	64
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	64
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	72
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	83
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	79
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	67
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Francisco-Oakland-Hayward, CA"	"41860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: San Francisco-Oakland-Hayward, CA (41860); San Jose-Sunnyvale-Santa Clara, CA (41940)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 3:02:13 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 3:02:13 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

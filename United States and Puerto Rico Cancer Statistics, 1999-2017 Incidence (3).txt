@@ -1,0 +1,462 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	54
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	171
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	83
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	235
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	141
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	329
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	229
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	359
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	356
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	430
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	61
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	514
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	466
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	51
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	590
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	379
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	415
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	309
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	305
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	181
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	197
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	241
+	"All Invasive Cancer Sites Combined"	"0"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	211
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	59
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	75
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	129
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	99
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	148
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	152
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	164
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	207
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	171
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	220
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	180
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	205
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	108
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	148
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	87
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	117
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	102
+	"All Invasive Cancer Sites Combined"	"0"	"Bakersfield, CA"	"12540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	89
+	"Oral Cavity and Pharynx"	"20010-20100"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Oral Cavity and Pharynx"	"20010-20100"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Oral Cavity and Pharynx"	"20010-20100"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Oral Cavity and Pharynx"	"20010-20100"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Tongue"	"20020"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	74
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	57
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	70
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	70
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	115
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	72
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	121
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	58
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	71
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	57
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	62
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	60
+	"Digestive System"	"21010-21130"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	43
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Bakersfield, CA"	"12540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	34
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	39
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Bakersfield, CA"	"12540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Liver"	"21071"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver"	"21071"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Liver"	"21071"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	41
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	53
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	74
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	61
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	55
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	57
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	37
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Respiratory System"	"22010-22060"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Respiratory System"	"22010-22060"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Respiratory System"	"22010-22060"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Bakersfield, CA"	"12540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Bakersfield, CA"	"12540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	48
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	67
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	59
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	53
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	55
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Lung and Bronchus"	"22030"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Lung and Bronchus"	"22030"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Lung and Bronchus"	"22030"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Bakersfield, CA"	"12540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Melanoma of the Skin"	"25010"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	23
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	68
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	101
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	148
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	136
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	148
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	161
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	145
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	71
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast"	"26000"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	52
+	"Male and Female Breast"	"26000"	"Bakersfield, CA"	"12540"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Male and Female Breast"	"26000"	"Bakersfield, CA"	"12540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Male and Female Breast"	"26000"	"Bakersfield, CA"	"12540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	39
+	"Male and Female Breast"	"26000"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	50
+	"Male and Female Breast"	"26000"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Male and Female Breast"	"26000"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	52
+	"Male and Female Breast"	"26000"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	65
+	"Male and Female Breast"	"26000"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Male and Female Breast"	"26000"	"Bakersfield, CA"	"12540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast"	"26000"	"Bakersfield, CA"	"12540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	68
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	101
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	148
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	136
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	148
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	161
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	145
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	71
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast"	"26000-Female"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Breast"	"26000-Female"	"Bakersfield, CA"	"12540"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Breast"	"26000-Female"	"Bakersfield, CA"	"12540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast"	"26000-Female"	"Bakersfield, CA"	"12540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Breast"	"26000-Female"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	50
+	"Female Breast"	"26000-Female"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Female Breast"	"26000-Female"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Breast"	"26000-Female"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	65
+	"Female Breast"	"26000-Female"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast"	"26000-Female"	"Bakersfield, CA"	"12540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast"	"26000-Female"	"Bakersfield, CA"	"12540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Genital System"	"27010-27070"	"Austin-Round Rock, TX"	"12420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Genital System"	"27010-27070"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Genital System"	"27010-27070"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Genital System"	"27010-27070"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	53
+	"Female Genital System"	"27010-27070"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	62
+	"Female Genital System"	"27010-27070"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Genital System"	"27010-27070"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	74
+	"Female Genital System"	"27010-27070"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Genital System"	"27010-27070"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Genital System"	"27010-27070"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Genital System"	"27010-27070"	"Bakersfield, CA"	"12540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Genital System"	"27010-27070"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Genital System"	"27010-27070"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Corpus Uteri"	"27020"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	34
+	"Corpus Uteri"	"27020"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	40
+	"Corpus Uteri"	"27020"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"Corpus Uteri"	"27020"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	48
+	"Corpus Uteri"	"27020"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Bakersfield, CA"	"12540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Corpus Uteri"	"27020"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	49
+	"Male Genital System"	"28010-28040"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	85
+	"Male Genital System"	"28010-28040"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	142
+	"Male Genital System"	"28010-28040"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Male Genital System"	"28010-28040"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	173
+	"Male Genital System"	"28010-28040"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	118
+	"Male Genital System"	"28010-28040"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	72
+	"Male Genital System"	"28010-28040"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Male Genital System"	"28010-28040"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Male Genital System"	"28010-28040"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	42
+	"Male Genital System"	"28010-28040"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	56
+	"Male Genital System"	"28010-28040"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	78
+	"Male Genital System"	"28010-28040"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	52
+	"Male Genital System"	"28010-28040"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Male Genital System"	"28010-28040"	"Bakersfield, CA"	"12540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Prostate"	"28010"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	45
+	"Prostate"	"28010"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	84
+	"Prostate"	"28010"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Prostate"	"28010"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	141
+	"Prostate"	"28010"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Prostate"	"28010"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	172
+	"Prostate"	"28010"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	118
+	"Prostate"	"28010"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	71
+	"Prostate"	"28010"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Prostate"	"28010"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Prostate"	"28010"	"Bakersfield, CA"	"12540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	41
+	"Prostate"	"28010"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	56
+	"Prostate"	"28010"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	78
+	"Prostate"	"28010"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"Prostate"	"28010"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Prostate"	"28010"	"Bakersfield, CA"	"12540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	40
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	68
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	69
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	61
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary System"	"29010-29040"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Bakersfield, CA"	"12540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Bakersfield, CA"	"12540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Bakersfield, CA"	"12540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Bakersfield, CA"	"12540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Bakersfield, CA"	"12540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Bakersfield, CA"	"12540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary Bladder, invasive and in situ"	"29010"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary Bladder, invasive and in situ"	"29010"	"Austin-Round Rock, TX"	"12420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary Bladder, invasive and in situ"	"29010"	"Bakersfield, CA"	"12540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Bakersfield, CA"	"12540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	37
+	"Kidney and Renal Pelvis"	"29020"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Kidney and Renal Pelvis"	"29020"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	30
+	"Endocrine System"	"32010-32020"	"Austin-Round Rock, TX"	"12420"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Austin-Round Rock, TX"	"12420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	22
+	"Endocrine System"	"32010-32020"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	26
+	"Endocrine System"	"32010-32020"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Thyroid"	"32010"	"Austin-Round Rock, TX"	"12420"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Austin-Round Rock, TX"	"12420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Thyroid"	"32010"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	22
+	"Thyroid"	"32010"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	26
+	"Thyroid"	"32010"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Austin-Round Rock, TX"	"12420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Austin-Round Rock, TX"	"12420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	29
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Austin-Round Rock, TX"	"12420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Austin-Round Rock, TX"	"12420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Austin-Round Rock, TX"	"12420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Austin-Round Rock, TX"	"12420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Austin-Round Rock, TX"	"12420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Austin-Round Rock, TX"	"12420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Austin-Round Rock, TX"	"12420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Austin-Round Rock, TX (12420); Bakersfield, CA (12540)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 24, 2021 5:23:32 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 24, 2021 5:23:32 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

@@ -1,0 +1,1165 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	66
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	67
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	112
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	74
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	171
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	51
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	97
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	108
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	277
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	114
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	246
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	171
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	326
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	177
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	375
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	169
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	395
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	225
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	451
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	171
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	383
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	217
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	546
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	118
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	406
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	149
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	452
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	314
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	116
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	360
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	77
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	254
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	73
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	256
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	83
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	240
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	215
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	103
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"25-29 years"	"25-29"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"25-29 years"	"25-29"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	77
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	61
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	144
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	91
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	112
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	233
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	87
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	166
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	310
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	54
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	140
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	226
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	457
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	141
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	245
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	356
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	676
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	285
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	504
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	73
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	449
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	879
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	56
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	465
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	805
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	98
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	520
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	923
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	56
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	566
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1007
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	113
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	497
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1038
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	591
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1170
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	359
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	859
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	377
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1030
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	50
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	299
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	688
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	262
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	776
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	187
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	565
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	154
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	537
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	179
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	598
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	116
+	"All Invasive Cancer Sites Combined"	"0"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	507
+	"Oral Cavity and Pharynx"	"20010-20100"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Oral Cavity and Pharynx"	"20010-20100"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Oral Cavity and Pharynx"	"20010-20100"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Oral Cavity and Pharynx"	"20010-20100"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Oral Cavity and Pharynx"	"20010-20100"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Oral Cavity and Pharynx"	"20010-20100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	44
+	"Oral Cavity and Pharynx"	"20010-20100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	53
+	"Oral Cavity and Pharynx"	"20010-20100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	59
+	"Oral Cavity and Pharynx"	"20010-20100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Oral Cavity and Pharynx"	"20010-20100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	40
+	"Oral Cavity and Pharynx"	"20010-20100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"Oral Cavity and Pharynx"	"20010-20100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Tongue"	"20020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Tongue"	"20020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Tongue"	"20020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Tongue"	"20020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Tongue"	"20020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Tonsil"	"20070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Tonsil"	"20070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Tonsil"	"20070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	62
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	57
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	90
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	55
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	82
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	51
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	71
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	70
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	48
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	49
+	"Digestive System"	"21010-21130"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	45
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	47
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	50
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	61
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	79
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	98
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	62
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	121
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	76
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	111
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	83
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	146
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	88
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	116
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	126
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	191
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	90
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	134
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	130
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	204
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	81
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	131
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	82
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	171
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	62
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	122
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	128
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	129
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	106
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	134
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Digestive System"	"21010-21130"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	100
+	"Esophagus"	"21010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Esophagus"	"21010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Stomach"	"21020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Stomach"	"21020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Stomach"	"21020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Stomach"	"21020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	32
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	34
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	56
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	63
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	73
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	53
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	77
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	60
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	81
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	37
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	55
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	57
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	57
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	64
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	70
+	"Colon and Rectum"	"21041-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	41
+	"Colon excluding Rectum"	"21041-21049"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon excluding Rectum"	"21041-21049"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon excluding Rectum"	"21041-21049"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon excluding Rectum"	"21041-21049"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	34
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	36
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	37
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	41
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	42
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	43
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	50
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	49
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	50
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	48
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	61
+	"Colon excluding Rectum"	"21041-21049"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	33
+	"Cecum"	"21041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Ascending Colon"	"21043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum"	"21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum"	"21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum"	"21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Rectum"	"21052"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver"	"21071"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver"	"21071"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Liver"	"21071"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver"	"21071"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Liver"	"21071"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Liver"	"21071"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Liver"	"21071"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	38
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	49
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	67
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	76
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	64
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	112
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	80
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	76
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	57
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	75
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	50
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	50
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	56
+	"Respiratory System"	"22010-22060"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	41
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	54
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	82
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	66
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	98
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	63
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	133
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	63
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	134
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	148
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	54
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	154
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	54
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	139
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	119
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	110
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	105
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	67
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	91
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Respiratory System"	"22010-22060"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	84
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	66
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	69
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	63
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	102
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	80
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	72
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	57
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	69
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	46
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	53
+	"Lung and Bronchus"	"22030"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	41
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	39
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	78
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	56
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	91
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	54
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	117
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	62
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	129
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	52
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	135
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	151
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	51
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	132
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	119
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	104
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	104
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	62
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	88
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	75
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	49
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	53
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	59
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	43
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	51
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	66
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	59
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	50
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	41
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	51
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	55
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Melanoma of the Skin"	"25010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	40
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	46
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	62
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	56
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	49
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	43
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	78
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	102
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	115
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	124
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	56
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	129
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	136
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	99
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	61
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast"	"26000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	49
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	75
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	23
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	93
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	131
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	114
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	211
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	26
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	146
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	275
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	170
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	315
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	180
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	331
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	18
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	147
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	369
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	91
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	260
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	106
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	168
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	121
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"Male and Female Breast"	"26000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	131
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	78
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	102
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	115
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	124
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	56
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	129
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	136
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	99
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	61
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast"	"26000-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	75
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	23
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	93
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	131
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	114
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	211
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	26
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	146
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	275
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	170
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	315
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	180
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	331
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	18
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	147
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	369
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	91
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	260
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	106
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	168
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	121
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"Female Breast"	"26000-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	131
+	"Female Genital System"	"27010-27070"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Genital System"	"27010-27070"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	55
+	"Female Genital System"	"27010-27070"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Female Genital System"	"27010-27070"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	53
+	"Female Genital System"	"27010-27070"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Female Genital System"	"27010-27070"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Genital System"	"27010-27070"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Genital System"	"27010-27070"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Genital System"	"27010-27070"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Genital System"	"27010-27070"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	74
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	155
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	79
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	144
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	86
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	146
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	113
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	72
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Genital System"	"27010-27070"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	43
+	"Corpus Uteri"	"27020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Corpus Uteri"	"27020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Corpus Uteri"	"27020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Corpus Uteri"	"27020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Corpus Uteri"	"27020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Corpus Uteri"	"27020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Corpus Uteri"	"27020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	37
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	99
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	59
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	95
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	89
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	69
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Corpus Uteri"	"27020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Ovary"	"27040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Ovary"	"27040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Ovary"	"27040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Ovary"	"27040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Ovary"	"27040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	40
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	70
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	92
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	93
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	113
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	80
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	137
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	93
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	59
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Male Genital System"	"28010-28040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	26
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	22
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	21
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	33
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	129
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	119
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	30
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	225
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	253
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	43
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	270
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	321
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	68
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	291
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	408
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	70
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	151
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	305
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	27
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	94
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	197
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	37
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	96
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Male Genital System"	"28010-28040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	86
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	40
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	70
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	89
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	93
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	112
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	80
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	136
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	48
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	93
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	59
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Prostate"	"28010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	26
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	129
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	111
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	30
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	225
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	248
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	43
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	269
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	320
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	68
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	289
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	403
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	70
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	150
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	304
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	27
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	93
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	194
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	37
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	96
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Prostate"	"28010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	83
+	"Testis"	"28020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	26
+	"Testis"	"28020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	47
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	64
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	63
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	49
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	38
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	53
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	79
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	106
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	137
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	46
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	156
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	116
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	101
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	49
+	"Urinary System"	"29010-29040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	92
+	"Urinary Bladder, invasive and in situ"	"29010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary Bladder, invasive and in situ"	"29010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Urinary Bladder, invasive and in situ"	"29010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary Bladder, invasive and in situ"	"29010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary Bladder, invasive and in situ"	"29010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	33
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	66
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	83
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	96
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	80
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	76
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	40
+	"Urinary Bladder, invasive and in situ"	"29010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	81
+	"Kidney and Renal Pelvis"	"29020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Kidney and Renal Pelvis"	"29020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Kidney and Renal Pelvis"	"29020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Kidney and Renal Pelvis"	"29020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	47
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	51
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	56
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Kidney and Renal Pelvis"	"29020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Brain and Other Nervous System"	"31010-31040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Brain and Other Nervous System"	"31010-31040"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Brain"	"31010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	32
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	42
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	61
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	47
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	53
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	71
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	55
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	32
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	42
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	58
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	47
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	52
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	71
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	57
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	53
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Thyroid"	"32010"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	47
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	38
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	37
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	48
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	48
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	61
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	36
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	48
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	46
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	60
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"NHL - Nodal"	"33041"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"NHL - Nodal"	"33041"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"NHL - Extranodal"	"33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Myeloma"	"34000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Myeloma"	"34000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Myeloma"	"34000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Myeloma"	"34000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Myeloma"	"34000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Myeloma"	"34000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Leukemias"	"35011-35043"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Leukemias"	"35011-35043"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	38
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	42
+	"Miscellaneous"	"37000"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	37
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	36
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	88
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	85
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	79
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	86
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	68
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	88
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	85
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	79
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	86
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	68
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Virginia Beach-Norfolk-Newport News, VA-NC (47260); Washington-Arlington-Alexandria, DC-VA-MD-WV (47900)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 5:52:01 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 5:52:01 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

@@ -1,0 +1,585 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	59
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	106
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	50
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	144
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	81
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	228
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	126
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	73
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	336
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	319
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	69
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	426
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	88
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	474
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	465
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	131
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	623
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	84
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	515
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	113
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	713
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	437
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	567
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	327
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	413
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	231
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	278
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	279
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	191
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	17
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	25
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	47
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	58
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	121
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	52
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	164
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	136
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	240
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	246
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	257
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	301
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	318
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	387
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	277
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	331
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	211
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	226
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	184
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	181
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	252
+	"All Invasive Cancer Sites Combined"	"0"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	219
+	"Oral Cavity and Pharynx"	"20010-20100"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Oral Cavity and Pharynx"	"20010-20100"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Oral Cavity and Pharynx"	"20010-20100"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Oral Cavity and Pharynx"	"20010-20100"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Oral Cavity and Pharynx"	"20010-20100"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	37
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	50
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	89
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	68
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	90
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	54
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	125
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	80
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	98
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	61
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	88
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	48
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	75
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	37
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	43
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	64
+	"Digestive System"	"21010-21130"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	50
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	53
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	66
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	57
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	41
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	47
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	53
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	46
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	51
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	49
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	41
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	40
+	"Colon and Rectum"	"21041-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Colon excluding Rectum"	"21041-21049"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Sigmoid Colon"	"21048"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum"	"21052"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Liver"	"21071"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Liver"	"21071"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	44
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	63
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	82
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	80
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	99
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	95
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	118
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	94
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	110
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	79
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	80
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	45
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	74
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	43
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	52
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	58
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	63
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	48
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	56
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Respiratory System"	"22010-22060"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	37
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	60
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	70
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	77
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	91
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	92
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	107
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	93
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	104
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	77
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	78
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	44
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	73
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	40
+	"Lung and Bronchus"	"22030"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	49
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	63
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	52
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	33
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	55
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	104
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	136
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	132
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	173
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	166
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	123
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	84
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	58
+	"Male and Female Breast"	"26000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast"	"26000"	"New Haven-Milford, CT"	"35300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast"	"26000"	"New Haven-Milford, CT"	"35300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	59
+	"Male and Female Breast"	"26000"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	60
+	"Male and Female Breast"	"26000"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	93
+	"Male and Female Breast"	"26000"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	79
+	"Male and Female Breast"	"26000"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	105
+	"Male and Female Breast"	"26000"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	91
+	"Male and Female Breast"	"26000"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	58
+	"Male and Female Breast"	"26000"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	39
+	"Male and Female Breast"	"26000"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	48
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	55
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	104
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	136
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	132
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	173
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	166
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	123
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	84
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	58
+	"Female Breast"	"26000-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast"	"26000-Female"	"New Haven-Milford, CT"	"35300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast"	"26000-Female"	"New Haven-Milford, CT"	"35300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	59
+	"Female Breast"	"26000-Female"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	60
+	"Female Breast"	"26000-Female"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	93
+	"Female Breast"	"26000-Female"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	79
+	"Female Breast"	"26000-Female"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	105
+	"Female Breast"	"26000-Female"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	91
+	"Female Breast"	"26000-Female"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	58
+	"Female Breast"	"26000-Female"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Breast"	"26000-Female"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	48
+	"Female Genital System"	"27010-27070"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Genital System"	"27010-27070"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Genital System"	"27010-27070"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Genital System"	"27010-27070"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	64
+	"Female Genital System"	"27010-27070"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Genital System"	"27010-27070"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Genital System"	"27010-27070"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Genital System"	"27010-27070"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Genital System"	"27010-27070"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Genital System"	"27010-27070"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Genital System"	"27010-27070"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Genital System"	"27010-27070"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Corpus Uteri"	"27020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Corpus Uteri"	"27020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Corpus Uteri"	"27020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Corpus Uteri"	"27020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Corpus Uteri"	"27020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Corpus Uteri"	"27020"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Corpus Uteri"	"27020"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Corpus Uteri"	"27020"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	66
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	135
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	69
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	183
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	61
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	244
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	169
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	96
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	44
+	"Male Genital System"	"28010-28040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Male Genital System"	"28010-28040"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Male Genital System"	"28010-28040"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Male Genital System"	"28010-28040"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	63
+	"Male Genital System"	"28010-28040"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Male Genital System"	"28010-28040"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	94
+	"Male Genital System"	"28010-28040"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	106
+	"Male Genital System"	"28010-28040"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	89
+	"Male Genital System"	"28010-28040"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Male Genital System"	"28010-28040"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Male Genital System"	"28010-28040"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	62
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	133
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	68
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	180
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	61
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	243
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	167
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	96
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	42
+	"Prostate"	"28010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"Prostate"	"28010"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Prostate"	"28010"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Prostate"	"28010"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	61
+	"Prostate"	"28010"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Prostate"	"28010"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	92
+	"Prostate"	"28010"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	106
+	"Prostate"	"28010"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	85
+	"Prostate"	"28010"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	35
+	"Prostate"	"28010"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Prostate"	"28010"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	38
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	70
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	86
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	33
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	74
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	66
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Urinary System"	"29010-29040"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary System"	"29010-29040"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	56
+	"Urinary System"	"29010-29040"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Urinary System"	"29010-29040"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary System"	"29010-29040"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary Bladder, invasive and in situ"	"29010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary Bladder, invasive and in situ"	"29010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	47
+	"Urinary Bladder, invasive and in situ"	"29010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	47
+	"Urinary Bladder, invasive and in situ"	"29010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	52
+	"Urinary Bladder, invasive and in situ"	"29010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Urinary Bladder, invasive and in situ"	"29010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"Urinary Bladder, invasive and in situ"	"29010"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Urinary Bladder, invasive and in situ"	"29010"	"New Haven-Milford, CT"	"35300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"New Haven-Milford, CT"	"35300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Kidney and Renal Pelvis"	"29020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Kidney and Renal Pelvis"	"29020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Endocrine System"	"32010-32020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Endocrine System"	"32010-32020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Thyroid"	"32010"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Lymphomas"	"33011-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"NHL - Nodal"	"33041"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Miscellaneous"	"37000"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"New Haven-Milford, CT"	"35300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	36
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"New Haven-Milford, CT"	"35300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	26
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Nashville-Davidson-Murfreesboro-Franklin, TN"	"34980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"New Haven-Milford, CT"	"35300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"New Haven-Milford, CT"	"35300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"New Haven-Milford, CT"	"35300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"New Haven-Milford, CT"	"35300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"New Haven-Milford, CT"	"35300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"New Haven-Milford, CT"	"35300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Nashville-Davidson-Murfreesboro-Franklin, TN (34980); New Haven-Milford, CT (35300)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 1:20:39 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 1:20:39 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

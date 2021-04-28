@@ -1,0 +1,818 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	90
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	153
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	140
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	196
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	248
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	231
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	323
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	267
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	391
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	253
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	297
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	189
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	213
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	169
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	145
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	192
+	"All Invasive Cancer Sites Combined"	"0"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	157
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	59
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	82
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	179
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	84
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	243
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	147
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	452
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	245
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	79
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	618
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	94
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	519
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	102
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	841
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	115
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	879
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	48
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	99
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	1040
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	124
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1119
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	96
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1276
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	108
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1474
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	86
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	78
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	1197
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	96
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1384
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	938
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1091
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	57
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	724
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	805
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	780
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	756
+	"All Invasive Cancer Sites Combined"	"0"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	40
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	71
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	82
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	68
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	47
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Tongue"	"20020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Tongue"	"20020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Tongue"	"20020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Tongue"	"20020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Tonsil"	"20070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Tonsil"	"20070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Tonsil"	"20070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	50
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	41
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	69
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	41
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	49
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	43
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	55
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	93
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	99
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	112
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	197
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	142
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	217
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	197
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	277
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	171
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	251
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	171
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	215
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	134
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	152
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	170
+	"Digestive System"	"21010-21130"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	155
+	"Esophagus"	"21010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Esophagus"	"21010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Esophagus"	"21010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"Esophagus"	"21010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Esophagus"	"21010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Esophagus"	"21010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Esophagus"	"21010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	55
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	50
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	67
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	85
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	61
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	85
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	100
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	100
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	70
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	103
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	80
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	83
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	73
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	68
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	98
+	"Colon and Rectum"	"21041-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	85
+	"Colon excluding Rectum"	"21041-21049"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	35
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	48
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	53
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	46
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	54
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	77
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	69
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	57
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	72
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	68
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	65
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	69
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	55
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	87
+	"Colon excluding Rectum"	"21041-21049"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	70
+	"Cecum"	"21041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Cecum"	"21041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Cecum"	"21041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Cecum"	"21041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Cecum"	"21041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Cecum"	"21041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Cecum"	"21041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Ascending Colon"	"21043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Ascending Colon"	"21043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Ascending Colon"	"21043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Ascending Colon"	"21043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Sigmoid Colon"	"21048"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Sigmoid Colon"	"21048"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Sigmoid Colon"	"21048"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Sigmoid Colon"	"21048"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Sigmoid Colon"	"21048"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Sigmoid Colon"	"21048"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Rectum"	"21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Rectum"	"21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum"	"21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Rectum"	"21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectum"	"21052"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	46
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Liver"	"21071"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Liver"	"21071"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	44
+	"Liver"	"21071"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Liver"	"21071"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Liver"	"21071"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	46
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	51
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	41
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	30
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Pancreas"	"21100"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	43
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	54
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	58
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	53
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	51
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	54
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	31
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	32
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	67
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	59
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	131
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	131
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	146
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	174
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	221
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	250
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	241
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	244
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	183
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	228
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	126
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	126
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	130
+	"Respiratory System"	"22010-22060"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	105
+	"Larynx"	"22020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Larynx"	"22020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Larynx"	"22020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	34
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	41
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	49
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	57
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	51
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	65
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	126
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	108
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	139
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	159
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	218
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	231
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	237
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	221
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	178
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	220
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	125
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	114
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	122
+	"Lung and Bronchus"	"22030"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	102
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	64
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	62
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	48
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	79
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	53
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	108
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	48
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	105
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	79
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	42
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	61
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	38
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	67
+	"Melanoma of the Skin"	"25010"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	35
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	60
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	62
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	47
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	78
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	52
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	102
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	45
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	93
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	75
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	57
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	62
+	"Male and Female Breast"	"26000"	"Syracuse, NY"	"45060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast"	"26000"	"Syracuse, NY"	"45060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	40
+	"Male and Female Breast"	"26000"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	57
+	"Male and Female Breast"	"26000"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	62
+	"Male and Female Breast"	"26000"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	62
+	"Male and Female Breast"	"26000"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	62
+	"Male and Female Breast"	"26000"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	65
+	"Male and Female Breast"	"26000"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	60
+	"Male and Female Breast"	"26000"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast"	"26000"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	63
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	93
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	192
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	206
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	251
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	295
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	367
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	18
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	338
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	196
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	134
+	"Male and Female Breast"	"26000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	120
+	"Female Breast"	"26000-Female"	"Syracuse, NY"	"45060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast"	"26000-Female"	"Syracuse, NY"	"45060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Breast"	"26000-Female"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	57
+	"Female Breast"	"26000-Female"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	62
+	"Female Breast"	"26000-Female"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	62
+	"Female Breast"	"26000-Female"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	62
+	"Female Breast"	"26000-Female"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	65
+	"Female Breast"	"26000-Female"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	60
+	"Female Breast"	"26000-Female"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast"	"26000-Female"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	93
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	192
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	206
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	251
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	295
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	367
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	18
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	338
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	196
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	134
+	"Female Breast"	"26000-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	120
+	"Female Genital System"	"27010-27070"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Genital System"	"27010-27070"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Genital System"	"27010-27070"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Genital System"	"27010-27070"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Genital System"	"27010-27070"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Genital System"	"27010-27070"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	67
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	136
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	139
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	132
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	113
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	84
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	72
+	"Female Genital System"	"27010-27070"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Cervix Uteri"	"27010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Cervix Uteri"	"27010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Corpus Uteri"	"27020"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	34
+	"Corpus Uteri"	"27020"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Corpus Uteri"	"27020"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Corpus Uteri"	"27020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Corpus Uteri"	"27020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	36
+	"Corpus Uteri"	"27020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	78
+	"Corpus Uteri"	"27020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Corpus Uteri"	"27020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	87
+	"Corpus Uteri"	"27020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	86
+	"Corpus Uteri"	"27020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	73
+	"Corpus Uteri"	"27020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	46
+	"Corpus Uteri"	"27020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Ovary"	"27040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Ovary"	"27040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Ovary"	"27040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Ovary"	"27040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Ovary"	"27040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Ovary"	"27040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Ovary"	"27040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Ovary"	"27040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Male Genital System"	"28010-28040"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Male Genital System"	"28010-28040"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	72
+	"Male Genital System"	"28010-28040"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	125
+	"Male Genital System"	"28010-28040"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	141
+	"Male Genital System"	"28010-28040"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	86
+	"Male Genital System"	"28010-28040"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	44
+	"Male Genital System"	"28010-28040"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	89
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	191
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	236
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	376
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	39
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	327
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	167
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	26
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	106
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	79
+	"Male Genital System"	"28010-28040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Prostate"	"28010"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	29
+	"Prostate"	"28010"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	72
+	"Prostate"	"28010"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	123
+	"Prostate"	"28010"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	140
+	"Prostate"	"28010"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	84
+	"Prostate"	"28010"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	42
+	"Prostate"	"28010"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	85
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	182
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	230
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	373
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	37
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	326
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	164
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	26
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	103
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	77
+	"Prostate"	"28010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Urinary System"	"29010-29040"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Urinary System"	"29010-29040"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Urinary System"	"29010-29040"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Urinary System"	"29010-29040"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	46
+	"Urinary System"	"29010-29040"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	42
+	"Urinary System"	"29010-29040"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary System"	"29010-29040"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	47
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	74
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	56
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	126
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	54
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	154
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	160
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	55
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	158
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	47
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	129
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	55
+	"Urinary System"	"29010-29040"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	134
+	"Urinary Bladder, invasive and in situ"	"29010"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary Bladder, invasive and in situ"	"29010"	"Syracuse, NY"	"45060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Urinary Bladder, invasive and in situ"	"29010"	"Syracuse, NY"	"45060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Urinary Bladder, invasive and in situ"	"29010"	"Syracuse, NY"	"45060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary Bladder, invasive and in situ"	"29010"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	39
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	69
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	88
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	108
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	31
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	101
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	97
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	111
+	"Kidney and Renal Pelvis"	"29020"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	53
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	62
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	54
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	23
+	"Endocrine System"	"32010-32020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Endocrine System"	"32010-32020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Endocrine System"	"32010-32020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Endocrine System"	"32010-32020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Endocrine System"	"32010-32020"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	23
+	"Thyroid"	"32010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Thyroid"	"32010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Thyroid"	"32010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Thyroid"	"32010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Thyroid"	"32010"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	56
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	51
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	65
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	63
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	59
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	65
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	56
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	41
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	44
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	37
+	"Lymphomas"	"33011-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	42
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Syracuse, NY"	"45060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	34
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	37
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	55
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	49
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	63
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	62
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	64
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	53
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	41
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	41
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	49
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	48
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"NHL - Extranodal"	"33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Myeloma"	"34000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Myeloma"	"34000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Myeloma"	"34000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Myeloma"	"34000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Myeloma"	"34000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Myeloma"	"34000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	39
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	42
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Leukemias"	"35011-35043"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Chronic Lymphocytic Leukemia"	"35012"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Chronic Lymphocytic Leukemia"	"35012"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Chronic Lymphocytic Leukemia"	"35012"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Chronic Lymphocytic Leukemia"	"35012"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Chronic Lymphocytic Leukemia"	"35012"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Chronic Lymphocytic Leukemia"	"35012"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Chronic Lymphocytic Leukemia"	"35012"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Acute Myeloid Leukemia"	"35021"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Syracuse, NY"	"45060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	21
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	30
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	53
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	56
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	64
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	67
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	80
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	75
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	62
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	80
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	60
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	92
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	100
+	"Miscellaneous"	"37000"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	79
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	49
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	59
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	60
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	71
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	106
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	80
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Syracuse, NY"	"45060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Syracuse, NY"	"45060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Syracuse, NY"	"45060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	59
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	60
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	71
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	106
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	80
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Syracuse, NY (45060); Tampa-St. Petersburg-Clearwater, FL (45300)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 3:49:53 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 3:49:53 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

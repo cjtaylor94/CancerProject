@@ -1,0 +1,950 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	129
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	64
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	189
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	82
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	277
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	179
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	61
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	453
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	343
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	74
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	548
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	80
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	530
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	94
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	708
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	723
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	67
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	778
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	97
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	844
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	633
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	687
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	505
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	51
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	522
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	429
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	387
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	429
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	359
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	104
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	151
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	65
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	234
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	150
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	88
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	380
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	70
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	319
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	129
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	558
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	172
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	517
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	194
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	667
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	238
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	695
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	160
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	728
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	193
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	822
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	116
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	597
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	117
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	783
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	106
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	563
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	90
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	581
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	89
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	443
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	75
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	462
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	92
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	511
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	57
+	"All Invasive Cancer Sites Combined"	"0"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	403
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	37
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	39
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Tongue"	"20020"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	20
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	45
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	78
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	86
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	69
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	135
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	100
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	151
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	124
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	163
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	106
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	126
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	102
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	110
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	91
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	100
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	120
+	"Digestive System"	"21010-21130"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	64
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	47
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	74
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	65
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	90
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	78
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	57
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	118
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	113
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	144
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	88
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	154
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	91
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	117
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	84
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	79
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	114
+	"Digestive System"	"21010-21130"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	86
+	"Esophagus"	"21010"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Esophagus"	"21010"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Stomach"	"21020"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Stomach"	"21020"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Stomach"	"21020"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	51
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	43
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	60
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	45
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	63
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	62
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	71
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	52
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	48
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	46
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	54
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	55
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	48
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	73
+	"Colon and Rectum"	"21041-21052"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	40
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	36
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	44
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	44
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	65
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	60
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	45
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	59
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	45
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	50
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	56
+	"Colon and Rectum"	"21041-21052"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	42
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	36
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	37
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	45
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	51
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	46
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	37
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	65
+	"Colon excluding Rectum"	"21041-21049"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	49
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	43
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	34
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	47
+	"Colon excluding Rectum"	"21041-21049"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	34
+	"Ascending Colon"	"21043"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Sigmoid Colon"	"21048"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum"	"21052"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Rectum"	"21052"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum"	"21052"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver"	"21071"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver"	"21071"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver"	"21071"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver"	"21071"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver"	"21071"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Liver"	"21071"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver"	"21071"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Pancreas"	"21100"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Pancreas"	"21100"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Pancreas"	"21100"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Pancreas"	"21100"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	54
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	75
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	77
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	118
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	132
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	124
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	172
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	135
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	153
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	101
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	123
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	80
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	74
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	63
+	"Respiratory System"	"22010-22060"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	67
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	39
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	70
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	83
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	88
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	93
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	113
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	104
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	119
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	149
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	111
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	106
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	100
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	73
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	72
+	"Respiratory System"	"22010-22060"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	62
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	41
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	45
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	72
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	70
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	114
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	120
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	118
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	161
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	131
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	138
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	99
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	116
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	78
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	71
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	61
+	"Lung and Bronchus"	"22030"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	58
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	44
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	67
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	70
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	81
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	87
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	109
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	93
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	118
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	140
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	108
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	100
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	100
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	66
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	69
+	"Lung and Bronchus"	"22030"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	58
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	40
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	52
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	56
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	52
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	39
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	48
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	48
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	54
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	49
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	32
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	32
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	66
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	121
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	188
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	192
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	221
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	237
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	191
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	144
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	84
+	"Male and Female Breast"	"26000"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	84
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	57
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	86
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	132
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	191
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	215
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	208
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	174
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	149
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	98
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Male and Female Breast"	"26000"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	102
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	66
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	121
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	188
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	192
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	221
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	237
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	191
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	144
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	84
+	"Female Breast"	"26000-Female"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	84
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	57
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	86
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	132
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	191
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	215
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	208
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	174
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	149
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	98
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Female Breast"	"26000-Female"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	102
+	"Female Genital System"	"27010-27070"	"Cincinnati, OH-KY-IN"	"17140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Genital System"	"27010-27070"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Genital System"	"27010-27070"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Genital System"	"27010-27070"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	57
+	"Female Genital System"	"27010-27070"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	73
+	"Female Genital System"	"27010-27070"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	109
+	"Female Genital System"	"27010-27070"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	95
+	"Female Genital System"	"27010-27070"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	61
+	"Female Genital System"	"27010-27070"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Genital System"	"27010-27070"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Genital System"	"27010-27070"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	53
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	85
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	109
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	110
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	53
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	64
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Genital System"	"27010-27070"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	52
+	"Cervix Uteri"	"27010"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Corpus Uteri"	"27020"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Corpus Uteri"	"27020"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Corpus Uteri"	"27020"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	41
+	"Corpus Uteri"	"27020"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	69
+	"Corpus Uteri"	"27020"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	64
+	"Corpus Uteri"	"27020"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	39
+	"Corpus Uteri"	"27020"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	36
+	"Corpus Uteri"	"27020"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	63
+	"Corpus Uteri"	"27020"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Corpus Uteri"	"27020"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	78
+	"Corpus Uteri"	"27020"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	80
+	"Corpus Uteri"	"27020"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Corpus Uteri"	"27020"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	37
+	"Corpus Uteri"	"27020"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Ovary"	"27040"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Ovary"	"27040"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Ovary"	"27040"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Ovary"	"27040"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Ovary"	"27040"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	60
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	112
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	37
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	178
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	201
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	136
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	77
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	42
+	"Male Genital System"	"28010-28040"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	46
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	76
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	75
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	126
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	82
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	221
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	73
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	263
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	201
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	113
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	63
+	"Male Genital System"	"28010-28040"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	53
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	56
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	109
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	37
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	175
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	199
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	136
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	77
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	40
+	"Prostate"	"28010"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	46
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	70
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	74
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	124
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	82
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	216
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	73
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	261
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	197
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	112
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	61
+	"Prostate"	"28010"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	51
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	60
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	75
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	90
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	90
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	68
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	40
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	53
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	63
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	68
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	100
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	96
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	30
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	76
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	87
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Urinary System"	"29010-29040"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	69
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	53
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	48
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	39
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	55
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	72
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	63
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	65
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	59
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	45
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Kidney and Renal Pelvis"	"29020"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Kidney and Renal Pelvis"	"29020"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Brain and Other Nervous System"	"31010-31040"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Brain"	"31010"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Cincinnati, OH-KY-IN"	"17140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Endocrine System"	"32010-32020"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Endocrine System"	"32010-32020"	"Cleveland-Elyria, OH"	"17460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	21
+	"Endocrine System"	"32010-32020"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Endocrine System"	"32010-32020"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	31
+	"Endocrine System"	"32010-32020"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	26
+	"Endocrine System"	"32010-32020"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	32
+	"Endocrine System"	"32010-32020"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Endocrine System"	"32010-32020"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Cincinnati, OH-KY-IN"	"17140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Thyroid"	"32010"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Thyroid"	"32010"	"Cleveland-Elyria, OH"	"17460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	21
+	"Thyroid"	"32010"	"Cleveland-Elyria, OH"	"17460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Thyroid"	"32010"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	30
+	"Thyroid"	"32010"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Thyroid"	"32010"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	31
+	"Thyroid"	"32010"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Thyroid"	"32010"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Thyroid"	"32010"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	40
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"NHL - Nodal"	"33041"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"NHL - Nodal"	"33041"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"NHL - Nodal"	"33041"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"NHL - Nodal"	"33041"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"NHL - Nodal"	"33041"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"NHL - Nodal"	"33041"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"NHL - Nodal"	"33041"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"NHL - Nodal"	"33041"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"NHL - Nodal"	"33041"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Myeloma"	"34000"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Myeloma"	"34000"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Leukemias"	"35011-35043"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Leukemias"	"35011-35043"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Leukemias"	"35011-35043"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Miscellaneous"	"37000"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Miscellaneous"	"37000"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Miscellaneous"	"37000"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Cincinnati, OH-KY-IN"	"17140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Miscellaneous"	"37000"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"Miscellaneous"	"37000"	"Cincinnati, OH-KY-IN"	"17140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Miscellaneous"	"37000"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Miscellaneous"	"37000"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Miscellaneous"	"37000"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Miscellaneous"	"37000"	"Cleveland-Elyria, OH"	"17460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	43
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	46
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	55
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cincinnati, OH-KY-IN"	"17140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cincinnati, OH-KY-IN"	"17140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cincinnati, OH-KY-IN"	"17140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cincinnati, OH-KY-IN"	"17140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cincinnati, OH-KY-IN"	"17140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cincinnati, OH-KY-IN"	"17140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	46
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cincinnati, OH-KY-IN"	"17140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cincinnati, OH-KY-IN"	"17140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cleveland-Elyria, OH"	"17460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cleveland-Elyria, OH"	"17460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cleveland-Elyria, OH"	"17460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cleveland-Elyria, OH"	"17460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	55
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cleveland-Elyria, OH"	"17460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cleveland-Elyria, OH"	"17460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cleveland-Elyria, OH"	"17460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cleveland-Elyria, OH"	"17460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Cincinnati, OH-KY-IN (17140); Cleveland-Elyria, OH (17460)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 24, 2021 9:59:53 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 24, 2021 9:59:53 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

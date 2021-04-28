@@ -1,0 +1,420 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	29
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	51
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	100
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	45
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	133
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	110
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	220
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	187
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	31
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	296
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	21
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	343
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	23
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	413
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	23
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	549
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	45
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	495
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	32
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	549
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	51
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	371
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	18
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	573
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	41
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	328
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	18
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	402
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	46
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	295
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	382
+	"All Invasive Cancer Sites Combined"	"0"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	70
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	74
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	73
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	48
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	84
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	75
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	110
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	133
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	134
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	156
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	140
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	199
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	107
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	147
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	98
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	128
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	82
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	63
+	"All Invasive Cancer Sites Combined"	"0"	"Ogden-Clearfield, UT"	"36260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	84
+	"Oral Cavity and Pharynx"	"20010-20100"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Oral Cavity and Pharynx"	"20010-20100"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	43
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	50
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	43
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	86
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	59
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	88
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	84
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	53
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	67
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	59
+	"Digestive System"	"21010-21130"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Ogden-Clearfield, UT"	"36260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Ogden-Clearfield, UT"	"36260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Ogden-Clearfield, UT"	"36260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Ogden-Clearfield, UT"	"36260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Ogden-Clearfield, UT"	"36260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Digestive System"	"21010-21130"	"Ogden-Clearfield, UT"	"36260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Ogden-Clearfield, UT"	"36260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Ogden-Clearfield, UT"	"36260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Ogden-Clearfield, UT"	"36260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	33
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon excluding Rectum"	"21041-21049"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	42
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	59
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	65
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	80
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	99
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	75
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	62
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	85
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	55
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	59
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	59
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	49
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	65
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	73
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	94
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	73
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	61
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	79
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	55
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	55
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	39
+	"Lung and Bronchus"	"22030"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	53
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	47
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	58
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	47
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	59
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Ogden-Clearfield, UT"	"36260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Ogden-Clearfield, UT"	"36260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Ogden-Clearfield, UT"	"36260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Ogden-Clearfield, UT"	"36260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Ogden-Clearfield, UT"	"36260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Ogden-Clearfield, UT"	"36260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	43
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	52
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	45
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	53
+	"Melanoma of the Skin"	"25010"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Ogden-Clearfield, UT"	"36260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Melanoma of the Skin"	"25010"	"Ogden-Clearfield, UT"	"36260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Ogden-Clearfield, UT"	"36260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Ogden-Clearfield, UT"	"36260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Ogden-Clearfield, UT"	"36260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Ogden-Clearfield, UT"	"36260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Male and Female Breast"	"26000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast"	"26000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	63
+	"Male and Female Breast"	"26000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	74
+	"Male and Female Breast"	"26000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	93
+	"Male and Female Breast"	"26000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	119
+	"Male and Female Breast"	"26000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	138
+	"Male and Female Breast"	"26000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	101
+	"Male and Female Breast"	"26000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	67
+	"Male and Female Breast"	"26000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Male and Female Breast"	"26000"	"Ogden-Clearfield, UT"	"36260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast"	"26000"	"Ogden-Clearfield, UT"	"36260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Male and Female Breast"	"26000"	"Ogden-Clearfield, UT"	"36260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast"	"26000"	"Ogden-Clearfield, UT"	"36260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast"	"26000"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	40
+	"Male and Female Breast"	"26000"	"Ogden-Clearfield, UT"	"36260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	55
+	"Male and Female Breast"	"26000"	"Ogden-Clearfield, UT"	"36260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast"	"26000"	"Ogden-Clearfield, UT"	"36260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast"	"26000"	"Ogden-Clearfield, UT"	"36260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Breast"	"26000-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast"	"26000-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast"	"26000-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Breast"	"26000-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	74
+	"Female Breast"	"26000-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	93
+	"Female Breast"	"26000-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	119
+	"Female Breast"	"26000-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	138
+	"Female Breast"	"26000-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	101
+	"Female Breast"	"26000-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	67
+	"Female Breast"	"26000-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Breast"	"26000-Female"	"Ogden-Clearfield, UT"	"36260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast"	"26000-Female"	"Ogden-Clearfield, UT"	"36260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast"	"26000-Female"	"Ogden-Clearfield, UT"	"36260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast"	"26000-Female"	"Ogden-Clearfield, UT"	"36260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast"	"26000-Female"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Breast"	"26000-Female"	"Ogden-Clearfield, UT"	"36260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	55
+	"Female Breast"	"26000-Female"	"Ogden-Clearfield, UT"	"36260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast"	"26000-Female"	"Ogden-Clearfield, UT"	"36260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast"	"26000-Female"	"Ogden-Clearfield, UT"	"36260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Genital System"	"27010-27070"	"North Port-Sarasota-Bradenton, FL"	"35840"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Genital System"	"27010-27070"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	61
+	"Female Genital System"	"27010-27070"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	41
+	"Female Genital System"	"27010-27070"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Genital System"	"27010-27070"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Genital System"	"27010-27070"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"Ogden-Clearfield, UT"	"36260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Genital System"	"27010-27070"	"Ogden-Clearfield, UT"	"36260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Corpus Uteri"	"27020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	40
+	"Corpus Uteri"	"27020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Corpus Uteri"	"27020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Ogden-Clearfield, UT"	"36260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	86
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	145
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	145
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	28
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	118
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	54
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Male Genital System"	"28010-28040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	33
+	"Male Genital System"	"28010-28040"	"Ogden-Clearfield, UT"	"36260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Male Genital System"	"28010-28040"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	45
+	"Male Genital System"	"28010-28040"	"Ogden-Clearfield, UT"	"36260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	58
+	"Male Genital System"	"28010-28040"	"Ogden-Clearfield, UT"	"36260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	78
+	"Male Genital System"	"28010-28040"	"Ogden-Clearfield, UT"	"36260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	57
+	"Male Genital System"	"28010-28040"	"Ogden-Clearfield, UT"	"36260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Prostate"	"28010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Prostate"	"28010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	86
+	"Prostate"	"28010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	143
+	"Prostate"	"28010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Prostate"	"28010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	144
+	"Prostate"	"28010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	28
+	"Prostate"	"28010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	118
+	"Prostate"	"28010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"Prostate"	"28010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	51
+	"Prostate"	"28010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Prostate"	"28010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	32
+	"Prostate"	"28010"	"Ogden-Clearfield, UT"	"36260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Prostate"	"28010"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	45
+	"Prostate"	"28010"	"Ogden-Clearfield, UT"	"36260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	57
+	"Prostate"	"28010"	"Ogden-Clearfield, UT"	"36260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	78
+	"Prostate"	"28010"	"Ogden-Clearfield, UT"	"36260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	56
+	"Prostate"	"28010"	"Ogden-Clearfield, UT"	"36260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Urinary System"	"29010-29040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Urinary System"	"29010-29040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	56
+	"Urinary System"	"29010-29040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	65
+	"Urinary System"	"29010-29040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	65
+	"Urinary System"	"29010-29040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Urinary System"	"29010-29040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	61
+	"Urinary System"	"29010-29040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	58
+	"Urinary System"	"29010-29040"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Ogden-Clearfield, UT"	"36260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Ogden-Clearfield, UT"	"36260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Ogden-Clearfield, UT"	"36260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary Bladder, invasive and in situ"	"29010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Urinary Bladder, invasive and in situ"	"29010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	49
+	"Urinary Bladder, invasive and in situ"	"29010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary Bladder, invasive and in situ"	"29010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	52
+	"Kidney and Renal Pelvis"	"29020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Ogden-Clearfield, UT"	"36260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Ogden-Clearfield, UT"	"36260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Lymphomas"	"33011-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Lymphomas"	"33011-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Lymphomas"	"33011-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	42
+	"Lymphomas"	"33011-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	38
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	42
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"NHL - Nodal"	"33041"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"NHL - Nodal"	"33041"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"NHL - Nodal"	"33041"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"NHL - Nodal"	"33041"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"NHL - Nodal"	"33041"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Leukemias"	"35011-35043"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Leukemias"	"35011-35043"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Leukemias"	"35011-35043"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"Miscellaneous"	"37000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Miscellaneous"	"37000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Miscellaneous"	"37000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	41
+	"Miscellaneous"	"37000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	31
+	"Miscellaneous"	"37000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	42
+	"Miscellaneous"	"37000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	51
+	"Miscellaneous"	"37000"	"North Port-Sarasota-Bradenton, FL"	"35840"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	48
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"North Port-Sarasota-Bradenton, FL"	"35840"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	43
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"North Port-Sarasota-Bradenton, FL"	"35840"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Ogden-Clearfield, UT"	"36260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: North Port-Sarasota-Bradenton, FL (35840); Ogden-Clearfield, UT (36260)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 1:30:28 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 1:30:28 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. These MSAs are missing data for the indicated years: Boise City, ID 1999-2002; Cape Coral-Fort Myers, FL 1999-2003;"
+"Chattanooga, TN-GA 1999-2005; Deltona-Daytona Beach-Ormond Beach, FL 1999-2000; Denver-Aurora-Lakewood, CO 1999-2001;"
+"Durham-Chapel Hill, NC 1999-2003; Fayetteville, NC 1999-2011; Fayetteville-Springdale-Rogers, AR-MO 1999-2015; Jackson, MS"
+"1999-2002; Kansas City, MO-KS 1999-2017; Lakeland-Winter Haven, FL 1999-2001; Lancaster, PA 1999-2005; Lexington-Fayette, KY"
+"1999-2014; Little Rock-North Little Rock-Conway, AR 1999-2000; Memphis, TN-MS-AR 1999-2002; Minneapolis-St. Paul-Bloomington,"
+"MN-WI 1999-2017; Modesto, CA 1999-2004; Ogden-Clearfield, UT 1999-2001; Palm Bay-Melbourne-Titusville, FL 1999-2002;"
+"Portland-South Portland, ME 1999-2001; Provo-Orem, UT 1999-2008; Santa Rosa, CA 1999-2014; Spokane-Spokane Valley, WA 1999-2007;"
+"Urban Honolulu, HI 1999; Wichita, KS 1999-2017."
+"6. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"7. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"8. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

@@ -1,0 +1,340 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	92
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	143
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	81
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	172
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	137
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	172
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	191
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	189
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	257
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	155
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	186
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	117
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	172
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	90
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	109
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	81
+	"All Invasive Cancer Sites Combined"	"0"	"Colorado Springs, CO"	"17820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	96
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	84
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	126
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	66
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	89
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	77
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	130
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	99
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	163
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	80
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	174
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	103
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	217
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	101
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	217
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	106
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	249
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	68
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	179
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	78
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	215
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	147
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	150
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	117
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	121
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Columbia, SC"	"17900"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	86
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	47
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Colorado Springs, CO"	"17820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Columbia, SC"	"17900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Respiratory System"	"22010-22060"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Respiratory System"	"22010-22060"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Respiratory System"	"22010-22060"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	43
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	46
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Lung and Bronchus"	"22030"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Male and Female Breast"	"26000"	"Colorado Springs, CO"	"17820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Male and Female Breast"	"26000"	"Colorado Springs, CO"	"17820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	39
+	"Male and Female Breast"	"26000"	"Colorado Springs, CO"	"17820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	66
+	"Male and Female Breast"	"26000"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	50
+	"Male and Female Breast"	"26000"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	59
+	"Male and Female Breast"	"26000"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	77
+	"Male and Female Breast"	"26000"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	55
+	"Male and Female Breast"	"26000"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Male and Female Breast"	"26000"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast"	"26000"	"Colorado Springs, CO"	"17820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	48
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	53
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	69
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	45
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Male and Female Breast"	"26000"	"Columbia, SC"	"17900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Breast"	"26000-Female"	"Colorado Springs, CO"	"17820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast"	"26000-Female"	"Colorado Springs, CO"	"17820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Breast"	"26000-Female"	"Colorado Springs, CO"	"17820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	66
+	"Female Breast"	"26000-Female"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	50
+	"Female Breast"	"26000-Female"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	59
+	"Female Breast"	"26000-Female"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	77
+	"Female Breast"	"26000-Female"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	55
+	"Female Breast"	"26000-Female"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Breast"	"26000-Female"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast"	"26000-Female"	"Colorado Springs, CO"	"17820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	48
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	53
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	69
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	45
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Breast"	"26000-Female"	"Columbia, SC"	"17900"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Genital System"	"27010-27070"	"Colorado Springs, CO"	"17820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Genital System"	"27010-27070"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Genital System"	"27010-27070"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Genital System"	"27010-27070"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Genital System"	"27010-27070"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Genital System"	"27010-27070"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Genital System"	"27010-27070"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Genital System"	"27010-27070"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Corpus Uteri"	"27020"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Corpus Uteri"	"27020"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Colorado Springs, CO"	"17820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Male Genital System"	"28010-28040"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Male Genital System"	"28010-28040"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	69
+	"Male Genital System"	"28010-28040"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	79
+	"Male Genital System"	"28010-28040"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	58
+	"Male Genital System"	"28010-28040"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"Male Genital System"	"28010-28040"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Colorado Springs, CO"	"17820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	43
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	59
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	85
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	56
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Male Genital System"	"28010-28040"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Prostate"	"28010"	"Colorado Springs, CO"	"17820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Prostate"	"28010"	"Colorado Springs, CO"	"17820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	37
+	"Prostate"	"28010"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	67
+	"Prostate"	"28010"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	79
+	"Prostate"	"28010"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	57
+	"Prostate"	"28010"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Prostate"	"28010"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Prostate"	"28010"	"Colorado Springs, CO"	"17820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	42
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	57
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	84
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	56
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Prostate"	"28010"	"Columbia, SC"	"17900"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Colorado Springs, CO"	"17820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Colorado Springs, CO"	"17820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Columbia, SC"	"17900"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Columbia, SC"	"17900"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Columbia, SC"	"17900"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Columbia, SC"	"17900"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Colorado Springs, CO"	"17820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Colorado Springs, CO"	"17820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Colorado Springs, CO"	"17820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Colorado Springs, CO"	"17820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Colorado Springs, CO (17820); Columbia, SC (17900)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 24, 2021 10:08:07 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 24, 2021 10:08:07 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

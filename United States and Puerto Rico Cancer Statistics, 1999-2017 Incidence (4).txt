@@ -1,0 +1,760 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	54
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	87
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	48
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	113
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	57
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	87
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	180
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	81
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	140
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	284
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	76
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	164
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	186
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	452
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	188
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	363
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	241
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	606
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	300
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	617
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	319
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	645
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	341
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	789
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	334
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	771
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	365
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	928
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	216
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	729
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	263
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	770
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	193
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	503
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	150
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	655
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	128
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	440
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	101
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	462
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	136
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	549
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	57
+	"All Invasive Cancer Sites Combined"	"0"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	419
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	77
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	117
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	79
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	120
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	85
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	167
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	108
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	200
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	102
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	173
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	163
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	261
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	78
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	183
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	132
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	306
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	166
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	94
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	243
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	121
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	167
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	91
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	85
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Baton Rouge, LA"	"12940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	90
+	"Oral Cavity and Pharynx"	"20010-20100"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	32
+	"Oral Cavity and Pharynx"	"20010-20100"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	40
+	"Oral Cavity and Pharynx"	"20010-20100"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Oral Cavity and Pharynx"	"20010-20100"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Oral Cavity and Pharynx"	"20010-20100"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Oral Cavity and Pharynx"	"20010-20100"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Tongue"	"20020"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	55
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	73
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	74
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	78
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	108
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	81
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	85
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	153
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	95
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	74
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	135
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	99
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	52
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	118
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	85
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	131
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	90
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	87
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	128
+	"Digestive System"	"21010-21130"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	76
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	47
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Digestive System"	"21010-21130"	"Baton Rouge, LA"	"12940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Esophagus"	"21010"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Esophagus"	"21010"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Stomach"	"21020"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	50
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	59
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	43
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	53
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	51
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	39
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	71
+	"Colon and Rectum"	"21041-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	39
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	37
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	43
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	54
+	"Colon excluding Rectum"	"21041-21049"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	32
+	"Colon excluding Rectum"	"21041-21049"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum"	"21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver"	"21071"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Liver"	"21071"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Liver"	"21071"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Liver"	"21071"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Liver"	"21071"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Liver"	"21071"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Pancreas"	"21100"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Pancreas"	"21100"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	67
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	93
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	83
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	102
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	67
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	138
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	144
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	141
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	143
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	119
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	124
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	101
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	80
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	82
+	"Respiratory System"	"22010-22060"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	77
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Baton Rouge, LA"	"12940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Larynx"	"22020"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	40
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	62
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	74
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	82
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	90
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	67
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	135
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	122
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	140
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	134
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	117
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	118
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	99
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	76
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	82
+	"Lung and Bronchus"	"22030"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	73
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	39
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Lung and Bronchus"	"22030"	"Baton Rouge, LA"	"12940"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	41
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	56
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	66
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	60
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	79
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	64
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	70
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	54
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	49
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	41
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	53
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	62
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	58
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	43
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	73
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	63
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	60
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	51
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	42
+	"Melanoma of the Skin"	"25010"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	26
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	73
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	63
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	124
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	64
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	177
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	86
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	207
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	93
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	222
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	102
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	250
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	219
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	118
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	74
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Male and Female Breast"	"26000"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	103
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	30
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	43
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	64
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	57
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	52
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast"	"26000"	"Baton Rouge, LA"	"12940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	73
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	63
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	124
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	64
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	177
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	86
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	207
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	93
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	222
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	102
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	250
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	219
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	118
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	74
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Female Breast"	"26000-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	103
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	64
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	57
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast"	"26000-Female"	"Baton Rouge, LA"	"12940"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	60
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	93
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	96
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	84
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	69
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Genital System"	"27010-27070"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Genital System"	"27010-27070"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Genital System"	"27010-27070"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"Corpus Uteri"	"27020"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Corpus Uteri"	"27020"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Corpus Uteri"	"27020"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Corpus Uteri"	"27020"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Corpus Uteri"	"27020"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Corpus Uteri"	"27020"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	52
+	"Corpus Uteri"	"27020"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	42
+	"Corpus Uteri"	"27020"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Corpus Uteri"	"27020"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Ovary"	"27040"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Ovary"	"27040"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	82
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	84
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	112
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	155
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	140
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	264
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	145
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	304
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	99
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	218
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	122
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	63
+	"Male Genital System"	"28010-28040"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	44
+	"Male Genital System"	"28010-28040"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Male Genital System"	"28010-28040"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Male Genital System"	"28010-28040"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Male Genital System"	"28010-28040"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	62
+	"Male Genital System"	"28010-28040"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	64
+	"Male Genital System"	"28010-28040"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	101
+	"Male Genital System"	"28010-28040"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	60
+	"Male Genital System"	"28010-28040"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	117
+	"Male Genital System"	"28010-28040"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"Male Genital System"	"28010-28040"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	66
+	"Male Genital System"	"28010-28040"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	81
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	80
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	110
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	152
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	138
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	261
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	145
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	304
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	98
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	217
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	122
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	60
+	"Prostate"	"28010"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	44
+	"Prostate"	"28010"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Prostate"	"28010"	"Baton Rouge, LA"	"12940"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Prostate"	"28010"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Prostate"	"28010"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	59
+	"Prostate"	"28010"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	63
+	"Prostate"	"28010"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	99
+	"Prostate"	"28010"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"Prostate"	"28010"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	117
+	"Prostate"	"28010"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Prostate"	"28010"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	66
+	"Prostate"	"28010"	"Baton Rouge, LA"	"12940"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Testis"	"28020"	"Baltimore-Columbia-Towson, MD"	"12580"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	37
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	62
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	65
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	88
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	48
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	83
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	75
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	66
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	43
+	"Urinary System"	"29010-29040"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	71
+	"Urinary System"	"29010-29040"	"Baton Rouge, LA"	"12940"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Urinary System"	"29010-29040"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary System"	"29010-29040"	"Baton Rouge, LA"	"12940"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Urinary Bladder, invasive and in situ"	"29010"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	54
+	"Urinary Bladder, invasive and in situ"	"29010"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	47
+	"Urinary Bladder, invasive and in situ"	"29010"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	51
+	"Urinary Bladder, invasive and in situ"	"29010"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	57
+	"Urinary Bladder, invasive and in situ"	"29010"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Urinary Bladder, invasive and in situ"	"29010"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	59
+	"Urinary Bladder, invasive and in situ"	"29010"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Kidney and Renal Pelvis"	"29020"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Kidney and Renal Pelvis"	"29020"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Kidney and Renal Pelvis"	"29020"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Kidney and Renal Pelvis"	"29020"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Kidney and Renal Pelvis"	"29020"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Baton Rouge, LA"	"12940"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Baton Rouge, LA"	"12940"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Baltimore-Columbia-Towson, MD"	"12580"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Endocrine System"	"32010-32020"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Endocrine System"	"32010-32020"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Thyroid"	"32010"	"Baltimore-Columbia-Towson, MD"	"12580"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Thyroid"	"32010"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Thyroid"	"32010"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	42
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	40
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Lymphomas"	"33011-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	39
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	40
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Baton Rouge, LA"	"12940"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Nodal"	"33041"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"NHL - Nodal"	"33041"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"NHL - Nodal"	"33041"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"NHL - Nodal"	"33041"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Extranodal"	"33042"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Myeloma"	"34000"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	39
+	"Leukemias"	"35011-35043"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Leukemias"	"35011-35043"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Chronic Lymphocytic Leukemia"	"35012"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Miscellaneous"	"37000"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Miscellaneous"	"37000"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Miscellaneous"	"37000"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Miscellaneous"	"37000"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	32
+	"Miscellaneous"	"37000"	"Baltimore-Columbia-Towson, MD"	"12580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	54
+	"Miscellaneous"	"37000"	"Baltimore-Columbia-Towson, MD"	"12580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	32
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	30
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	45
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	61
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	45
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	61
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Baltimore-Columbia-Towson, MD"	"12580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Baltimore-Columbia-Towson, MD (12580); Baton Rouge, LA (12940)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 24, 2021 5:27:44 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 24, 2021 5:27:44 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

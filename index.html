@@ -1,0 +1,1018 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>State of Cancer in the United States of America 2016</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+ 
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Krub:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Bikin - v4.1.0
+  * Template URL: https://bootstrapmade.com/bikin-free-simple-landing-page-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <h1 class="logo"><a href="index.html">Final Project</a></h1>
+    
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">Introduction</a></li>
+          <li><a class="nav-link scrollto" href="#demographics">Cancer Demographics</a></li>
+          <li><a class="nav-link scrollto " href="#survival">Survival Rates</a></li>
+          <li><a class="nav-link scrollto" href="#msa">Cancer Impact over MSA</a></li>
+          <li><a class="nav-link scrollto" href="#conclusion">Conclusion</a></li>
+          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+    <div class="container d-flex flex-column align-items-center justify-content-center" data-aos="fade-up">
+      <h1>State of Cancer in the United States 2016</h1>
+      <h2>Created by Christopher Taylor</h2>
+      <a href="#about" class="btn-get-started scrollto">Get Started</a>
+    </div>
+
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="row">
+          <h3>Introduction</h3>
+          
+          <div class="col-lg-6">
+            <div class="content">
+              <p>
+                As I have an interest in healthcare technology and statistics, I wanted to create a visualization of how different types
+                of cancer impact different communities in the United States. These communities can have varied impacts of cancer, 
+                that could be driven by various external factors that can be explored visually. Additionally, cancers have different 
+                survival rates and can hit a community and individuals harder, visualizing this difference can help bring better 
+                understanding to cancer’s impact on a community.  This webpage visualizes these communities’ overall cancer 
+                profile looking at at different demographics, cancer sites, survival rates, and geography determine how cancer
+                impacts communities around the country.
+              </p>
+              <p>
+                The Data for these vizualizations came from three major sources the CDC, National Canncer Institute, and the Bureau of Labor Statistics. Number of cancer
+                cases by msa, and varying demographics in 2016 came from the CDC. While 5 year conditional survival rates calculated from 2000-2016
+                were pulled from SEER portal of the National Cancer Institute, and lastly we used Metropolitan area population estimates in 2016 from the 
+                the Bureau of Labor Statistics. 
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-6" style="padding-left: 100px;">
+            <img src="assets/img/CDC.jpg" class="img" alt="" style="width:250px;height:150px;">
+            <div class = "w-100"></div>
+            <img src="assets/img/NCI_Stacked_COLOR.png" class="img" alt="" style="width:250px;height:150px;">
+            <div class = "w-100"></div>
+            <img src="assets/img/USBLS.png" class="img" alt="" style="width:150px;height:150px;">
+          </div>
+        </div>
+      </div>
+    </section><!-- End Introduction Section -->
+
+
+    <!-- ======= Cancer Demographics Section ======= -->
+    <section id="demographics" class="demographics">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Cancer Demographics</h2>
+
+          <p></p>
+
+          <div id="graph1"></div>
+          <div class = 'text_box'>
+            <p> 
+              Total cancer cases in 2016 we see that breast cancer, lung, and Male Genital system cancers are the most prominent cancer sites.
+              The male genital system's cancer is primarily prostate cancer. Generally, this list is about what I would have expect seeing the most common cancers. 
+              One thing to note is that breast cancer is broken up between two categories, normal breast cancer, and breast cancer in situ, which. 
+              means that the cancer is only within the milk ducts of the breasts and has not yet spread to the rest of the breast issue.</p>
+          </div>
+
+          <div id="graph2"></div>
+
+          <div class = 'text_box'>
+            <p> 
+              When looking at cancer cases by gender, you that breast cancer is almost entirely women, while lung and colon cancer are 
+              roughly split evenly. Then you have other cancers that are much more common in males like urinary systems, skin, and liver cancer. Understanding which 
+              genders are affected by which cancers will help understand who is more at risk within communities that may have higher rates of cancer. 
+            </p>
+          </div>
+
+          <div id="graph3"></div>
+
+           <div class = 'text_box'>
+            <p> 
+              Race generally breaks upon roughly racial population lines in America. In this data set Hispanic and Latino Americans are included in white, making it by 
+              far the largest set within the population. Some key differences are that for black Americans male genital cancer is the most common form of cancer.
+              Additionally for Asian Americans the most common is breast cancer, but followed by colon and female genital cancer. Asian Americans also 
+              make up a surprising percentage of the endocrine system cancer which is the body messenger system that regulates hormones in the circular system, and cancer most
+              commonly happens within the thyroid.
+            </p>
+          </div>
+
+          <div id="graph4"></div>
+
+          <div class = 'text_box'>
+            <p>
+              Cancer broken down by age group that most cancer cases occur in people over the age of 50.
+               Cancer is the most likely occurs between the ages of 60-79, though this can be driven by the average life expectancy
+               in the United being about 79 years old, so the decline in population older than 79 will lead to lower number of cancer cases. 
+               There are a few cancer sites like Endocrine systems, which includes the thyroid and Breast Cancer in situ that effect a younger
+               part of the population as a percentage of total cases. Bone and Joint cancer is the only cancer site to be much more likely to affect people under 40 than over 40.
+            </p>
+          </div>
+
+
+        </div>
+
+    </section><!-- End Cancer Demographics Section -->
+
+    <!-- ======= Cancer Survival Section ======= -->
+    <section id="survival" class="survival section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Survival Rates</h2>
+          <p></p>
+          <div id="dotDiv1"></div>
+          <div class = 'text_box'>
+            <p>
+              In most cases survival rates are generally near each based-on gender. A few types of cancer to note, though it is not common,
+              breast cancer in men as a noticeably lower survival rate than females by about 10%. In addition, larynx cancer has a 10% lower survival rate
+              for women and gallbladder cancer has lower survival rates for men.
+            </p>
+          </div>
+          <div id="dotDiv2"></div>
+          <div class = 'text_box'>
+            <p> 
+              The National Cancer Institute only breaks out race based on being either white or black. Overall, most cases whites have 
+              slightly better outcomes in cancer cases, but generally similar. Gallbladder has a vast difference between black and white Americans. 
+              This looks to be driven by small sample size seeing that there was only 58 black Americans getting gallbladder cancer from 2000 - 2016. 
+              Of the most common cancer sites, only pancreas seems to have a lower survival rate for white Americans versus black Americans.
+            </p>
+          </div>
+        </div>
+    </section><!-- End Cancer Survival Section -->
+
+    <!-- ======= Survival Rate Scatterplot Section ======= -->
+    <section id="scatter" class="scatter section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Survival Rates with Case Counts</h2>
+          <p></p>
+          <div id="scatterDiv"></div>
+          <div class = 'text_box'>
+            <p> 
+              The scatter plot shows the distribution of cancer site case count and their survival rates. Higher survival rates being more optimal.
+              Lung cancer, of the top four most common types of cancer, has by far the worse survival rates. Endocrine Systems has a near 100% survival rate,
+              which can be attributed to the ease of surgery to remove the cancer, while Myeloma, cancer of the white blood cells, has the lowest survival rate. 
+              Both cancers are mildly common, but looking at lung, liver, and pancreas are much more common and still have fairly low 5-year survival rates.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Survival Rate Scatterplot Section -->
+
+    <!-- ======= MSA Map Section ======= -->
+    <section id="msa" class="msa">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Metropolitan Statistical Area Map </h2>
+          <p>Title comment section</p>
+          <div id="map">
+            <div class="map" data-num="0">
+              <div class="plot" id="mapDiv"></div>
+              <div class="control-row">
+                CancerSite: <select class="cancerdata">
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class = 'text_box'>
+            <p>
+              This map looks at cancers cases per million people, communities in Florida, and the Pittsburgh / upstate NY corridor have
+               the highest rates of cancer cases overall. This trend continues for major cancer sites. Taking a closer look at two of the top communities for most cancers cases
+              are the areas around Pittsburgh and Sarasota. Sarasota is a metropolitan just south of Tampa Bay, my initial hunch was that the community
+               has an older population, however, its median age is only 3 years older than the United States. They do have by far the highest of skin cancer in the country, and could be a driving factor. 
+              Pittsburgh is also not driven by having an older population, but Pittsburgh and upstate NY potentially be driven by decades of heavy industry and pollution
+               that once dominate the economy in those areas. Looking at the Myeloma, the cancer with the lowest survival rate, it is most common in the New York City and Tampa Bay.
+               Additionally, you can see that the California and Washington D.C. has lower cancer rates compared to the rest of the country. This could be driven by cleaner economic 
+               activities, a younger population age, or improved access to healthcare as both have free cancer screenings for select types of cancer.
+
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End MSA Map Section -->
+
+    <!-- ======= Conclusion Section ======= -->
+    <section id="conclusion" class="conclusion">
+      <div class="container">
+
+        <div class="row">
+          <h3>Conclusion</h3>
+          
+          <div class="col-lg-10">
+            <div class="content">
+              <p>
+              This project has allowed me to learn alot particular about data manipulation, and array structure in Javascript, 
+              but also about how cancer impacts different demographics and communities. Prior to this project I probably 
+              could have guessed Florida would have an higher rate of Cancer, but I did not expect Pittsburg and upstate New York to have such a high rate of cancer. 
+              Metropolitan areas with these higher rates of cancer will need to continue to invest and research therapies to be able to treat the increased number of cases.
+              Though looking at demographics was helpful in understanding who is more impacted by cancer, but for the most part was in align with my expectations and 
+              outcomes, and case rates by race are generally similar and really the key demographics are age and to an extent gender. This means that cancer research centers and
+              funding should generally target communities with older populations.  
+              </p>
+             
+            </div>
+          </div>
+      </div>  
+    </section><!-- End Pricing Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+
+    <div class="container d-md-flex py-4">
+
+      <div class="me-md-auto text-center text-md-start">
+        <div class="copyright">
+          &copy; Copyright <strong><span>Bikin</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/bikin-free-simple-landing-page-template/ -->
+          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        </div>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
+
+</body>
+
+<!--- ============= Plotly Chart Scripts -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<script>
+/* ------------------- Summary Chart -------------------*/
+  function makeplot_1() {
+    
+    Plotly.d3.csv('Cancer_summary.csv', function(data) {
+      processData(data)
+    });
+  
+}
+  function processData(allRows) {
+
+    var x = [], y = [];
+
+    for (var i=0; i<allRows.length; i++) {
+      row = allRows[i];
+      x.push( row['Cancer_Sites'] );
+      y.push( row['Count'] );
+    }
+    makePlotly_1( x, y ); 
+  }  
+  function makePlotly_1(x, y){
+    
+    var plotDiv = document.getElementById("plot");
+    var trace = [{
+      x: x,
+      y: y,
+      type: 'bar',
+      transforms: [{
+    type: 'sort',
+    target: 'y',
+    order: 'descending',
+    
+  }]
+      }];
+    var layout = {
+    title :'Highest Cancer Cases in 2016',
+    yaxis: { title: 'Number of Cases'},
+    xaxis: { title: 'Cancer Sites'},
+    margin: { b: 140, r: 205}
+    };
+
+  Plotly.newPlot('graph1', trace, layout);
+};
+makeplot_1();
+/* ------------------- Gender Stacked Chart -------------------*/
+
+function makeplot_2() {
+   
+    Plotly.d3.csv('Gender_Cancer.csv', function(err, rows) {
+  
+  function unpack(rows, key) {
+      return rows.map(function(row) { return row[key]; });
+  };
+  
+
+    var trace1 = {
+      x: unpack(rows, 'Cancer_Sites'),
+      y: unpack(rows, 'Count'),
+      type: 'bar',
+      name: 'Female',
+      transforms: [
+        {type: 'filter',
+        target: unpack(rows, 'Sex'),
+        operation: '=',
+        value: 'Female'}]
+      };
+      
+    var trace2 = {
+      x: unpack(rows, 'Cancer_Sites'),
+      y: unpack(rows, 'Count'),
+      type: 'bar',
+      name: 'Male',
+      transforms: [
+        {type: 'filter',
+        target: unpack(rows, 'Sex'),
+        operation: '=',
+        value: 'Male'}]
+      };
+     
+    dataplot = [trace1, trace2]
+    
+    var layout = {
+    barmode: 'stack',
+    title :'Highest Cancer Cases by Gender',
+    yaxis: { title: ' Number of Cases'},
+    xaxis: { title: 'Cancer Sites'},
+    margin: { b: 140, r: 205}
+    };
+
+  Plotly.newPlot('graph2', dataplot, layout);
+})};
+makeplot_2();
+
+/* ------------------- Race Stacked Chart -------------------*/
+
+function makeplot_3() {
+   
+   Plotly.d3.csv('Race_Cancer.csv', function(err, rows) {
+ 
+ function unpack(rows, key) {
+     return rows.map(function(row) { return row[key]; });
+ };
+ 
+
+   var trace1 = {
+     x: unpack(rows, 'Cancer_Sites'),
+     y: unpack(rows, 'Count'),
+     type: 'bar',
+     name: 'White',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Race'),
+       operation: '=',
+       value: 'White'}]
+     };
+     
+   var trace2 = {
+     x: unpack(rows, 'Cancer_Sites'),
+     y: unpack(rows, 'Count'),
+     type: 'bar',
+     name: 'Black',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Race'),
+       operation: '=',
+       value: 'Black or African American'}]
+     };
+
+  var trace3 = {
+     x: unpack(rows, 'Cancer_Sites'),
+     y: unpack(rows, 'Count'),
+     type: 'bar',
+     name: 'Asian',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Race'),
+       operation: '=',
+       value: 'Asian or Pacific Islander'}]
+     };
+  
+  var trace4 = {
+     x: unpack(rows, 'Cancer_Sites'),
+     y: unpack(rows, 'Count'),
+     type: 'bar',
+     name: 'Native American',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Race'),
+       operation: '=',
+       value: 'American Indian or Alaska Native'}]
+     };
+
+  var trace5 = {
+     x: unpack(rows, 'Cancer_Sites'),
+     y: unpack(rows, 'Count'),
+     type: 'bar',
+     name: 'Other',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Race'),
+       operation: '=',
+       value: 'Other Races and Unknown combined'}]
+     };
+    
+   dataplot = [trace1, trace2,trace3,trace4,trace5 ]
+   
+   var layout = {
+   barmode: 'stack',
+   title :'Highest Cancer Cases by Race',
+   yaxis: { title: ' Number of Cases'},
+   xaxis: { title: 'Cancer Sites'},
+   margin: { b: 140, r: 205}
+   };
+
+ Plotly.newPlot('graph3', dataplot, layout);
+})};
+makeplot_3();
+
+/* ------------------- Race Stacked Chart -------------------*/
+
+function makeplot_4() {
+   
+   Plotly.d3.csv('Age_Cancer.csv', function(err, rows) {
+ 
+ function unpack(rows, key) {
+     return rows.map(function(row) { return row[key]; });
+ };
+  // Reranged trace numbers so the chart would order by Age
+   var trace4 = {
+     y: unpack(rows, 'Cancer_Sites'),
+     x: unpack(rows, 'Count'),
+     type: 'bar',
+     name: '50-59 years',
+     orientation: 'h',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Age_Groups'),
+       operation: '=',
+       value: '50-59 years'}]
+     };
+
+   var trace3 = {
+     y: unpack(rows, 'Cancer_Sites'),
+     x: unpack(rows, 'Count'),
+     type: 'bar',
+     name: '60-69 years',
+     orientation: 'h',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Age_Groups'),
+       operation: '=',
+       value: '60-69 years'}]
+     };
+
+  var trace2 = {
+     y: unpack(rows, 'Cancer_Sites'),
+     x: unpack(rows, 'Count'),
+     type: 'bar',
+     name: '70-79 years',
+     orientation: 'h',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Age_Groups'),
+       operation: '=',
+       value: '70-79 years'}]
+     };
+  
+  var trace1 = {
+     y: unpack(rows, 'Cancer_Sites'),
+     x: unpack(rows, 'Count'),
+     type: 'bar',
+     name: '80+',
+     orientation: 'h',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Age_Groups'),
+       operation: '=',
+       value: '80+'}]
+     };
+
+  var trace5 = {
+     y: unpack(rows, 'Cancer_Sites'),
+     x: unpack(rows, 'Count'),
+     type: 'bar',
+     name: '40-49 years',
+     orientation: 'h',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Age_Groups'),
+       operation: '=',
+       value: '40-49 years'}]
+     };
+  
+  var trace6 = {
+     y: unpack(rows, 'Cancer_Sites'),
+     x: unpack(rows, 'Count'),
+     type: 'bar',
+     name: '30-39 years',
+     orientation: 'h',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Age_Groups'),
+       operation: '=',
+       value: '30-39 years'}]
+     };
+
+  var trace7 = {
+     y: unpack(rows, 'Cancer_Sites'),
+     x: unpack(rows, 'Count'),
+     type: 'bar',
+     name: '20-29 years',
+     orientation: 'h',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Age_Groups'),
+       operation: '=',
+       value: '20-29 years'}]
+     };
+  
+  var trace8 = {
+     y: unpack(rows, 'Cancer_Sites'),
+     x: unpack(rows, 'Count'),
+     type: 'bar',
+     name: '10-19 years',
+     orientation: 'h',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Age_Groups'),
+       operation: '=',
+       value: '10-19 years'}]
+     };
+  
+  var trace9 = {
+     y: unpack(rows, 'Cancer_Sites'),
+     x: unpack(rows, 'Count'),
+     type: 'bar',
+     name: '0-9 years',
+     orientation: 'h',
+     transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Age_Groups'),
+       operation: '=',
+       value: '0-9 years'}]
+     };
+    
+   dataplot = [trace1, trace2,trace3,trace4,trace5,trace6,trace7, trace8,trace9 ]
+   
+   var layout = {
+   barmode: 'stack',
+   title :'Highest Cancer Cases by Age Group',
+   xaxis: { title: ' Number of Cases'},
+   yaxis: { title: 'Cancer Sites'},
+   margin: { b: 140, l: 240},
+   width: 1300,
+   height: 800,
+
+   };
+
+ Plotly.newPlot('graph4', dataplot, layout);
+})};
+makeplot_4();
+
+/* ------------------- Cancer Survival Rates Gender -------------------*/
+
+function makeplot_dot1() {
+   
+   Plotly.d3.csv('seer_Gender_Cancer.csv', function(err, rows) {
+ 
+ function unpack(rows, key) {
+     return rows.map(function(row) { return row[key]; });
+ };
+  var trace1 = {
+    type: 'scatter',
+    x: unpack(rows, '5-Year_Conditional_Relative_Survival'),
+    y: unpack(rows, 'Cancer_Sites'),
+    mode: 'markers',
+    name: 'Male'  ,
+    marker: {
+    color: 'rgba(156, 165, 196, 0.95)',
+    line: {
+      color: 'rgba(156, 165, 196, 1.0)',
+      width: 1,
+    },
+    symbol: 'circle',
+    size: 16},
+    transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Gender'),
+       operation: '=',
+       value: 'Male'}]
+  };
+
+  var trace2 = {
+    type: 'scatter',
+    x: unpack(rows, '5-Year_Conditional_Relative_Survival'),
+    y: unpack(rows, 'Cancer_Sites'),
+    mode: 'markers',
+    name: 'Female'  ,
+    marker: {
+    color: 'rgba( 93, 172, 90, 0.95)',
+    line: {
+      color: 'rgba(156, 165, 196, 1.0)',
+      width: 1,
+    },
+    symbol: 'circle',
+    size: 16},
+    transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Gender'),
+       operation: '=',
+       value: 'Female'}]
+  };
+
+  var layout = {
+    title: 'Survival Rates by Gender',
+    xaxis: {
+      showgrid: false,
+      showline: true,
+      linecolor: 'rgb(102, 102, 102)',
+      titlefont: {
+        font: {
+          color: 'rgb(204, 204, 204)'
+        }
+      },
+      tickfont: {
+        font: {
+          color: 'rgb(102, 102, 102)'
+        }
+      },
+      autotick: false,
+      dtick: .05,
+      ticks: 'outside',
+      tickcolor: 'rgb(102, 102, 102)'
+    },
+    margin: {
+      l: 200,
+      r: 40,
+      b: 50,
+      t: 80
+    },
+    legend: {
+      font: {
+        size: 10,
+      },
+      yanchor: 'middle',
+      xanchor: 'right'
+    },
+    width: 1300,
+    height: 800,
+    hovermode: 'closest'
+};
+
+data = [trace1, trace2]
+
+Plotly.newPlot('dotDiv1', data, layout);
+
+  });
+};
+makeplot_dot1();
+
+/* ------------------- Cancer Survival Rates Race-------------------*/
+
+function makeplot_dot2() {
+   
+   Plotly.d3.csv('seer_Race_Cancer.csv', function(err, rows) {
+ 
+ function unpack(rows, key) {
+     return rows.map(function(row) { return row[key]; });
+ };
+  var trace1 = {
+    type: 'scatter',
+    x: unpack(rows, '5-Year_Conditional_Relative_Survival'),
+    y: unpack(rows, 'Cancer_Sites'),
+    mode: 'markers',
+    name: 'White'  ,
+    marker: {
+    color: 'rgba(156, 165, 196, 0.95)',
+    line: {
+      color: 'rgba(156, 165, 196, 1.0)',
+      width: 1,
+    },
+    symbol: 'circle',
+    size: 16},
+    transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Race'),
+       operation: '=',
+       value: 'White'}]
+  };
+
+  var trace2 = {
+    type: 'scatter',
+    x: unpack(rows, '5-Year_Conditional_Relative_Survival'),
+    y: unpack(rows, 'Cancer_Sites'),
+    mode: 'markers',
+    name: 'Black'  ,
+    marker: {
+    color: 'rgba( 93, 172, 90, 0.95)',
+    line: {
+      color: 'rgba(156, 165, 196, 1.0)',
+      width: 1,
+    },
+    symbol: 'circle',
+    size: 16},
+    transforms: [
+       {type: 'filter',
+       target: unpack(rows, 'Race'),
+       operation: '=',
+       value: 'Black'}]
+  };
+  var layout = {
+    title: 'Survival Rates by Race',
+    xaxis: {
+      showgrid: false,
+      showline: true,
+      linecolor: 'rgb(102, 102, 102)',
+      titlefont: {
+        font: {
+          color: 'rgb(204, 204, 204)'
+        }
+      },
+      tickfont: {
+        font: {
+          color: 'rgb(102, 102, 102)'
+        }
+      },
+      autotick: false,
+      dtick: .05,
+      ticks: 'outside',
+      tickcolor: 'rgb(102, 102, 102)'
+    },
+    margin: {
+      l: 200,
+      r: 40,
+      b: 50,
+      t: 80
+    },
+    legend: {
+      font: {
+        size: 10,
+      },
+      yanchor: 'middle',
+      xanchor: 'right'
+    },
+    width: 1300,
+    height: 800,
+    hovermode: 'closest'
+};
+
+data = [trace1, trace2]
+
+Plotly.newPlot('dotDiv2', data, layout);
+
+
+
+  });
+};
+makeplot_dot2();
+
+/* ------------------- Scatter Plot -------------------*/
+
+function makeplot_scatter() {
+   
+   Plotly.d3.csv('cancer_complete.csv', function(err, rows) {
+ 
+  function unpack(rows, key) {
+      return rows.map(function(row) { return row[key]; });
+  };
+
+  var scatterdata = [{
+    type: 'scatter',
+    x: unpack(rows, '5-Year_Conditional_Relative_Survival'),
+    y: unpack(rows, 'Count'),
+    mode: 'markers',
+    text: unpack(rows, 'Cancer_Sites'),
+    marker: {
+    size: 20}
+  }]
+
+  var layout = {
+    title: 'Survival Rates Scatter',
+    height: 600,
+    width: 1300
+  };
+
+  Plotly.newPlot('scatterDiv', scatterdata, layout);
+  })
+};
+
+makeplot_scatter();
+
+/* ------------------- Read GEOJSON Function -------------------*/
+
+async function fetchJSON(url) {
+ var response = await fetch(url);
+ var jsonData = await response.json();
+ return jsonData;
+}
+
+/* ------------------- Map Plot -------------------*/
+
+function makeplot_map() {
+  Plotly.d3.csv('MSA_complete.csv', function(data) {
+
+var msa_code = [], cancer_count = [], Cancer_Sites = []; msa_name = []
+
+// pull in data
+for (var i=0; i<data.length; i++) {
+  row = data[i];
+  var location = row['MSA_Code'].replace(/\.0+$/,"");
+  msa_code.push( location );
+  var count = parseInt(row['Cases Per million People']);
+  cancer_count.push(count );
+  var Cancer = row['Cancer_Sites'];
+  Cancer_Sites.push( Cancer );
+};
+
+
+// Create list of Cancer Sites for Dropdown
+listofCancerSites = ['All']
+for (var i = 0; i < Cancer_Sites.length; i++ ){
+        if (listofCancerSites.indexOf(Cancer_Sites[i]) === -1 ){
+          listofCancerSites.push(Cancer_Sites[i]);
+        }
+    };
+  
+function groupMapData(mapArray) {
+// grouping map data
+
+var result = [];
+mapArray.reduce(function(res, value) {
+  
+  if (!res[value.selectedLocation]) {
+    res[value.selectedLocation] = { selectedLocation: value.selectedLocation, selectedCount: 0 };
+    result.push(res[value.selectedLocation])
+  }
+ 
+  res[value.selectedLocation].selectedCount += value.selectedCount;
+  return res;
+}, {});
+
+return result
+}
+
+
+// create plot
+makePlotly_map('All'); 
+
+// Get Data Function
+function get_cancerData(chosenSite) {
+  var mapArray = []
+  selectedLocation = []
+  selectedCount = [] 
+
+  if (chosenSite == 'All' ) { 
+
+    selectedLocation = msa_code;
+    selectedCount = cancer_count;
+  } else {
+  for (var i = 0; i < Cancer_Sites.length; i++ ){
+    if ( Cancer_Sites[i] == chosenSite){
+      selectedLocation.push(msa_code[i]);
+      selectedCount.push(cancer_count[i]);
+    }}};
+
+
+  for (var i = 0; i < selectedLocation.length; i++ ){
+    mapArray.push({
+    selectedLocation: selectedLocation[i],
+    selectedCount: selectedCount[i]});
+  }
+  
+  
+  return mapArray
+};
+
+async function makePlotly_map (chosenSite){
+  var msa_map = await fetchJSON('MSA_US.geojson');
+
+  // move id feature in geojson for plotly to read in properly
+  msa_map.features.forEach(element => {
+    element.id = element.properties.id;
+  })
+  var mapInfo = get_cancerData(chosenSite);
+  var mapData = groupMapData(mapInfo)
+  
+  var z = mapData.map(e => e.selectedCount);
+  var locations = mapData.map(e => e.selectedLocation);
+  
+  var trace = [
+   {
+    type: "choroplethmapbox", locations, z, coloraxis: "coloraxis",
+    geojson: msa_map,
+    text: locations,
+    hovertemplate: 'MSA Code: %{text}<br>'+
+                  'Cases per Million People: %{z}'
+  }];
+
+  var layout = {width: 1300, height: 700, marker: {line: {color: "blue"}},
+      coloraxis: { colorscale: "Portland" },
+      mapbox: {style: "basic", 
+      center: {lon: -95, lat: 40}, zoom: 3.0},
+        };
+
+  Plotly.setPlotConfig({mapboxAccessToken: 'pk.eyJ1IjoiY2p0YXlsb3I5NCIsImEiOiJja251bXdnbTcwYTFnMm9waWR6YWUwbDlnIn0.6QeTZIaHeKTCAzPFal-D9Q'});
+
+  Plotly.newPlot('mapDiv', trace, layout); 
+};
+
+
+var innerContainer = document.querySelector('[data-num="0"'),
+        plotEl = innerContainer.querySelector('.plot'),
+        cancerSelector = innerContainer.querySelector('.cancerdata');
+
+function assignOptions(textArray, selector) {
+    for (var i = 0; i < textArray.length;  i++) {
+        var currentOption = document.createElement('option');
+        currentOption.text = textArray[i];
+        selector.appendChild(currentOption);
+    }
+}
+
+assignOptions(listofCancerSites, cancerSelector);
+
+function updateCancer(){
+  makePlotly_map(cancerSelector.value);
+}
+
+cancerSelector.addEventListener('change', updateCancer, false);
+
+})};
+
+makeplot_map();
+
+</script>
+
+
+</html>

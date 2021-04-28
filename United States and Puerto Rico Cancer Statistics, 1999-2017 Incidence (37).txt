@@ -1,0 +1,1171 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	51
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	86
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	70
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	149
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	91
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	239
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	122
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	393
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	150
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	509
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	289
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	644
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	539
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	945
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	855
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	1097
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	63
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1139
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1400
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	64
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1535
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	1285
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1378
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	995
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1190
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	708
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	812
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	766
+	"All Invasive Cancer Sites Combined"	"0"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	779
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	116
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	63
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	153
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	74
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	201
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	91
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	368
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	182
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	527
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	406
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	75
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	763
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	85
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	735
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	84
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	871
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	92
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	983
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	82
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1073
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	90
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1223
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	74
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	941
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	65
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	999
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	762
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	783
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	650
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	614
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	831
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	669
+	"Oral Cavity and Pharynx"	"20010-20100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Oral Cavity and Pharynx"	"20010-20100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Oral Cavity and Pharynx"	"20010-20100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	48
+	"Oral Cavity and Pharynx"	"20010-20100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	52
+	"Oral Cavity and Pharynx"	"20010-20100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Oral Cavity and Pharynx"	"20010-20100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	65
+	"Oral Cavity and Pharynx"	"20010-20100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	43
+	"Oral Cavity and Pharynx"	"20010-20100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Oral Cavity and Pharynx"	"20010-20100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Oral Cavity and Pharynx"	"20010-20100"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	48
+	"Oral Cavity and Pharynx"	"20010-20100"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	48
+	"Oral Cavity and Pharynx"	"20010-20100"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Oral Cavity and Pharynx"	"20010-20100"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"Oral Cavity and Pharynx"	"20010-20100"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Oral Cavity and Pharynx"	"20010-20100"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Tongue"	"20020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Tongue"	"20020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Tongue"	"20020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Tongue"	"20020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Tongue"	"20020"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Tongue"	"20020"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Tongue"	"20020"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Tonsil"	"20070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Tonsil"	"20070"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Tonsil"	"20070"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	28
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	61
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	86
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	153
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	132
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	195
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	162
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	253
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	206
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	313
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	198
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	235
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	160
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	224
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	150
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	147
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	196
+	"Digestive System"	"21010-21130"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	165
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	20
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	70
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	108
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	95
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	153
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	116
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	209
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	155
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	218
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	125
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	193
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	152
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	150
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	137
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	114
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	230
+	"Digestive System"	"21010-21130"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	158
+	"Esophagus"	"21010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Esophagus"	"21010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Esophagus"	"21010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Esophagus"	"21010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Esophagus"	"21010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Esophagus"	"21010"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Esophagus"	"21010"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Esophagus"	"21010"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Esophagus"	"21010"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Esophagus"	"21010"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Stomach"	"21020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Stomach"	"21020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Stomach"	"21020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Stomach"	"21020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Stomach"	"21020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Stomach"	"21020"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Stomach"	"21020"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Stomach"	"21020"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Stomach"	"21020"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Stomach"	"21020"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	51
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	86
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	64
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	80
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	64
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	100
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	89
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	109
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	87
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	100
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	72
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	97
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	68
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	60
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	101
+	"Colon and Rectum"	"21041-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	64
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	36
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	42
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	54
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	46
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	60
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	55
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	88
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	73
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	89
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	62
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	78
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	80
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	68
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	76
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	118
+	"Colon and Rectum"	"21041-21052"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	88
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	54
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	41
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	50
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	46
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	64
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	70
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	73
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	70
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	83
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	60
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	76
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	59
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	42
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	90
+	"Colon excluding Rectum"	"21041-21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	53
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	58
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	54
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	65
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	51
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	60
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	67
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	45
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	68
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	100
+	"Colon excluding Rectum"	"21041-21049"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	75
+	"Cecum"	"21041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Cecum"	"21041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Cecum"	"21041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Cecum"	"21041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Cecum"	"21041"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Cecum"	"21041"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Cecum"	"21041"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Cecum"	"21041"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Cecum"	"21041"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Cecum"	"21041"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Ascending Colon"	"21043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Ascending Colon"	"21043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Ascending Colon"	"21043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Ascending Colon"	"21043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Ascending Colon"	"21043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Ascending Colon"	"21043"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Ascending Colon"	"21043"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Ascending Colon"	"21043"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Ascending Colon"	"21043"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Sigmoid Colon"	"21048"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Sigmoid Colon"	"21048"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Sigmoid Colon"	"21048"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Sigmoid Colon"	"21048"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Sigmoid Colon"	"21048"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Sigmoid Colon"	"21048"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Sigmoid Colon"	"21048"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Large Intestine, NOS"	"21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Large Intestine, NOS"	"21049"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	32
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum"	"21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum"	"21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Rectum"	"21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum"	"21052"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum"	"21052"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum"	"21052"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum"	"21052"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Rectum"	"21052"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum"	"21052"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum"	"21052"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Anus, Anal Canal and Anorectum"	"21060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	37
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	51
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Liver"	"21071"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	43
+	"Liver"	"21071"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Liver"	"21071"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	47
+	"Liver"	"21071"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Liver"	"21071"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver"	"21071"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Liver"	"21071"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Liver"	"21071"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	34
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	46
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	43
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	63
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	57
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	38
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Pancreas"	"21100"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	39
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	33
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	52
+	"Pancreas"	"21100"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	44
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	82
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	82
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	114
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	133
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	174
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	197
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	207
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	244
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	225
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	179
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	138
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	163
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	120
+	"Respiratory System"	"22010-22060"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	116
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	54
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	44
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	96
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	106
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	141
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	153
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	161
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	197
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	200
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	191
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	142
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	161
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	115
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	116
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	112
+	"Respiratory System"	"22010-22060"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	118
+	"Larynx"	"22020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Larynx"	"22020"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	77
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	69
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	112
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	122
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	171
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	182
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	205
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	223
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	222
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	171
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	136
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	152
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	115
+	"Lung and Bronchus"	"22030"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	111
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	49
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	88
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	84
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	135
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	142
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	153
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	181
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	196
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	176
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	137
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	146
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	113
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	111
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	108
+	"Lung and Bronchus"	"22030"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	110
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	38
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	48
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	39
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	52
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	56
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	73
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	47
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	90
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	80
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	137
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	79
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	110
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	48
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	109
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	93
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	77
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	50
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	63
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	53
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	37
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	48
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	37
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	55
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	73
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	44
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	83
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	76
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	133
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	77
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	101
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	101
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	83
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Melanoma of the Skin"	"25010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	74
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	42
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	49
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	60
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	52
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	70
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	142
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	242
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	280
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	338
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	372
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	501
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	374
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	276
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	157
+	"Male and Female Breast"	"26000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	145
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	23
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	51
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	79
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	164
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	183
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	277
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	265
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	336
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	279
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	190
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	158
+	"Male and Female Breast"	"26000"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	150
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	70
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	142
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	242
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	280
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	338
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	372
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	501
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	374
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	276
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	157
+	"Female Breast"	"26000-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	145
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	79
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	164
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	183
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	277
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	265
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	336
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	279
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	190
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	158
+	"Female Breast"	"26000-Female"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	150
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	62
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	66
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	91
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	144
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	170
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	174
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	124
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	87
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Genital System"	"27010-27070"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Genital System"	"27010-27070"	"Pittsburgh, PA"	"38300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Genital System"	"27010-27070"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	67
+	"Female Genital System"	"27010-27070"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	120
+	"Female Genital System"	"27010-27070"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	140
+	"Female Genital System"	"27010-27070"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	150
+	"Female Genital System"	"27010-27070"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	107
+	"Female Genital System"	"27010-27070"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	76
+	"Female Genital System"	"27010-27070"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Genital System"	"27010-27070"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	61
+	"Cervix Uteri"	"27010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	17
+	"Cervix Uteri"	"27010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Cervix Uteri"	"27010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Corpus Uteri"	"27020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	22
+	"Corpus Uteri"	"27020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Corpus Uteri"	"27020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	50
+	"Corpus Uteri"	"27020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	95
+	"Corpus Uteri"	"27020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	112
+	"Corpus Uteri"	"27020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	104
+	"Corpus Uteri"	"27020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	76
+	"Corpus Uteri"	"27020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	41
+	"Corpus Uteri"	"27020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Corpus Uteri"	"27020"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Corpus Uteri"	"27020"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	39
+	"Corpus Uteri"	"27020"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	73
+	"Corpus Uteri"	"27020"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	89
+	"Corpus Uteri"	"27020"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	104
+	"Corpus Uteri"	"27020"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	70
+	"Corpus Uteri"	"27020"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Corpus Uteri"	"27020"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Corpus Uteri"	"27020"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Ovary"	"27040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Ovary"	"27040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Ovary"	"27040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Ovary"	"27040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Ovary"	"27040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Ovary"	"27040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	41
+	"Ovary"	"27040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Ovary"	"27040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Ovary"	"27040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Ovary"	"27040"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Ovary"	"27040"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Ovary"	"27040"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Ovary"	"27040"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Ovary"	"27040"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Ovary"	"27040"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Ovary"	"27040"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	21
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	23
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	25
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	43
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	109
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	219
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	303
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	399
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	333
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	214
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	100
+	"Male Genital System"	"28010-28040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	98
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	79
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	154
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	260
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	354
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	24
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	226
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	140
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	79
+	"Male Genital System"	"28010-28040"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	68
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	35
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	106
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	216
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	299
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	396
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	327
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	214
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	96
+	"Prostate"	"28010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	94
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	71
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	152
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	254
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	351
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	24
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	221
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	137
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	77
+	"Prostate"	"28010"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	66
+	"Testis"	"28020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	21
+	"Testis"	"28020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	23
+	"Testis"	"28020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	17
+	"Testis"	"28020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	24
+	"Testis"	"28020"	"Pittsburgh, PA"	"38300"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	39
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	58
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	41
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	104
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	61
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	120
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	74
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	196
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	73
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	188
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	52
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	195
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	46
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	142
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	48
+	"Urinary System"	"29010-29040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	114
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	36
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	32
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	83
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	34
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	109
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	68
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	134
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	52
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	128
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	38
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	125
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	47
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	111
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	53
+	"Urinary System"	"29010-29040"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	103
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	53
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	60
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	99
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	46
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	109
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	136
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	113
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Urinary Bladder, invasive and in situ"	"29010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	95
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	58
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	83
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	85
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	84
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	33
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	87
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Urinary Bladder, invasive and in situ"	"29010"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	88
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	23
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	39
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	50
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	58
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	93
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	76
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	54
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	45
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	48
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	48
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	40
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Brain and Other Nervous System"	"31010-31040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Brain and Other Nervous System"	"31010-31040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Brain and Other Nervous System"	"31010-31040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Brain and Other Nervous System"	"31010-31040"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Brain and Other Nervous System"	"31010-31040"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Brain"	"31010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Brain"	"31010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Brain"	"31010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Brain"	"31010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Brain"	"31010"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	35
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	33
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	49
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	49
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	45
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	36
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	53
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	23
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	33
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	36
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	34
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	44
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	35
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	33
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	49
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	49
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	45
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	51
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	23
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	33
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	35
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	25
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	34
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	43
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	34
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	41
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Thyroid"	"32010"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	43
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	51
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	52
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	61
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	59
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	64
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	38
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	69
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	39
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	40
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	41
+	"Lymphomas"	"33011-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	42
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	37
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	40
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	37
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	55
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	45
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	48
+	"Lymphomas"	"33011-33042"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	34
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	48
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	50
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	57
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	58
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	62
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	37
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	65
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	38
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	39
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	41
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	39
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	36
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	52
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	42
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	47
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	34
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	36
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	47
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"NHL - Nodal"	"33041"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"NHL - Nodal"	"33041"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Extranodal"	"33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"NHL - Extranodal"	"33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"NHL - Extranodal"	"33042"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"NHL - Extranodal"	"33042"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Extranodal"	"33042"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Extranodal"	"33042"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Myeloma"	"34000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Myeloma"	"34000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Myeloma"	"34000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Myeloma"	"34000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Myeloma"	"34000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Myeloma"	"34000"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Myeloma"	"34000"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Leukemias"	"35011-35043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	41
+	"Leukemias"	"35011-35043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Leukemias"	"35011-35043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Leukemias"	"35011-35043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	35
+	"Leukemias"	"35011-35043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	30
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	35
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Leukemias"	"35011-35043"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	41
+	"Chronic Lymphocytic Leukemia"	"35012"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Chronic Lymphocytic Leukemia"	"35012"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Chronic Lymphocytic Leukemia"	"35012"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Chronic Lymphocytic Leukemia"	"35012"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Chronic Lymphocytic Leukemia"	"35012"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Chronic Lymphocytic Leukemia"	"35012"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Chronic Lymphocytic Leukemia"	"35012"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Acute Myeloid Leukemia"	"35021"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Acute Myeloid Leukemia"	"35021"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Acute Myeloid Leukemia"	"35021"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	51
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	49
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	30
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	68
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	41
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	44
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	75
+	"Miscellaneous"	"37000"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	77
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	36
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	42
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	40
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	89
+	"Miscellaneous"	"37000"	"Pittsburgh, PA"	"38300"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	66
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	63
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	71
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	81
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	97
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	95
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	74
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	54
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	46
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	63
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	88
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	79
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	43
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	71
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	81
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	97
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	95
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	74
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	54
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Pittsburgh, PA"	"38300"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Pittsburgh, PA"	"38300"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	46
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Pittsburgh, PA"	"38300"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Pittsburgh, PA"	"38300"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Pittsburgh, PA"	"38300"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	88
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Pittsburgh, PA"	"38300"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	79
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Pittsburgh, PA"	"38300"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Pittsburgh, PA"	"38300"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Pittsburgh, PA"	"38300"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Phoenix-Mesa-Scottsdale, AZ (38060); Pittsburgh, PA (38300)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 2:05:55 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 2:05:55 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

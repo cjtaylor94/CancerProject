@@ -1,0 +1,1255 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	37
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	81
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	97
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	160
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	75
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	284
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	150
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	357
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	63
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	292
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	88
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	521
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	100
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	557
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	536
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	100
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	651
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	87
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	621
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	87
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	729
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	524
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	573
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	460
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	476
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	311
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	298
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	307
+	"All Invasive Cancer Sites Combined"	"0"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	233
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	54
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	68
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	143
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"25-29 years"	"25-29"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	92
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	57
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	228
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	153
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	74
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	344
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	157
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	143
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	539
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	272
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	180
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	785
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	97
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	435
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	244
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	1018
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	215
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	816
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	312
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	1276
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	377
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	1351
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	316
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	1367
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	347
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1579
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	344
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1617
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	356
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1936
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	232
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	1326
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	249
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1607
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	162
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	951
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	113
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1161
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	110
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	794
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	88
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	815
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	93
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	817
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	746
+	"Oral Cavity and Pharynx"	"20010-20100"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Oral Cavity and Pharynx"	"20010-20100"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	36
+	"Oral Cavity and Pharynx"	"20010-20100"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Oral Cavity and Pharynx"	"20010-20100"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Oral Cavity and Pharynx"	"20010-20100"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	28
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	62
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	89
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	104
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	83
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	54
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Oral Cavity and Pharynx"	"20010-20100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Tongue"	"20020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Tongue"	"20020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Tongue"	"20020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Tongue"	"20020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Tonsil"	"20070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Tonsil"	"20070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Tonsil"	"20070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	30
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	37
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	55
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	56
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	101
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	70
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	117
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	79
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	126
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	85
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	113
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	80
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	76
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	57
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	53
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	80
+	"Digestive System"	"21010-21130"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	50
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	73
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	90
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	98
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	145
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	63
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	203
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	71
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	172
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	96
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	299
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	70
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	213
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	102
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	336
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	81
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	245
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	73
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	359
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	236
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	53
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	285
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	155
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	222
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	162
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	159
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	207
+	"Digestive System"	"21010-21130"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	157
+	"Esophagus"	"21010"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Esophagus"	"21010"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Esophagus"	"21010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"Esophagus"	"21010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Esophagus"	"21010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Esophagus"	"21010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Esophagus"	"21010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Esophagus"	"21010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Stomach"	"21020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Stomach"	"21020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Stomach"	"21020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Stomach"	"21020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Stomach"	"21020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Small Intestine"	"21030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	41
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	43
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	40
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	50
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	41
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	46
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	41
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	35
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	39
+	"Colon and Rectum"	"21041-21052"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	42
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	53
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	54
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	86
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	106
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	86
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	37
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	114
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	77
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	117
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	106
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	141
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	97
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	117
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	78
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	94
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	74
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	77
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	106
+	"Colon and Rectum"	"21041-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	69
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	37
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Colon excluding Rectum"	"21041-21049"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	41
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	32
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	57
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	61
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	53
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	74
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	51
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	72
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	75
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	90
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	77
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	80
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	62
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	70
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	55
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	56
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	95
+	"Colon excluding Rectum"	"21041-21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	60
+	"Cecum"	"21041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Cecum"	"21041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Cecum"	"21041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Cecum"	"21041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Cecum"	"21041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Ascending Colon"	"21043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Ascending Colon"	"21043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Ascending Colon"	"21043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Ascending Colon"	"21043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Ascending Colon"	"21043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Ascending Colon"	"21043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Ascending Colon"	"21043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Sigmoid Colon"	"21048"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Sigmoid Colon"	"21048"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Sigmoid Colon"	"21048"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Sigmoid Colon"	"21048"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Sigmoid Colon"	"21048"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Sigmoid Colon"	"21048"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Sigmoid Colon"	"21048"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Large Intestine, NOS"	"21049"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	45
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	40
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	45
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	51
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectosigmoid Junction"	"21051"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Rectum"	"21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	36
+	"Rectum"	"21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Rectum"	"21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Rectum"	"21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Rectum"	"21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	38
+	"Rectum"	"21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Rectum"	"21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Rectum"	"21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	30
+	"Rectum"	"21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum"	"21052"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Anus, Anal Canal and Anorectum"	"21060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	29
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	75
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	88
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	58
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver"	"21071"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver"	"21071"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	64
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	37
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	82
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	53
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Liver"	"21071"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Pancreas"	"21100"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	37
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	40
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	57
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	46
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	56
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	52
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	54
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	43
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	43
+	"Pancreas"	"21100"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	30
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	37
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	44
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	99
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	70
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	112
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	104
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	124
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	98
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	109
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	103
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	115
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	68
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	68
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	52
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	64
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	63
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	135
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	144
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	179
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	197
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	234
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	265
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	230
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	52
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	287
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	183
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	258
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	159
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	118
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	150
+	"Respiratory System"	"22010-22060"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	105
+	"Larynx"	"22020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	57
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	88
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	63
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	105
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	98
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	116
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	93
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	109
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	101
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	112
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	67
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	63
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	62
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	130
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	130
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	173
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	180
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	228
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	250
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	224
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	265
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	178
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	249
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	157
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	109
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	144
+	"Lung and Bronchus"	"22030"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	101
+	"Soft Tissue including Heart"	"24000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	35
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	60
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	45
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	34
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	57
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	47
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	74
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	43
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	97
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	79
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	86
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	71
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	52
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	58
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	35
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	33
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	58
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	44
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	54
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	45
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	72
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	93
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	45
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	79
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	82
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	69
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	50
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	55
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	32
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	59
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	109
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	119
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	182
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	170
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	213
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	159
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	111
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	72
+	"Male and Female Breast"	"26000"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	67
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	49
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	99
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	71
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	197
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	80
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	321
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	93
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	390
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	107
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	451
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	102
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	483
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	90
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	523
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	56
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	374
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	236
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	177
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	167
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	59
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	109
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	119
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	182
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	170
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	213
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	159
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	111
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	72
+	"Female Breast"	"26000-Female"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	67
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	99
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	71
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	197
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	80
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	321
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	93
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	390
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	107
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	451
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	102
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	483
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	90
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	523
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	56
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	374
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	236
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	177
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	167
+	"Female Genital System"	"27010-27070"	"Columbus, OH"	"18140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Genital System"	"27010-27070"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Genital System"	"27010-27070"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	96
+	"Female Genital System"	"27010-27070"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	103
+	"Female Genital System"	"27010-27070"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	60
+	"Female Genital System"	"27010-27070"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Genital System"	"27010-27070"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Genital System"	"27010-27070"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Genital System"	"27010-27070"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	48
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	88
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	97
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	134
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	180
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	160
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	207
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	114
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	79
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	41
+	"Female Genital System"	"27010-27070"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	46
+	"Cervix Uteri"	"27010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	22
+	"Cervix Uteri"	"27010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	36
+	"Cervix Uteri"	"27010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	30
+	"Cervix Uteri"	"27010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	28
+	"Cervix Uteri"	"27010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Cervix Uteri"	"27010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Cervix Uteri"	"27010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	26
+	"Corpus Uteri"	"27020"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	61
+	"Corpus Uteri"	"27020"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	65
+	"Corpus Uteri"	"27020"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	36
+	"Corpus Uteri"	"27020"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"Corpus Uteri"	"27020"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	40
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	69
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	115
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	105
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	135
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	61
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	40
+	"Corpus Uteri"	"27020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Ovary"	"27040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Ovary"	"27040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Ovary"	"27040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	32
+	"Ovary"	"27040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Ovary"	"27040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"Ovary"	"27040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Ovary"	"27040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	63
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	153
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	195
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	243
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	143
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	112
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	44
+	"Male Genital System"	"28010-28040"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	28
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	35
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	35
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	25
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	53
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	72
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	151
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	131
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	312
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	126
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	385
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	142
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	568
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	72
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	388
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	199
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	134
+	"Male Genital System"	"28010-28040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	127
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	61
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	152
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	195
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	243
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	143
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	110
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	43
+	"Prostate"	"28010"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	25
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	39
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	72
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	143
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	130
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	305
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	126
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	382
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	142
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	562
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	72
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	385
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	198
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	129
+	"Prostate"	"28010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	125
+	"Testis"	"28020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	28
+	"Testis"	"28020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	35
+	"Testis"	"28020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	72
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	71
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	80
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	70
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	31
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	65
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	50
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Urinary System"	"29010-29040"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	38
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	42
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	30
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	63
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	58
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	106
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	171
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	56
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	193
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	94
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	240
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	77
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	217
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	68
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	156
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	59
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	120
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	51
+	"Urinary System"	"29010-29040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	116
+	"Urinary Bladder, invasive and in situ"	"29010"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Urinary Bladder, invasive and in situ"	"29010"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	42
+	"Urinary Bladder, invasive and in situ"	"29010"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Urinary Bladder, invasive and in situ"	"29010"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Urinary Bladder, invasive and in situ"	"29010"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Urinary Bladder, invasive and in situ"	"29010"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	45
+	"Urinary Bladder, invasive and in situ"	"29010"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	66
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	98
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	122
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	116
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	33
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	104
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	84
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	88
+	"Kidney and Renal Pelvis"	"29020"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	39
+	"Kidney and Renal Pelvis"	"29020"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Kidney and Renal Pelvis"	"29020"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Kidney and Renal Pelvis"	"29020"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	37
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	47
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	46
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	75
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	48
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	104
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	95
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	62
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	117
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	54
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	95
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	47
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	33
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"Brain and Other Nervous System"	"31010-31040"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Brain and Other Nervous System"	"31010-31040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Brain and Other Nervous System"	"31010-31040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Brain and Other Nervous System"	"31010-31040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Brain and Other Nervous System"	"31010-31040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Brain and Other Nervous System"	"31010-31040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Brain and Other Nervous System"	"31010-31040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Brain and Other Nervous System"	"31010-31040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Brain and Other Nervous System"	"31010-31040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Brain and Other Nervous System"	"31010-31040"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Brain"	"31010"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Brain"	"31010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Brain"	"31010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Brain"	"31010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Brain"	"31010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Brain"	"31010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Brain"	"31010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Brain"	"31010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Brain"	"31010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Columbus, OH"	"18140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Columbus, OH"	"18140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Columbus, OH"	"18140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	30
+	"Endocrine System"	"32010-32020"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	36
+	"Endocrine System"	"32010-32020"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Endocrine System"	"32010-32020"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	35
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	43
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	51
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	67
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	72
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	71
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	65
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	36
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	62
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Endocrine System"	"32010-32020"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Columbus, OH"	"18140"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Columbus, OH"	"18140"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Columbus, OH"	"18140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	30
+	"Thyroid"	"32010"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	36
+	"Thyroid"	"32010"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Thyroid"	"32010"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	34
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	43
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	51
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	67
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	72
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	69
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	63
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	36
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	59
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"Thyroid"	"32010"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Lymphomas"	"33011-33042"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Lymphomas"	"33011-33042"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	39
+	"Lymphomas"	"33011-33042"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	37
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	53
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	70
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	61
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	66
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	70
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	102
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	68
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	80
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	54
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	63
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	38
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	44
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	47
+	"Lymphomas"	"33011-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Columbus, OH"	"18140"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	30
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	30
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	46
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	52
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	64
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	62
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	65
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	95
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	65
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	76
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	50
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	61
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	36
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	42
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	46
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"NHL - Nodal"	"33041"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"NHL - Nodal"	"33041"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Nodal"	"33041"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	25
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	37
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	46
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	45
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	70
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	46
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	63
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	40
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"NHL - Nodal"	"33041"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Extranodal"	"33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Extranodal"	"33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"NHL - Extranodal"	"33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"NHL - Extranodal"	"33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"NHL - Extranodal"	"33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Extranodal"	"33042"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Myeloma"	"34000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	41
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	50
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	56
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	42
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	66
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	48
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	49
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Leukemias"	"35011-35043"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	37
+	"Acute Lymphocytic Leukemia"	"35011"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	16
+	"Chronic Lymphocytic Leukemia"	"35012"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Chronic Lymphocytic Leukemia"	"35012"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Chronic Lymphocytic Leukemia"	"35012"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Chronic Lymphocytic Leukemia"	"35012"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Chronic Lymphocytic Leukemia"	"35012"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Chronic Lymphocytic Leukemia"	"35012"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Chronic Lymphocytic Leukemia"	"35012"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Chronic Lymphocytic Leukemia"	"35012"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Chronic Lymphocytic Leukemia"	"35012"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Acute Myeloid Leukemia"	"35021"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Miscellaneous"	"37000"	"Columbus, OH"	"18140"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	41
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	48
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	60
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	48
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	52
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	57
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	58
+	"Miscellaneous"	"37000"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	58
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Columbus, OH"	"18140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	50
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	56
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	84
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	108
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	96
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	93
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	86
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	66
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	43
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Columbus, OH"	"18140"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Columbus, OH"	"18140"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Columbus, OH"	"18140"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Columbus, OH"	"18140"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Columbus, OH"	"18140"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	50
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Columbus, OH"	"18140"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Columbus, OH"	"18140"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Columbus, OH"	"18140"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	84
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	108
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	96
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	93
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	86
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	66
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Dallas-Fort Worth-Arlington, TX"	"19100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Columbus, OH (18140); Dallas-Fort Worth-Arlington, TX (19100)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 9:08:16 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 9:08:16 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

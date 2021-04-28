@@ -1,0 +1,1391 @@
+﻿Cancer_Sites,MSA,MSA_Code,Count,Population,5-Year_Conditional_Relative_Survival,Cases Per million People
+Bones and Joints,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,17.0,58004334.0,0.912,0.29308154800984354
+Bones and Joints,Other,99999.0,890.0,0.0,0.912,0.0
+Brain and Other Nervous System,"Boston-Cambridge-Newton, MA-NH",14460.0,156.0,14427183.0,0.842,10.812921690949647
+Brain and Other Nervous System,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,286.0,28600986.0,0.842,9.999655256640454
+Brain and Other Nervous System,"Cincinnati, OH-KY-IN",17140.0,18.0,4383144.0,0.842,4.10664126024607
+Brain and Other Nervous System,"Columbus, OH",18140.0,17.0,4104384.0,0.842,4.141912647549548
+Brain and Other Nervous System,"Dallas-Fort Worth-Arlington, TX",19100.0,199.0,21584274.0,0.842,9.21967539885752
+Brain and Other Nervous System,"Detroit-Warren-Dearborn, MI",19820.0,33.0,12948780.0,0.842,2.5485026388586416
+Brain and Other Nervous System,"Houston-The Woodlands-Sugar Land, TX",26420.0,105.0,13613006.0,0.842,7.713211909257955
+Brain and Other Nervous System,"Los Angeles-Long Beach-Anaheim, CA",31080.0,440.0,39812082.0,0.842,11.051921374019074
+Brain and Other Nervous System,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,134.0,18167058.0,0.842,7.375987900737697
+Brain and Other Nervous System,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,933.0,58004334.0,0.842,16.08500495842259
+Brain and Other Nervous System,Other,99999.0,7820.0,0.0,0.842,0.0
+Brain and Other Nervous System,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,187.0,18199983.0,0.842,10.2747348720051
+Brain and Other Nervous System,"Phoenix-Mesa-Scottsdale, AZ",38060.0,72.0,9346672.0,0.842,7.703276631511194
+Brain and Other Nervous System,"Pittsburgh, PA",38300.0,18.0,4680444.0,0.842,3.8457889892497383
+Brain and Other Nervous System,"Riverside-San Bernardino-Ontario, CA",40140.0,16.0,9024082.0,0.842,1.7730335340481171
+Brain and Other Nervous System,"San Diego-Carlsbad, CA",41740.0,33.0,6612178.0,0.842,4.990791233992793
+Brain and Other Nervous System,"San Francisco-Oakland-Hayward, CA",41860.0,62.0,14064594.0,0.842,4.408232473685341
+Brain and Other Nervous System,"Seattle-Tacoma-Bellevue, WA",42660.0,52.0,11449065.0,0.842,4.541855601308928
+Brain and Other Nervous System,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,33.0,18447903.0,0.842,1.7888212009787778
+Colon and Rectum,"Akron, OH",10420.0,179.0,1407048.0,0.902,127.21669765352709
+Colon and Rectum,"Albany-Schenectady-Troy, NY",10580.0,340.0,1759584.0,0.902,193.22749013403168
+Colon and Rectum,"Albuquerque, NM",10740.0,202.0,1818474.0,0.902,111.08214909863986
+Colon and Rectum,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,326.0,1666326.0,0.902,195.63998881371353
+Colon and Rectum,"Atlanta-Sandy Springs-Roswell, GA",12060.0,2304.0,11575930.0,0.902,199.03368455061494
+Colon and Rectum,"Austin-Round Rock, TX",12420.0,509.0,4124032.0,0.902,123.4229026350911
+Colon and Rectum,"Bakersfield, CA",12540.0,50.0,1761712.0,0.902,28.381483466082994
+Colon and Rectum,"Baltimore-Columbia-Towson, MD",12580.0,994.0,5588222.0,0.902,177.87410736366593
+Colon and Rectum,"Baton Rouge, LA",12940.0,64.0,1713446.0,0.902,37.351629406470934
+Colon and Rectum,"Birmingham-Hoover, AL",13820.0,245.0,2165754.0,0.902,113.12457462851273
+Colon and Rectum,"Boise City, ID",14260.0,115.0,1382570.0,0.902,83.17842857866147
+Colon and Rectum,"Boston-Cambridge-Newton, MA-NH",14460.0,1660.0,14427183.0,0.902,115.06057696779753
+Colon and Rectum,"Bridgeport-Stamford-Norwalk, CT",14860.0,232.0,1888694.0,0.902,122.83620321767316
+Colon and Rectum,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,452.0,2260464.0,0.902,199.9589464817843
+Colon and Rectum,"Cape Coral-Fort Myers, FL",15980.0,255.0,1445298.0,0.902,176.43420249664774
+Colon and Rectum,"Charleston-North Charleston, SC",16700.0,54.0,1523156.0,0.902,35.45270477876199
+Colon and Rectum,"Charlotte-Concord-Gastonia, NC-SC",16740.0,703.0,4999394.0,0.902,140.61704278558562
+Colon and Rectum,"Chattanooga, TN-GA",16860.0,54.0,1103718.0,0.902,48.92554076312971
+Colon and Rectum,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,4114.0,28600986.0,0.902,143.84119484552036
+Colon and Rectum,"Cincinnati, OH-KY-IN",17140.0,901.0,4383144.0,0.902,205.56020974898385
+Colon and Rectum,"Cleveland-Elyria, OH",17460.0,787.0,4121994.0,0.902,190.92701250899444
+Colon and Rectum,"Columbia, SC",17900.0,36.0,1634376.0,0.902,22.026755165274086
+Colon and Rectum,"Columbus, OH",18140.0,606.0,4104384.0,0.902,147.64700378911917
+Colon and Rectum,"Dallas-Fort Worth-Arlington, TX",19100.0,2085.0,21584274.0,0.902,96.59810656591924
+Colon and Rectum,"Dayton-Kettering, OH",19430.0,236.0,1603322.0,0.902,147.1943876526362
+Colon and Rectum,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,306.0,1271718.0,0.902,240.61938259897244
+Colon and Rectum,"Denver-Aurora-Lakewood, CO",19740.0,764.0,5713510.0,0.902,133.71815223916647
+Colon and Rectum,"Des Moines-West Des Moines, IA",19780.0,91.0,1342110.0,0.902,67.80368226151359
+Colon and Rectum,"Detroit-Warren-Dearborn, MI",19820.0,1883.0,12948780.0,0.902,145.41910512032794
+Colon and Rectum,"El Paso, TX",21340.0,78.0,1678406.0,0.902,46.472665135849134
+Colon and Rectum,"Fayetteville-Springdale-Rogers, AR-MO",22220.0,73.0,1007612.0,0.902,72.44852185166513
+Colon and Rectum,"Fresno, CA",23420.0,156.0,1953660.0,0.902,79.85012745308805
+Colon and Rectum,"Grand Rapids-Wyoming, MI",24340.0,205.0,2109420.0,0.902,97.18311194546368
+Colon and Rectum,"Greensboro-High Point, NC",24660.0,80.0,1517270.0,0.902,52.72627811793551
+Colon and Rectum,"Greenville-Anderson-Mauldin, SC",24860.0,244.0,1768654.0,0.902,137.9580177920611
+Colon and Rectum,"Harrisburg-Carlisle, PA",25420.0,108.0,1135020.0,0.902,95.15250832584448
+Colon and Rectum,"Hartford-West Hartford-East Hartford, CT",25540.0,419.0,2417190.0,0.902,173.34177288504418
+Colon and Rectum,"Houston-The Woodlands-Sugar Land, TX",26420.0,1940.0,13613006.0,0.902,142.5107724186708
+Colon and Rectum,"Indianapolis-Carmel-Anderson, IN",26900.0,667.0,4013520.0,0.902,166.18828360142717
+Colon and Rectum,"Jacksonville, FL",27260.0,464.0,2952046.0,0.902,157.17912254754836
+Colon and Rectum,"Knoxville, TN",28940.0,301.0,1689884.0,0.902,178.11873477706163
+Colon and Rectum,"Lakeland-Winter Haven, FL",29460.0,169.0,1331646.0,0.902,126.91060537109712
+Colon and Rectum,"Lancaster, PA",29540.0,99.0,1076320.0,0.902,91.9800802735246
+Colon and Rectum,"Lansing-East Lansing, MI",29620.0,32.0,1090292.0,0.902,29.349935613578747
+Colon and Rectum,"Las Vegas-Henderson-Paradise, NV",29820.0,611.0,4277672.0,0.902,142.83470074376905
+Colon and Rectum,"Lexington-Fayette, KY",30460.0,20.0,1014774.0,0.902,19.70882186575533
+Colon and Rectum,"Little Rock-North Little Rock-Conway, AR",30780.0,105.0,1468332.0,0.902,71.5097130621685
+Colon and Rectum,"Los Angeles-Long Beach-Anaheim, CA",31080.0,4351.0,39812082.0,0.902,109.28843158717498
+Colon and Rectum,"Louisville-Jefferson County, KY-IN",31140.0,482.0,2505050.0,0.902,192.4113291151873
+Colon and Rectum,"Madison, WI",31540.0,50.0,1296776.0,0.902,38.557160218881286
+Colon and Rectum,"McAllen-Edinburg-Mission, TX",32580.0,75.0,1697920.0,0.902,44.17169242367131
+Colon and Rectum,"Memphis, TN-MS-AR",32820.0,424.0,2672408.0,0.902,158.65840844661446
+Colon and Rectum,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,2726.0,18167058.0,0.902,150.0518135627684
+Colon and Rectum,"Milwaukee-Waukesha-West Allis, WI",33340.0,514.0,3152008.0,0.902,163.0706521049439
+Colon and Rectum,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,573.0,3682588.0,0.902,155.5970963898215
+Colon and Rectum,"New Haven-Milford, CT",35300.0,240.0,1715802.0,0.902,139.87627943084343
+Colon and Rectum,"New Orleans-Metairie, LA",35380.0,431.0,2535226.0,0.902,170.00456764012358
+Colon and Rectum,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,8229.0,58004334.0,0.902,141.86870932782367
+Colon and Rectum,"North Port-Sarasota-Bradenton, FL",35840.0,307.0,1576682.0,0.902,194.71269412601907
+Colon and Rectum,"Oklahoma City, OK",36420.0,411.0,2745970.0,0.902,149.6738857307254
+Colon and Rectum,"Omaha-Council Bluffs, NE-IA",36540.0,301.0,1846862.0,0.902,162.97915058082305
+Colon and Rectum,"Orlando-Kissimmee-Sanford, FL",36740.0,711.0,4911166.0,0.902,144.77213761457057
+Colon and Rectum,Other,99999.0,53512.0,0.0,0.902,0.0
+Colon and Rectum,"Oxnard-Thousand Oaks-Ventura, CA",37100.0,193.0,1694646.0,0.902,113.88809226233678
+Colon and Rectum,"Palm Bay-Melbourne-Titusville, FL",37340.0,177.0,1153748.0,0.902,153.41305033681533
+Colon and Rectum,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,2714.0,18199983.0,0.902,149.12101840974248
+Colon and Rectum,"Phoenix-Mesa-Scottsdale, AZ",38060.0,1397.0,9346672.0,0.902,149.46496464196025
+Colon and Rectum,"Pittsburgh, PA",38300.0,1183.0,4680444.0,0.902,252.75379857124668
+Colon and Rectum,"Portland-South Portland, ME",38860.0,86.0,1057824.0,0.902,81.29896844843753
+Colon and Rectum,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,767.0,4853150.0,0.902,158.04168426691942
+Colon and Rectum,"Poughkeepsie-Newburgh-Middletown, NY",39100.0,78.0,1341656.0,0.902,58.13710817079788
+Colon and Rectum,"Providence-Warwick, RI-MA",39300.0,569.0,3229680.0,0.902,176.17844492333606
+Colon and Rectum,"Raleigh, NC",39580.0,198.0,2607708.0,0.902,75.92874662347164
+Colon and Rectum,"Richmond, VA",40060.0,257.0,2516942.0,0.902,102.10803427333646
+Colon and Rectum,"Riverside-San Bernardino-Ontario, CA",40140.0,1256.0,9024082.0,0.902,139.1831324227772
+Colon and Rectum,"Rochester, NY",40380.0,373.0,2148126.0,0.902,173.63972131988533
+Colon and Rectum,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,680.0,4583066.0,0.902,148.3722905146904
+Colon and Rectum,"Salt Lake City, UT",41620.0,135.0,2369442.0,0.902,56.975439787089115
+Colon and Rectum,"San Antonio-New Braunfels, TX",41700.0,743.0,4852552.0,0.902,153.1153092228584
+Colon and Rectum,"San Diego-Carlsbad, CA",41740.0,887.0,6612178.0,0.902,134.1464189258063
+Colon and Rectum,"San Francisco-Oakland-Hayward, CA",41860.0,1175.0,14064594.0,0.902,83.54311542871412
+Colon and Rectum,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,300.0,3975186.0,0.902,75.46816677257367
+Colon and Rectum,"Santa Rosa, CA",42220.0,91.0,1005094.0,0.902,90.53879537635287
+Colon and Rectum,"Scranton-Wilkes-Barre-Hazleton, PA",42540.0,218.0,1111444.0,0.902,196.1412360856687
+Colon and Rectum,"Seattle-Tacoma-Bellevue, WA",42660.0,1084.0,11449065.0,0.902,94.6802206119015
+Colon and Rectum,"Spokane-Spokane Valley, WA",44060.0,34.0,1082060.0,0.902,31.421547788477532
+Colon and Rectum,"Springfield, MA",44140.0,155.0,1399608.0,0.902,110.7452943967168
+Colon and Rectum,"St. Louis, MO-IL",41180.0,1089.0,5611004.0,0.902,194.08291279065207
+Colon and Rectum,"Stockton-Lodi, CA",44700.0,58.0,1465618.0,0.902,39.57374977654477
+Colon and Rectum,"Syracuse, NY",45060.0,197.0,1308782.0,0.902,150.5216300346429
+Colon and Rectum,"Tampa-St. Petersburg-Clearwater, FL",45300.0,1358.0,6097926.0,0.902,222.69866836691688
+Colon and Rectum,"Toledo, OH",45780.0,176.0,1290882.0,0.902,136.3408894073974
+Colon and Rectum,"Tucson, AZ",46060.0,332.0,2033414.0,0.902,163.27221116801596
+Colon and Rectum,"Tulsa, OK",46140.0,302.0,1977412.0,0.902,152.72487473526004
+Colon and Rectum,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,464.0,3517526.0,0.902,131.910894190974
+Colon and Rectum,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,1553.0,18447903.0,0.902,84.18300985212248
+Colon and Rectum,"Winston-Salem, NC",49180.0,92.0,1322048.0,0.902,69.58900130706299
+Colon and Rectum,"Worcester, MA-CT",49340.0,220.0,1872844.0,0.902,117.46840633816805
+Colon and Rectum,"Youngstown-Warren-Boardman, OH-PA",49660.0,203.0,1089164.0,0.902,186.3814815766955
+Endocrine System,"Albany-Schenectady-Troy, NY",10580.0,56.0,1759584.0,0.995,31.825704257369924
+Endocrine System,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,77.0,1666326.0,0.995,46.20944521060105
+Endocrine System,"Atlanta-Sandy Springs-Roswell, GA",12060.0,389.0,11575930.0,0.995,33.604211497477955
+Endocrine System,"Austin-Round Rock, TX",12420.0,107.0,4124032.0,0.995,25.94548247928241
+Endocrine System,"Baltimore-Columbia-Towson, MD",12580.0,128.0,5588222.0,0.995,22.90531764843988
+Endocrine System,"Boston-Cambridge-Newton, MA-NH",14460.0,803.0,14427183.0,0.995,55.65882126815748
+Endocrine System,"Bridgeport-Stamford-Norwalk, CT",14860.0,34.0,1888694.0,0.995,18.001857368107274
+Endocrine System,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,32.0,2260464.0,0.995,14.156385591630746
+Endocrine System,"Charlotte-Concord-Gastonia, NC-SC",16740.0,127.0,4999394.0,0.995,25.403078853157005
+Endocrine System,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,1151.0,28600986.0,0.995,40.24336783354252
+Endocrine System,"Cincinnati, OH-KY-IN",17140.0,117.0,4383144.0,0.995,26.693168191599458
+Endocrine System,"Cleveland-Elyria, OH",17460.0,200.0,4121994.0,0.995,48.52020648259071
+Endocrine System,"Columbus, OH",18140.0,166.0,4104384.0,0.995,40.44455879371911
+Endocrine System,"Dallas-Fort Worth-Arlington, TX",19100.0,686.0,21584274.0,0.995,31.782398611136976
+Endocrine System,"Dayton-Kettering, OH",19430.0,17.0,1603322.0,0.995,10.602985551249219
+Endocrine System,"Denver-Aurora-Lakewood, CO",19740.0,275.0,5713510.0,0.995,48.13153385572091
+Endocrine System,"Detroit-Warren-Dearborn, MI",19820.0,425.0,12948780.0,0.995,32.8216248943916
+Endocrine System,"Fresno, CA",23420.0,18.0,1953660.0,0.995,9.213476244587083
+Endocrine System,"Houston-The Woodlands-Sugar Land, TX",26420.0,356.0,13613006.0,0.995,26.151461330436494
+Endocrine System,"Indianapolis-Carmel-Anderson, IN",26900.0,93.0,4013520.0,0.995,23.171679722537824
+Endocrine System,"Jacksonville, FL",27260.0,16.0,2952046.0,0.995,5.4199697430189095
+Endocrine System,"Las Vegas-Henderson-Paradise, NV",29820.0,140.0,4277672.0,0.995,32.72808200348227
+Endocrine System,"Los Angeles-Long Beach-Anaheim, CA",31080.0,1689.0,39812082.0,0.995,42.424307274359585
+Endocrine System,"Louisville-Jefferson County, KY-IN",31140.0,85.0,2505050.0,0.995,33.93145845392307
+Endocrine System,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,940.0,18167058.0,0.995,51.742004676816684
+Endocrine System,"Milwaukee-Waukesha-West Allis, WI",33340.0,58.0,3152008.0,0.995,18.400968525460595
+Endocrine System,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,71.0,3682588.0,0.995,19.27991944795345
+Endocrine System,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,4092.0,58004334.0,0.995,70.54645261507528
+Endocrine System,"Ogden-Clearfield, UT",36260.0,16.0,1304952.0,0.995,12.260987377313496
+Endocrine System,"Orlando-Kissimmee-Sanford, FL",36740.0,166.0,4911166.0,0.995,33.800527206777375
+Endocrine System,Other,99999.0,15601.0,0.0,0.995,0.0
+Endocrine System,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,1067.0,18199983.0,0.995,58.62642838732322
+Endocrine System,"Phoenix-Mesa-Scottsdale, AZ",38060.0,533.0,9346672.0,0.995,57.02564506382593
+Endocrine System,"Pittsburgh, PA",38300.0,426.0,4680444.0,0.995,91.01700607891047
+Endocrine System,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,201.0,4853150.0,0.995,41.41639965795411
+Endocrine System,"Providence-Warwick, RI-MA",39300.0,141.0,3229680.0,0.995,43.6575759827599
+Endocrine System,"Riverside-San Bernardino-Ontario, CA",40140.0,368.0,9024082.0,0.995,40.77977128310669
+Endocrine System,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,86.0,4583066.0,0.995,18.764730859210843
+Endocrine System,"Salt Lake City, UT",41620.0,40.0,2369442.0,0.995,16.881611788767145
+Endocrine System,"San Antonio-New Braunfels, TX",41700.0,112.0,4852552.0,0.995,23.080638806137472
+Endocrine System,"San Diego-Carlsbad, CA",41740.0,226.0,6612178.0,0.995,34.179358147950644
+Endocrine System,"San Francisco-Oakland-Hayward, CA",41860.0,309.0,14064594.0,0.995,21.970061844657586
+Endocrine System,"Seattle-Tacoma-Bellevue, WA",42660.0,340.0,11449065.0,0.995,29.696748162404532
+Endocrine System,"St. Louis, MO-IL",41180.0,202.0,5611004.0,0.995,36.00068722103923
+Endocrine System,"Tampa-St. Petersburg-Clearwater, FL",45300.0,186.0,6097926.0,0.995,30.502174017854593
+Endocrine System,"Toledo, OH",45780.0,17.0,1290882.0,0.995,13.169290454123614
+Endocrine System,"Tucson, AZ",46060.0,16.0,2033414.0,0.995,7.868540297253781
+Endocrine System,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,17.0,3517526.0,0.995,4.832942244065857
+Endocrine System,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,628.0,18447903.0,0.995,34.041809521656745
+Endocrine System,"Worcester, MA-CT",49340.0,50.0,1872844.0,0.995,26.697365076856375
+Esophagus,"Atlanta-Sandy Springs-Roswell, GA",12060.0,97.0,11575930.0,0.757,8.379456337417382
+Esophagus,"Baltimore-Columbia-Towson, MD",12580.0,38.0,5588222.0,0.757,6.80001617688059
+Esophagus,"Boston-Cambridge-Newton, MA-NH",14460.0,191.0,14427183.0,0.757,13.238897711355017
+Esophagus,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,18.0,2260464.0,0.757,7.962966895292294
+Esophagus,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,260.0,28600986.0,0.757,9.090595687854957
+Esophagus,"Cleveland-Elyria, OH",17460.0,38.0,4121994.0,0.757,9.218839231692234
+Esophagus,"Columbus, OH",18140.0,32.0,4104384.0,0.757,7.796541454210913
+Esophagus,"Dallas-Fort Worth-Arlington, TX",19100.0,164.0,21584274.0,0.757,7.598124449309715
+Esophagus,"Denver-Aurora-Lakewood, CO",19740.0,20.0,5713510.0,0.757,3.5004751895069752
+Esophagus,"Detroit-Warren-Dearborn, MI",19820.0,157.0,12948780.0,0.757,12.12469437275172
+Esophagus,"Houston-The Woodlands-Sugar Land, TX",26420.0,153.0,13613006.0,0.757,11.239251639204449
+Esophagus,"Las Vegas-Henderson-Paradise, NV",29820.0,17.0,4277672.0,0.757,3.9741242432799897
+Esophagus,"Los Angeles-Long Beach-Anaheim, CA",31080.0,254.0,39812082.0,0.757,6.379972793183738
+Esophagus,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,130.0,18167058.0,0.757,7.155809157432095
+Esophagus,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,692.0,58004334.0,0.757,11.930143013106573
+Esophagus,"Orlando-Kissimmee-Sanford, FL",36740.0,16.0,4911166.0,0.757,3.257882140412277
+Esophagus,Other,99999.0,6827.0,0.0,0.757,0.0
+Esophagus,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,214.0,18199983.0,0.757,11.758252741225089
+Esophagus,"Phoenix-Mesa-Scottsdale, AZ",38060.0,122.0,9346672.0,0.757,13.052774292282857
+Esophagus,"Pittsburgh, PA",38300.0,114.0,4680444.0,0.757,24.356663598581676
+Esophagus,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,21.0,4853150.0,0.757,4.327086531428042
+Esophagus,"Riverside-San Bernardino-Ontario, CA",40140.0,83.0,9024082.0,0.757,9.197611457874608
+Esophagus,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,23.0,4583066.0,0.757,5.018474532114528
+Esophagus,"San Antonio-New Braunfels, TX",41700.0,35.0,4852552.0,0.757,7.21269962691796
+Esophagus,"San Diego-Carlsbad, CA",41740.0,37.0,6612178.0,0.757,5.59573562599192
+Esophagus,"San Francisco-Oakland-Hayward, CA",41860.0,57.0,14064594.0,0.757,4.052729854839749
+Esophagus,"Seattle-Tacoma-Bellevue, WA",42660.0,60.0,11449065.0,0.757,5.240602616894917
+Esophagus,"St. Louis, MO-IL",41180.0,103.0,5611004.0,0.757,18.356786058252677
+Esophagus,"Tampa-St. Petersburg-Clearwater, FL",45300.0,191.0,6097926.0,0.757,31.322124932313052
+Esophagus,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,35.0,18447903.0,0.757,1.8972346070987038
+Eye and Orbit,Other,99999.0,939.0,0.0,0.899,0.0
+Female Genital System,"Akron, OH",10420.0,194.0,1407048.0,0.0,137.87731477533103
+Female Genital System,"Albany-Schenectady-Troy, NY",10580.0,256.0,1759584.0,0.0,145.4889337479768
+Female Genital System,"Albuquerque, NM",10740.0,198.0,1818474.0,0.0,108.8825025818351
+Female Genital System,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,313.0,1666326.0,0.0,187.8383941677679
+Female Genital System,"Atlanta-Sandy Springs-Roswell, GA",12060.0,1459.0,11575930.0,0.0,126.03738965249445
+Female Genital System,"Augusta-Richmond County, GA-SC",12260.0,60.0,1190058.0,0.0,50.41771073342643
+Female Genital System,"Austin-Round Rock, TX",12420.0,416.0,4124032.0,0.0,100.87215618113537
+Female Genital System,"Bakersfield, CA",12540.0,104.0,1761712.0,0.0,59.033485609452626
+Female Genital System,"Baltimore-Columbia-Towson, MD",12580.0,830.0,5588222.0,0.0,148.52666912660234
+Female Genital System,"Baton Rouge, LA",12940.0,60.0,1713446.0,0.0,35.0171525685665
+Female Genital System,"Birmingham-Hoover, AL",13820.0,130.0,2165754.0,0.0,60.02528449676186
+Female Genital System,"Boise City, ID",14260.0,118.0,1382570.0,0.0,85.3483006285396
+Female Genital System,"Boston-Cambridge-Newton, MA-NH",14460.0,1380.0,14427183.0,0.0,95.65276880455457
+Female Genital System,"Bridgeport-Stamford-Norwalk, CT",14860.0,174.0,1888694.0,0.0,92.12715241325486
+Female Genital System,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,385.0,2260464.0,0.0,170.3190141493074
+Female Genital System,"Cape Coral-Fort Myers, FL",15980.0,143.0,1445298.0,0.0,98.94153316478678
+Female Genital System,"Charleston-North Charleston, SC",16700.0,62.0,1523156.0,0.0,40.70495733857858
+Female Genital System,"Charlotte-Concord-Gastonia, NC-SC",16740.0,517.0,4999394.0,0.0,103.41253359907222
+Female Genital System,"Chattanooga, TN-GA",16860.0,58.0,1103718.0,0.0,52.54965489373191
+Female Genital System,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,2937.0,28600986.0,0.0,102.68876744319235
+Female Genital System,"Cincinnati, OH-KY-IN",17140.0,604.0,4383144.0,0.0,137.8006289549237
+Female Genital System,"Cleveland-Elyria, OH",17460.0,666.0,4121994.0,0.0,161.57228758702706
+Female Genital System,"Colorado Springs, CO",17820.0,122.0,1424670.0,0.0,85.6338660882871
+Female Genital System,"Columbia, SC",17900.0,83.0,1634376.0,0.0,50.7839077421597
+Female Genital System,"Columbus, OH",18140.0,507.0,4104384.0,0.0,123.52645366515415
+Female Genital System,"Dallas-Fort Worth-Arlington, TX",19100.0,1477.0,21584274.0,0.0,68.42945007091737
+Female Genital System,"Dayton-Kettering, OH",19430.0,173.0,1603322.0,0.0,107.90097060977146
+Female Genital System,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,201.0,1271718.0,0.0,158.0539081777564
+Female Genital System,"Denver-Aurora-Lakewood, CO",19740.0,531.0,5713510.0,0.0,92.9376162814102
+Female Genital System,"Des Moines-West Des Moines, IA",19780.0,147.0,1342110.0,0.0,109.5290251916758
+Female Genital System,"Detroit-Warren-Dearborn, MI",19820.0,1336.0,12948780.0,0.0,103.17574319742864
+Female Genital System,"Durham-Chapel Hill, NC",20500.0,84.0,1236444.0,0.0,67.93676058115045
+Female Genital System,"El Paso, TX",21340.0,114.0,1678406.0,0.0,67.92158750624104
+Female Genital System,"Fayetteville, NC",22180.0,20.0,1033644.0,0.0,19.349021519981733
+Female Genital System,"Fayetteville-Springdale-Rogers, AR-MO",22220.0,16.0,1007612.0,0.0,15.879128077077288
+Female Genital System,"Fresno, CA",23420.0,114.0,1953660.0,0.0,58.352016215718194
+Female Genital System,"Grand Rapids-Wyoming, MI",24340.0,240.0,2109420.0,0.0,113.77535057029894
+Female Genital System,"Greensboro-High Point, NC",24660.0,122.0,1517270.0,0.0,80.40757412985165
+Female Genital System,"Greenville-Anderson-Mauldin, SC",24860.0,161.0,1768654.0,0.0,91.02967567426981
+Female Genital System,"Harrisburg-Carlisle, PA",25420.0,150.0,1135020.0,0.0,132.1562615636729
+Female Genital System,"Hartford-West Hartford-East Hartford, CT",25540.0,319.0,2417190.0,0.0,131.9714213611673
+Female Genital System,"Houston-The Woodlands-Sugar Land, TX",26420.0,1425.0,13613006.0,0.0,104.67930448278653
+Female Genital System,"Indianapolis-Carmel-Anderson, IN",26900.0,523.0,4013520.0,0.0,130.3095537084654
+Female Genital System,"Jacksonville, FL",27260.0,298.0,2952046.0,0.0,100.94693646372718
+Female Genital System,"Knoxville, TN",28940.0,180.0,1689884.0,0.0,106.51618690987074
+Female Genital System,"Lakeland-Winter Haven, FL",29460.0,186.0,1331646.0,0.0,139.67676094097078
+Female Genital System,"Lancaster, PA",29540.0,138.0,1076320.0,0.0,128.21465735097368
+Female Genital System,"Lansing-East Lansing, MI",29620.0,61.0,1090292.0,0.0,55.94831476338449
+Female Genital System,"Las Vegas-Henderson-Paradise, NV",29820.0,355.0,4277672.0,0.0,82.98906508025861
+Female Genital System,"Lexington-Fayette, KY",30460.0,73.0,1014774.0,0.0,71.93719981000696
+Female Genital System,"Little Rock-North Little Rock-Conway, AR",30780.0,74.0,1468332.0,0.0,50.39732158667113
+Female Genital System,"Los Angeles-Long Beach-Anaheim, CA",31080.0,3599.0,39812082.0,0.0,90.39969323885147
+Female Genital System,"Louisville-Jefferson County, KY-IN",31140.0,322.0,2505050.0,0.0,128.54034849603798
+Female Genital System,"Madison, WI",31540.0,148.0,1296776.0,0.0,114.12919424788862
+Female Genital System,"McAllen-Edinburg-Mission, TX",32580.0,142.0,1697920.0,0.0,83.63173765548436
+Female Genital System,"Memphis, TN-MS-AR",32820.0,242.0,2672408.0,0.0,90.55503500962428
+Female Genital System,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,1872.0,18167058.0,0.0,103.04365186702216
+Female Genital System,"Milwaukee-Waukesha-West Allis, WI",33340.0,466.0,3152008.0,0.0,147.84226435973514
+Female Genital System,"Modesto, CA",33700.0,17.0,1078510.0,0.0,15.76248713502888
+Female Genital System,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,390.0,3682588.0,0.0,105.90378288312459
+Female Genital System,"New Haven-Milford, CT",35300.0,216.0,1715802.0,0.0,125.88865148775908
+Female Genital System,"New Orleans-Metairie, LA",35380.0,204.0,2535226.0,0.0,80.46619906864318
+Female Genital System,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,6651.0,58004334.0,0.0,114.66384563608644
+Female Genital System,"North Port-Sarasota-Bradenton, FL",35840.0,238.0,1576682.0,0.0,150.94990619541545
+Female Genital System,"Ogden-Clearfield, UT",36260.0,65.0,1304952.0,0.0,49.81026122033608
+Female Genital System,"Oklahoma City, OK",36420.0,215.0,2745970.0,0.0,78.29655822896828
+Female Genital System,"Omaha-Council Bluffs, NE-IA",36540.0,160.0,1846862.0,0.0,86.63343552468999
+Female Genital System,"Orlando-Kissimmee-Sanford, FL",36740.0,589.0,4911166.0,0.0,119.93078629392694
+Female Genital System,Other,99999.0,35316.0,0.0,0.0,0.0
+Female Genital System,"Oxnard-Thousand Oaks-Ventura, CA",37100.0,177.0,1694646.0,0.0,104.44659238566638
+Female Genital System,"Palm Bay-Melbourne-Titusville, FL",37340.0,160.0,1153748.0,0.0,138.678463581302
+Female Genital System,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,2131.0,18199983.0,0.0,117.08802145584421
+Female Genital System,"Phoenix-Mesa-Scottsdale, AZ",38060.0,1083.0,9346672.0,0.0,115.87011933231422
+Female Genital System,"Pittsburgh, PA",38300.0,860.0,4680444.0,0.0,183.7432517085986
+Female Genital System,"Portland-South Portland, ME",38860.0,147.0,1057824.0,0.0,138.96451583628277
+Female Genital System,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,645.0,4853150.0,0.0,132.90337203671842
+Female Genital System,"Poughkeepsie-Newburgh-Middletown, NY",39100.0,173.0,1341656.0,0.0,128.9451245326671
+Female Genital System,"Providence-Warwick, RI-MA",39300.0,442.0,3229680.0,0.0,136.8556637190062
+Female Genital System,"Provo-Orem, UT",39340.0,36.0,1202608.0,0.0,29.93494139403696
+Female Genital System,"Raleigh, NC",39580.0,219.0,2607708.0,0.0,83.98179550777924
+Female Genital System,"Richmond, VA",40060.0,265.0,2516942.0,0.0,105.28649448417963
+Female Genital System,"Riverside-San Bernardino-Ontario, CA",40140.0,1000.0,9024082.0,0.0,110.81459587800731
+Female Genital System,"Rochester, NY",40380.0,313.0,2148126.0,0.0,145.7083988555606
+Female Genital System,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,584.0,4583066.0,0.0,127.42561420673411
+Female Genital System,"Salt Lake City, UT",41620.0,182.0,2369442.0,0.0,76.81133363889052
+Female Genital System,"San Antonio-New Braunfels, TX",41700.0,595.0,4852552.0,0.0,122.61589365760531
+Female Genital System,"San Diego-Carlsbad, CA",41740.0,699.0,6612178.0,0.0,105.71403250184734
+Female Genital System,"San Francisco-Oakland-Hayward, CA",41860.0,1016.0,14064594.0,0.0,72.23813214942429
+Female Genital System,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,301.0,3975186.0,0.0,75.71972732848224
+Female Genital System,"Santa Rosa, CA",42220.0,85.0,1005094.0,0.0,84.56920447241751
+Female Genital System,"Scranton-Wilkes-Barre-Hazleton, PA",42540.0,188.0,1111444.0,0.0,169.14932286287026
+Female Genital System,"Seattle-Tacoma-Bellevue, WA",42660.0,875.0,11449065.0,0.0,76.42545482971754
+Female Genital System,"Spokane-Spokane Valley, WA",44060.0,109.0,1082060.0,0.0,100.73378555717797
+Female Genital System,"Springfield, MA",44140.0,180.0,1399608.0,0.0,128.60743865425175
+Female Genital System,"St. Louis, MO-IL",41180.0,837.0,5611004.0,0.0,149.1711643762863
+Female Genital System,"Stockton-Lodi, CA",44700.0,83.0,1465618.0,0.0,56.63140054229683
+Female Genital System,"Syracuse, NY",45060.0,167.0,1308782.0,0.0,127.59955439484958
+Female Genital System,"Tampa-St. Petersburg-Clearwater, FL",45300.0,924.0,6097926.0,0.0,151.52692899192283
+Female Genital System,"Toledo, OH",45780.0,155.0,1290882.0,0.0,120.07294237583295
+Female Genital System,"Tucson, AZ",46060.0,194.0,2033414.0,0.0,95.40605110420209
+Female Genital System,"Tulsa, OK",46140.0,166.0,1977412.0,0.0,83.94810995381843
+Female Genital System,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,351.0,3517526.0,0.0,99.78604280394799
+Female Genital System,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,1355.0,18447903.0,0.0,73.45008264624983
+Female Genital System,"Winston-Salem, NC",49180.0,136.0,1322048.0,0.0,102.87069758435398
+Female Genital System,"Worcester, MA-CT",49340.0,287.0,1872844.0,0.0,153.2428755411556
+Female Genital System,"Youngstown-Warren-Boardman, OH-PA",49660.0,125.0,1089164.0,0.0,114.76692215313763
+Gallbladder,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,16.0,28600986.0,0.829,0.5594212730987667
+Gallbladder,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,149.0,58004334.0,0.829,2.5687735678509815
+Gallbladder,Other,99999.0,1091.0,0.0,0.829,0.0
+Larynx,"Atlanta-Sandy Springs-Roswell, GA",12060.0,38.0,11575930.0,0.789,3.2826736167202117
+Larynx,"Baltimore-Columbia-Towson, MD",12580.0,17.0,5588222.0,0.789,3.0421125001834213
+Larynx,"Boston-Cambridge-Newton, MA-NH",14460.0,73.0,14427183.0,0.789,5.059892842559771
+Larynx,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,187.0,28600986.0,0.789,6.5382361293418345
+Larynx,"Dallas-Fort Worth-Arlington, TX",19100.0,19.0,21584274.0,0.789,0.8802705154688084
+Larynx,"Detroit-Warren-Dearborn, MI",19820.0,84.0,12948780.0,0.789,6.4870976261856335
+Larynx,"Houston-The Woodlands-Sugar Land, TX",26420.0,91.0,13613006.0,0.789,6.684783654690228
+Larynx,"Los Angeles-Long Beach-Anaheim, CA",31080.0,138.0,39812082.0,0.789,3.4662844309423457
+Larynx,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,168.0,18167058.0,0.789,9.247507218835322
+Larynx,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,400.0,58004334.0,0.789,6.896036423761024
+Larynx,Other,99999.0,5018.0,0.0,0.789,0.0
+Larynx,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,92.0,18199983.0,0.789,5.05494977660144
+Larynx,"Phoenix-Mesa-Scottsdale, AZ",38060.0,18.0,9346672.0,0.789,1.9258191578777986
+Larynx,"Pittsburgh, PA",38300.0,21.0,4680444.0,0.789,4.486753820791361
+Larynx,"San Diego-Carlsbad, CA",41740.0,17.0,6612178.0,0.789,2.5710136659962872
+Larynx,"Tampa-St. Petersburg-Clearwater, FL",45300.0,60.0,6097926.0,0.789,9.839410973501481
+Leukemias,"Albany-Schenectady-Troy, NY",10580.0,32.0,1759584.0,0.879,18.1861167184971
+Leukemias,"Atlanta-Sandy Springs-Roswell, GA",12060.0,484.0,11575930.0,0.879,41.810895539278484
+Leukemias,"Austin-Round Rock, TX",12420.0,33.0,4124032.0,0.879,8.001877773984296
+Leukemias,"Baltimore-Columbia-Towson, MD",12580.0,157.0,5588222.0,0.879,28.09480367816454
+Leukemias,"Boston-Cambridge-Newton, MA-NH",14460.0,467.0,14427183.0,0.879,32.36945147226593
+Leukemias,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,117.0,2260464.0,0.879,51.759284819399916
+Leukemias,"Cape Coral-Fort Myers, FL",15980.0,94.0,1445298.0,0.879,65.03849033209761
+Leukemias,"Charlotte-Concord-Gastonia, NC-SC",16740.0,146.0,4999394.0,0.879,29.203539468983642
+Leukemias,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,900.0,28600986.0,0.879,31.467446611805624
+Leukemias,"Cincinnati, OH-KY-IN",17140.0,109.0,4383144.0,0.879,24.86799429815676
+Leukemias,"Cleveland-Elyria, OH",17460.0,136.0,4121994.0,0.879,32.993740408161685
+Leukemias,"Dallas-Fort Worth-Arlington, TX",19100.0,677.0,21584274.0,0.879,31.365428366967542
+Leukemias,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,33.0,1271718.0,0.879,25.949149103810754
+Leukemias,"Denver-Aurora-Lakewood, CO",19740.0,133.0,5713510.0,0.879,23.278160010221388
+Leukemias,"Detroit-Warren-Dearborn, MI",19820.0,521.0,12948780.0,0.879,40.23545075288946
+Leukemias,"Grand Rapids-Wyoming, MI",24340.0,17.0,2109420.0,0.879,8.059087332062841
+Leukemias,"Houston-The Woodlands-Sugar Land, TX",26420.0,403.0,13613006.0,0.879,29.604041899342437
+Leukemias,"Indianapolis-Carmel-Anderson, IN",26900.0,148.0,4013520.0,0.879,36.8753612788774
+Leukemias,"Jacksonville, FL",27260.0,98.0,2952046.0,0.879,33.19731467599082
+Leukemias,"Knoxville, TN",28940.0,21.0,1689884.0,0.879,12.426888472818254
+Leukemias,"Lakeland-Winter Haven, FL",29460.0,19.0,1331646.0,0.879,14.26805622515293
+Leukemias,"Las Vegas-Henderson-Paradise, NV",29820.0,55.0,4277672.0,0.879,12.857460787082319
+Leukemias,"Los Angeles-Long Beach-Anaheim, CA",31080.0,1205.0,39812082.0,0.879,30.2671937629386
+Leukemias,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,1080.0,18167058.0,0.879,59.44826069251279
+Leukemias,"Milwaukee-Waukesha-West Allis, WI",33340.0,87.0,3152008.0,0.879,27.601452788190894
+Leukemias,"New Haven-Milford, CT",35300.0,16.0,1715802.0,0.879,9.325085295389561
+Leukemias,"New Orleans-Metairie, LA",35380.0,16.0,2535226.0,0.879,6.3110744367563285
+Leukemias,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,2988.0,58004334.0,0.879,51.51339208549485
+Leukemias,"North Port-Sarasota-Bradenton, FL",35840.0,176.0,1576682.0,0.879,111.62682138820638
+Leukemias,"Oklahoma City, OK",36420.0,16.0,2745970.0,0.879,5.826720612388336
+Leukemias,"Orlando-Kissimmee-Sanford, FL",36740.0,261.0,4911166.0,0.879,53.14420241547527
+Leukemias,Other,99999.0,18163.0,0.0,0.879,0.0
+Leukemias,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,620.0,18199983.0,0.879,34.06596588579231
+Leukemias,"Phoenix-Mesa-Scottsdale, AZ",38060.0,306.0,9346672.0,0.879,32.73892568392258
+Leukemias,"Pittsburgh, PA",38300.0,390.0,4680444.0,0.879,83.32542810041099
+Leukemias,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,163.0,4853150.0,0.879,33.58643355346527
+Leukemias,"Providence-Warwick, RI-MA",39300.0,140.0,3229680.0,0.879,43.34794778430061
+Leukemias,"Riverside-San Bernardino-Ontario, CA",40140.0,283.0,9024082.0,0.879,31.36053063347607
+Leukemias,"Rochester, NY",40380.0,58.0,2148126.0,0.879,27.00027838218056
+Leukemias,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,133.0,4583066.0,0.879,29.019874468314445
+Leukemias,"Salt Lake City, UT",41620.0,22.0,2369442.0,0.879,9.28488648382193
+Leukemias,"San Antonio-New Braunfels, TX",41700.0,184.0,4852552.0,0.879,37.918192324368704
+Leukemias,"San Diego-Carlsbad, CA",41740.0,168.0,6612178.0,0.879,25.40766446396331
+Leukemias,"San Francisco-Oakland-Hayward, CA",41860.0,343.0,14064594.0,0.879,24.38747965280761
+Leukemias,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,17.0,3975186.0,0.879,4.276529450445841
+Leukemias,"Seattle-Tacoma-Bellevue, WA",42660.0,419.0,11449065.0,0.879,36.59687494131617
+Leukemias,"St. Louis, MO-IL",41180.0,313.0,5611004.0,0.879,55.78324307022415
+Leukemias,"Tampa-St. Petersburg-Clearwater, FL",45300.0,461.0,6097926.0,0.879,75.59947431306972
+Leukemias,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,17.0,3517526.0,0.879,4.832942244065857
+Leukemias,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,263.0,18447903.0,0.879,14.25636290477026
+Liver and Intrahepatic Bile Duct,"Albuquerque, NM",10740.0,19.0,1818474.0,0.703,10.448320954822561
+Liver and Intrahepatic Bile Duct,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,19.0,1666326.0,0.703,11.402330636382077
+Liver and Intrahepatic Bile Duct,"Atlanta-Sandy Springs-Roswell, GA",12060.0,310.0,11575930.0,0.703,26.779705820612254
+Liver and Intrahepatic Bile Duct,"Austin-Round Rock, TX",12420.0,103.0,4124032.0,0.703,24.97555790061765
+Liver and Intrahepatic Bile Duct,"Baltimore-Columbia-Towson, MD",12580.0,184.0,5588222.0,0.703,32.92639411963233
+Liver and Intrahepatic Bile Duct,"Boston-Cambridge-Newton, MA-NH",14460.0,257.0,14427183.0,0.703,17.813595349833715
+Liver and Intrahepatic Bile Duct,"Charlotte-Concord-Gastonia, NC-SC",16740.0,99.0,4999394.0,0.703,19.80240005088617
+Liver and Intrahepatic Bile Duct,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,673.0,28600986.0,0.703,23.53065729971687
+Liver and Intrahepatic Bile Duct,"Cincinnati, OH-KY-IN",17140.0,82.0,4383144.0,0.703,18.708032407787652
+Liver and Intrahepatic Bile Duct,"Cleveland-Elyria, OH",17460.0,105.0,4121994.0,0.703,25.473108403360122
+Liver and Intrahepatic Bile Duct,"Columbus, OH",18140.0,45.0,4104384.0,0.703,10.963886419984096
+Liver and Intrahepatic Bile Duct,"Dallas-Fort Worth-Arlington, TX",19100.0,532.0,21584274.0,0.703,24.647574433126636
+Liver and Intrahepatic Bile Duct,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,21.0,1271718.0,0.703,16.513094884243205
+Liver and Intrahepatic Bile Duct,"Denver-Aurora-Lakewood, CO",19740.0,121.0,5713510.0,0.703,21.177874896517203
+Liver and Intrahepatic Bile Duct,"Detroit-Warren-Dearborn, MI",19820.0,261.0,12948780.0,0.703,20.156339052791076
+Liver and Intrahepatic Bile Duct,"El Paso, TX",21340.0,18.0,1678406.0,0.703,10.724461185195953
+Liver and Intrahepatic Bile Duct,"Fresno, CA",23420.0,37.0,1953660.0,0.703,18.938812280540116
+Liver and Intrahepatic Bile Duct,"Hartford-West Hartford-East Hartford, CT",25540.0,17.0,2417190.0,0.703,7.0329597590590724
+Liver and Intrahepatic Bile Duct,"Houston-The Woodlands-Sugar Land, TX",26420.0,555.0,13613006.0,0.703,40.769834377506335
+Liver and Intrahepatic Bile Duct,"Indianapolis-Carmel-Anderson, IN",26900.0,58.0,4013520.0,0.703,14.451155095776278
+Liver and Intrahepatic Bile Duct,"Jacksonville, FL",27260.0,42.0,2952046.0,0.703,14.227420575424636
+Liver and Intrahepatic Bile Duct,"Knoxville, TN",28940.0,18.0,1689884.0,0.703,10.651618690987075
+Liver and Intrahepatic Bile Duct,"Las Vegas-Henderson-Paradise, NV",29820.0,83.0,4277672.0,0.703,19.403077187778774
+Liver and Intrahepatic Bile Duct,"Los Angeles-Long Beach-Anaheim, CA",31080.0,987.0,39812082.0,0.703,24.791469082174604
+Liver and Intrahepatic Bile Duct,"Louisville-Jefferson County, KY-IN",31140.0,38.0,2505050.0,0.703,15.169357897047961
+Liver and Intrahepatic Bile Duct,"McAllen-Edinburg-Mission, TX",32580.0,18.0,1697920.0,0.703,10.601206181681116
+Liver and Intrahepatic Bile Duct,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,461.0,18167058.0,0.703,25.375600165970734
+Liver and Intrahepatic Bile Duct,"Milwaukee-Waukesha-West Allis, WI",33340.0,53.0,3152008.0,0.703,16.81467813533468
+Liver and Intrahepatic Bile Duct,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,65.0,3682588.0,0.703,17.650630480520764
+Liver and Intrahepatic Bile Duct,"New Orleans-Metairie, LA",35380.0,77.0,2535226.0,0.703,30.37204572688983
+Liver and Intrahepatic Bile Duct,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,1790.0,58004334.0,0.703,30.859762996330584
+Liver and Intrahepatic Bile Duct,"Oklahoma City, OK",36420.0,17.0,2745970.0,0.703,6.190890650662608
+Liver and Intrahepatic Bile Duct,"Orlando-Kissimmee-Sanford, FL",36740.0,112.0,4911166.0,0.703,22.80517498288594
+Liver and Intrahepatic Bile Duct,Other,99999.0,11083.0,0.0,0.703,0.0
+Liver and Intrahepatic Bile Duct,"Palm Bay-Melbourne-Titusville, FL",37340.0,16.0,1153748.0,0.703,13.867846358130198
+Liver and Intrahepatic Bile Duct,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,607.0,18199983.0,0.703,33.351679504316024
+Liver and Intrahepatic Bile Duct,"Phoenix-Mesa-Scottsdale, AZ",38060.0,190.0,9346672.0,0.703,20.32809111093232
+Liver and Intrahepatic Bile Duct,"Pittsburgh, PA",38300.0,122.0,4680444.0,0.703,26.065903149359336
+Liver and Intrahepatic Bile Duct,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,142.0,4853150.0,0.703,29.259347022037232
+Liver and Intrahepatic Bile Duct,"Poughkeepsie-Newburgh-Middletown, NY",39100.0,18.0,1341656.0,0.703,13.416255731722588
+Liver and Intrahepatic Bile Duct,"Providence-Warwick, RI-MA",39300.0,72.0,3229680.0,0.703,22.293230289068884
+Liver and Intrahepatic Bile Duct,"Richmond, VA",40060.0,17.0,2516942.0,0.703,6.754227948041711
+Liver and Intrahepatic Bile Duct,"Riverside-San Bernardino-Ontario, CA",40140.0,216.0,9024082.0,0.703,23.93595270964958
+Liver and Intrahepatic Bile Duct,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,81.0,4583066.0,0.703,17.67375813483812
+Liver and Intrahepatic Bile Duct,"San Antonio-New Braunfels, TX",41700.0,254.0,4852552.0,0.703,52.343591578204624
+Liver and Intrahepatic Bile Duct,"San Diego-Carlsbad, CA",41740.0,169.0,6612178.0,0.703,25.558900561963092
+Liver and Intrahepatic Bile Duct,"San Francisco-Oakland-Hayward, CA",41860.0,230.0,14064594.0,0.703,16.35312046689723
+Liver and Intrahepatic Bile Duct,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,59.0,3975186.0,0.703,14.842072798606154
+Liver and Intrahepatic Bile Duct,"Seattle-Tacoma-Bellevue, WA",42660.0,222.0,11449065.0,0.703,19.390229682511194
+Liver and Intrahepatic Bile Duct,"St. Louis, MO-IL",41180.0,157.0,5611004.0,0.703,27.98073214704534
+Liver and Intrahepatic Bile Duct,"Tampa-St. Petersburg-Clearwater, FL",45300.0,173.0,6097926.0,0.703,28.370301640262607
+Liver and Intrahepatic Bile Duct,"Tucson, AZ",46060.0,60.0,2033414.0,0.703,29.507026114701677
+Liver and Intrahepatic Bile Duct,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,18.0,3517526.0,0.703,5.117232964305026
+Liver and Intrahepatic Bile Duct,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,205.0,18447903.0,0.703,11.112374127292409
+Liver and Intrahepatic Bile Duct,"Worcester, MA-CT",49340.0,32.0,1872844.0,0.703,17.08631364918808
+Lung and Bronchus,"Akron, OH",10420.0,478.0,1407048.0,0.673,339.71833228148574
+Lung and Bronchus,"Albany-Schenectady-Troy, NY",10580.0,746.0,1759584.0,0.673,423.9638459999636
+Lung and Bronchus,"Albuquerque, NM",10740.0,335.0,1818474.0,0.673,184.2203957823978
+Lung and Bronchus,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,614.0,1666326.0,0.673,368.4753163546629
+Lung and Bronchus,"Atlanta-Sandy Springs-Roswell, GA",12060.0,2915.0,11575930.0,0.673,251.81562086156362
+Lung and Bronchus,"Augusta-Richmond County, GA-SC",12260.0,266.0,1190058.0,0.673,223.5185175848572
+Lung and Bronchus,"Austin-Round Rock, TX",12420.0,588.0,4124032.0,0.673,142.57891306372017
+Lung and Bronchus,"Bakersfield, CA",12540.0,208.0,1761712.0,0.673,118.06697121890525
+Lung and Bronchus,"Baltimore-Columbia-Towson, MD",12580.0,1966.0,5588222.0,0.673,351.8113632565063
+Lung and Bronchus,"Baton Rouge, LA",12940.0,336.0,1713446.0,0.673,196.09605438397242
+Lung and Bronchus,"Birmingham-Hoover, AL",13820.0,647.0,2165754.0,0.673,298.74122361080714
+Lung and Bronchus,"Boise City, ID",14260.0,325.0,1382570.0,0.673,235.06947207013025
+Lung and Bronchus,"Boston-Cambridge-Newton, MA-NH",14460.0,3193.0,14427183.0,0.673,221.31832666155273
+Lung and Bronchus,"Bridgeport-Stamford-Norwalk, CT",14860.0,473.0,1888694.0,0.673,250.43760397396295
+Lung and Bronchus,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,990.0,2260464.0,0.673,437.9631792410762
+Lung and Bronchus,"Cape Coral-Fort Myers, FL",15980.0,659.0,1445298.0,0.673,455.9613311580034
+Lung and Bronchus,"Charleston-North Charleston, SC",16700.0,370.0,1523156.0,0.673,242.91668089151736
+Lung and Bronchus,"Charlotte-Concord-Gastonia, NC-SC",16740.0,1444.0,4999394.0,0.673,288.8350068028245
+Lung and Bronchus,"Chattanooga, TN-GA",16860.0,376.0,1103718.0,0.673,340.6667282766069
+Lung and Bronchus,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,5798.0,28600986.0,0.673,202.72028383916555
+Lung and Bronchus,"Cincinnati, OH-KY-IN",17140.0,1568.0,4383144.0,0.673,357.7340831147688
+Lung and Bronchus,"Cleveland-Elyria, OH",17460.0,1607.0,4121994.0,0.673,389.8598590876163
+Lung and Bronchus,"Colorado Springs, CO",17820.0,175.0,1424670.0,0.673,122.8354636512315
+Lung and Bronchus,"Columbia, SC",17900.0,439.0,1634376.0,0.673,268.6040421543145
+Lung and Bronchus,"Columbus, OH",18140.0,1245.0,4104384.0,0.673,303.3341909528933
+Lung and Bronchus,"Dallas-Fort Worth-Arlington, TX",19100.0,3139.0,21584274.0,0.673,145.42995516087313
+Lung and Bronchus,"Dayton-Kettering, OH",19430.0,577.0,1603322.0,0.673,359.87780371004703
+Lung and Bronchus,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,627.0,1271718.0,0.673,493.0338329724043
+Lung and Bronchus,"Denver-Aurora-Lakewood, CO",19740.0,1021.0,5713510.0,0.673,178.6992584243311
+Lung and Bronchus,"Des Moines-West Des Moines, IA",19780.0,369.0,1342110.0,0.673,274.94020609339026
+Lung and Bronchus,"Detroit-Warren-Dearborn, MI",19820.0,3178.0,12948780.0,0.673,245.42852685735647
+Lung and Bronchus,"Durham-Chapel Hill, NC",20500.0,167.0,1236444.0,0.673,135.0647502030015
+Lung and Bronchus,"El Paso, TX",21340.0,125.0,1678406.0,0.673,74.47542489719412
+Lung and Bronchus,"Fayetteville, NC",22180.0,172.0,1033644.0,0.673,166.4015850718429
+Lung and Bronchus,"Fayetteville-Springdale-Rogers, AR-MO",22220.0,256.0,1007612.0,0.673,254.0660492332366
+Lung and Bronchus,"Fresno, CA",23420.0,267.0,1953660.0,0.673,136.6665642947084
+Lung and Bronchus,"Grand Rapids-Wyoming, MI",24340.0,560.0,2109420.0,0.673,265.4758179973642
+Lung and Bronchus,"Greensboro-High Point, NC",24660.0,538.0,1517270.0,0.673,354.5842203431163
+Lung and Bronchus,"Greenville-Anderson-Mauldin, SC",24860.0,489.0,1768654.0,0.673,276.48143729638474
+Lung and Bronchus,"Harrisburg-Carlisle, PA",25420.0,408.0,1135020.0,0.673,359.4650314531903
+Lung and Bronchus,"Hartford-West Hartford-East Hartford, CT",25540.0,855.0,2417190.0,0.673,353.71650552914747
+Lung and Bronchus,"Houston-The Woodlands-Sugar Land, TX",26420.0,2519.0,13613006.0,0.673,185.04362666115037
+Lung and Bronchus,"Indianapolis-Carmel-Anderson, IN",26900.0,1382.0,4013520.0,0.673,344.3361438338416
+Lung and Bronchus,"Jackson, MS",27140.0,291.0,1198340.0,0.673,242.83592302685383
+Lung and Bronchus,"Jacksonville, FL",27260.0,1124.0,2952046.0,0.673,380.7528744470784
+Lung and Bronchus,"Knoxville, TN",28940.0,793.0,1689884.0,0.673,469.262978997375
+Lung and Bronchus,"Lakeland-Winter Haven, FL",29460.0,531.0,1331646.0,0.673,398.7546239766424
+Lung and Bronchus,"Lancaster, PA",29540.0,297.0,1076320.0,0.673,275.9402408205738
+Lung and Bronchus,"Lansing-East Lansing, MI",29620.0,293.0,1090292.0,0.673,268.73534796183037
+Lung and Bronchus,"Las Vegas-Henderson-Paradise, NV",29820.0,963.0,4277672.0,0.673,225.1224497810959
+Lung and Bronchus,"Lexington-Fayette, KY",30460.0,308.0,1014774.0,0.673,303.5158567326321
+Lung and Bronchus,"Little Rock-North Little Rock-Conway, AR",30780.0,418.0,1468332.0,0.673,284.6767624760613
+Lung and Bronchus,"Los Angeles-Long Beach-Anaheim, CA",31080.0,4449.0,39812082.0,0.673,111.7499958932065
+Lung and Bronchus,"Louisville-Jefferson County, KY-IN",31140.0,1107.0,2505050.0,0.673,441.9073471587393
+Lung and Bronchus,"Madison, WI",31540.0,313.0,1296776.0,0.673,241.36782297019687
+Lung and Bronchus,"McAllen-Edinburg-Mission, TX",32580.0,87.0,1697920.0,0.673,51.239163211458724
+Lung and Bronchus,"Memphis, TN-MS-AR",32820.0,762.0,2672408.0,0.673,285.13610197245333
+Lung and Bronchus,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,3648.0,18167058.0,0.673,200.80301389470986
+Lung and Bronchus,"Milwaukee-Waukesha-West Allis, WI",33340.0,1002.0,3152008.0,0.673,317.89259418123305
+Lung and Bronchus,"Modesto, CA",33700.0,196.0,1078510.0,0.673,181.7322046156271
+Lung and Bronchus,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,1167.0,3682588.0,0.673,316.8967041656574
+Lung and Bronchus,"New Haven-Milford, CT",35300.0,589.0,1715802.0,0.673,343.2797024365282
+Lung and Bronchus,"New Orleans-Metairie, LA",35380.0,809.0,2535226.0,0.673,319.1037012084918
+Lung and Bronchus,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,10864.0,58004334.0,0.673,187.29634926934943
+Lung and Bronchus,"North Port-Sarasota-Bradenton, FL",35840.0,787.0,1576682.0,0.673,499.1494797302183
+Lung and Bronchus,"Oklahoma City, OK",36420.0,721.0,2745970.0,0.673,262.56659759574944
+Lung and Bronchus,"Omaha-Council Bluffs, NE-IA",36540.0,541.0,1846862.0,0.673,292.92930386785804
+Lung and Bronchus,"Orlando-Kissimmee-Sanford, FL",36740.0,1260.0,4911166.0,0.673,256.55821855746683
+Lung and Bronchus,Other,99999.0,89797.0,0.0,0.673,0.0
+Lung and Bronchus,"Oxnard-Thousand Oaks-Ventura, CA",37100.0,295.0,1694646.0,0.673,174.07765397611064
+Lung and Bronchus,"Palm Bay-Melbourne-Titusville, FL",37340.0,643.0,1153748.0,0.673,557.3140755173573
+Lung and Bronchus,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,4631.0,18199983.0,0.673,254.4507871243616
+Lung and Bronchus,"Phoenix-Mesa-Scottsdale, AZ",38060.0,2135.0,9346672.0,0.673,228.42355011495002
+Lung and Bronchus,"Pittsburgh, PA",38300.0,2063.0,4680444.0,0.673,440.77014915678944
+Lung and Bronchus,"Portland-South Portland, ME",38860.0,458.0,1057824.0,0.673,432.96427383005107
+Lung and Bronchus,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,1165.0,4853150.0,0.673,240.0502766244604
+Lung and Bronchus,"Poughkeepsie-Newburgh-Middletown, NY",39100.0,410.0,1341656.0,0.673,305.5924916670145
+Lung and Bronchus,"Providence-Warwick, RI-MA",39300.0,1392.0,3229680.0,0.673,431.0024522553318
+Lung and Bronchus,"Raleigh, NC",39580.0,533.0,2607708.0,0.673,204.39405025409286
+Lung and Bronchus,"Richmond, VA",40060.0,792.0,2516942.0,0.673,314.66756087347267
+Lung and Bronchus,"Riverside-San Bernardino-Ontario, CA",40140.0,1477.0,9024082.0,0.673,163.6731581118168
+Lung and Bronchus,"Rochester, NY",40380.0,771.0,2148126.0,0.673,358.9174936665726
+Lung and Bronchus,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,1039.0,4583066.0,0.673,226.70413212465195
+Lung and Bronchus,"Salt Lake City, UT",41620.0,204.0,2369442.0,0.673,86.09622012271244
+Lung and Bronchus,"San Antonio-New Braunfels, TX",41700.0,840.0,4852552.0,0.673,173.10479104603104
+Lung and Bronchus,"San Diego-Carlsbad, CA",41740.0,1230.0,6612178.0,0.673,186.02040053973138
+Lung and Bronchus,"San Francisco-Oakland-Hayward, CA",41860.0,1503.0,14064594.0,0.673,106.86408722498496
+Lung and Bronchus,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,496.0,3975186.0,0.673,124.77403573065513
+Lung and Bronchus,"Santa Rosa, CA",42220.0,218.0,1005094.0,0.673,216.89513617631786
+Lung and Bronchus,"Scranton-Wilkes-Barre-Hazleton, PA",42540.0,559.0,1111444.0,0.673,502.9493163848111
+Lung and Bronchus,"Seattle-Tacoma-Bellevue, WA",42660.0,1685.0,11449065.0,0.673,147.1735901577989
+Lung and Bronchus,"Spokane-Spokane Valley, WA",44060.0,279.0,1082060.0,0.673,257.84152449956565
+Lung and Bronchus,"Springfield, MA",44140.0,497.0,1399608.0,0.673,355.09942783979517
+Lung and Bronchus,"St. Louis, MO-IL",41180.0,2267.0,5611004.0,0.673,404.0275145054254
+Lung and Bronchus,"Stockton-Lodi, CA",44700.0,188.0,1465618.0,0.673,128.27353375845547
+Lung and Bronchus,"Syracuse, NY",45060.0,563.0,1308782.0,0.673,430.17095284012163
+Lung and Bronchus,"Tampa-St. Petersburg-Clearwater, FL",45300.0,2534.0,6097926.0,0.673,415.55112344754593
+Lung and Bronchus,"Toledo, OH",45780.0,400.0,1290882.0,0.673,309.865657744085
+Lung and Bronchus,"Tucson, AZ",46060.0,584.0,2033414.0,0.673,287.201720849763
+Lung and Bronchus,"Tulsa, OK",46140.0,598.0,1977412.0,0.673,302.4154804360447
+Lung and Bronchus,"Urban Honolulu, HI",46520.0,17.0,1984536.0,0.673,8.566234122233107
+Lung and Bronchus,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,1156.0,3517526.0,0.673,328.6400725964783
+Lung and Bronchus,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,2153.0,18447903.0,0.673,116.70703168810027
+Lung and Bronchus,"Winston-Salem, NC",49180.0,485.0,1322048.0,0.673,366.8550612383212
+Lung and Bronchus,"Worcester, MA-CT",49340.0,719.0,1872844.0,0.673,383.90810980519467
+Lung and Bronchus,"Youngstown-Warren-Boardman, OH-PA",49660.0,402.0,1089164.0,0.673,369.0904216444906
+Lymphomas,"Albany-Schenectady-Troy, NY",10580.0,130.0,1759584.0,0.0,73.88109916889447
+Lymphomas,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,134.0,1666326.0,0.0,80.41643711974727
+Lymphomas,"Atlanta-Sandy Springs-Roswell, GA",12060.0,911.0,11575930.0,0.0,78.69778065347666
+Lymphomas,"Austin-Round Rock, TX",12420.0,185.0,4124032.0,0.0,44.85901176324529
+Lymphomas,"Baltimore-Columbia-Towson, MD",12580.0,445.0,5588222.0,0.0,79.63176838715427
+Lymphomas,"Baton Rouge, LA",12940.0,17.0,1713446.0,0.0,9.921526561093842
+Lymphomas,"Boise City, ID",14260.0,16.0,1382570.0,0.0,11.572650932683336
+Lymphomas,"Boston-Cambridge-Newton, MA-NH",14460.0,961.0,14427183.0,0.0,66.61037016027315
+Lymphomas,"Bridgeport-Stamford-Norwalk, CT",14860.0,96.0,1888694.0,0.0,50.828773745244064
+Lymphomas,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,274.0,2260464.0,0.0,121.21405162833827
+Lymphomas,"Cape Coral-Fort Myers, FL",15980.0,177.0,1445298.0,0.0,122.46609349767314
+Lymphomas,"Charlotte-Concord-Gastonia, NC-SC",16740.0,264.0,4999394.0,0.0,52.80640013569645
+Lymphomas,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,1892.0,28600986.0,0.0,66.15156554392915
+Lymphomas,"Cincinnati, OH-KY-IN",17140.0,351.0,4383144.0,0.0,80.07950457479836
+Lymphomas,"Cleveland-Elyria, OH",17460.0,402.0,4121994.0,0.0,97.52561503000733
+Lymphomas,"Columbus, OH",18140.0,262.0,4104384.0,0.0,63.83418315635185
+Lymphomas,"Dallas-Fort Worth-Arlington, TX",19100.0,1108.0,21584274.0,0.0,51.333670059970515
+Lymphomas,"Dayton-Kettering, OH",19430.0,19.0,1603322.0,0.0,11.85039561610207
+Lymphomas,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,105.0,1271718.0,0.0,82.56547442121602
+Lymphomas,"Denver-Aurora-Lakewood, CO",19740.0,412.0,5713510.0,0.0,72.1097889038437
+Lymphomas,"Detroit-Warren-Dearborn, MI",19820.0,821.0,12948780.0,0.0,63.403656560695296
+Lymphomas,"Grand Rapids-Wyoming, MI",24340.0,87.0,2109420.0,0.0,41.24356458173337
+Lymphomas,"Greensboro-High Point, NC",24660.0,17.0,1517270.0,0.0,11.204334100061295
+Lymphomas,"Greenville-Anderson-Mauldin, SC",24860.0,35.0,1768654.0,0.0,19.78905992918909
+Lymphomas,"Hartford-West Hartford-East Hartford, CT",25540.0,177.0,2417190.0,0.0,73.22552219726211
+Lymphomas,"Houston-The Woodlands-Sugar Land, TX",26420.0,736.0,13613006.0,0.0,54.06594252584624
+Lymphomas,"Indianapolis-Carmel-Anderson, IN",26900.0,294.0,4013520.0,0.0,73.252406864797
+Lymphomas,"Jacksonville, FL",27260.0,241.0,2952046.0,0.0,81.63829425422232
+Lymphomas,"Knoxville, TN",28940.0,34.0,1689884.0,0.0,20.119724194086697
+Lymphomas,"Lakeland-Winter Haven, FL",29460.0,16.0,1331646.0,0.0,12.015205242234046
+Lymphomas,"Las Vegas-Henderson-Paradise, NV",29820.0,157.0,4277672.0,0.0,36.70220624676226
+Lymphomas,"Los Angeles-Long Beach-Anaheim, CA",31080.0,2303.0,39812082.0,0.0,57.84676119174075
+Lymphomas,"Louisville-Jefferson County, KY-IN",31140.0,184.0,2505050.0,0.0,73.4516277120217
+Lymphomas,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,1604.0,18167058.0,0.0,88.29167606554677
+Lymphomas,"Milwaukee-Waukesha-West Allis, WI",33340.0,276.0,3152008.0,0.0,87.56322953495042
+Lymphomas,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,227.0,3682588.0,0.0,61.641432601203284
+Lymphomas,"New Haven-Milford, CT",35300.0,89.0,1715802.0,0.0,51.87078695560443
+Lymphomas,"New Orleans-Metairie, LA",35380.0,16.0,2535226.0,0.0,6.3110744367563285
+Lymphomas,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,4931.0,58004334.0,0.0,85.01088901391402
+Lymphomas,"North Port-Sarasota-Bradenton, FL",35840.0,248.0,1576682.0,0.0,157.29233922883625
+Lymphomas,"Oklahoma City, OK",36420.0,71.0,2745970.0,0.0,25.856072717473243
+Lymphomas,"Omaha-Council Bluffs, NE-IA",36540.0,35.0,1846862.0,0.0,18.951064021025935
+Lymphomas,"Orlando-Kissimmee-Sanford, FL",36740.0,451.0,4911166.0,0.0,91.83155283287105
+Lymphomas,Other,99999.0,27393.0,0.0,0.0,0.0
+Lymphomas,"Palm Bay-Melbourne-Titusville, FL",37340.0,20.0,1153748.0,0.0,17.33480794766275
+Lymphomas,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,1302.0,18199983.0,0.0,71.53852836016385
+Lymphomas,"Phoenix-Mesa-Scottsdale, AZ",38060.0,736.0,9346672.0,0.0,78.74460556655887
+Lymphomas,"Pittsburgh, PA",38300.0,607.0,4680444.0,0.0,129.68855091525506
+Lymphomas,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,432.0,4853150.0,0.0,89.01435150366257
+Lymphomas,"Providence-Warwick, RI-MA",39300.0,272.0,3229680.0,0.0,84.2188699809269
+Lymphomas,"Richmond, VA",40060.0,56.0,2516942.0,0.0,22.249221475902107
+Lymphomas,"Riverside-San Bernardino-Ontario, CA",40140.0,555.0,9024082.0,0.0,61.50210071229406
+Lymphomas,"Rochester, NY",40380.0,177.0,2148126.0,0.0,82.39740126975792
+Lymphomas,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,348.0,4583066.0,0.0,75.93170161634156
+Lymphomas,"Salt Lake City, UT",41620.0,41.0,2369442.0,0.0,17.303652083486323
+Lymphomas,"San Antonio-New Braunfels, TX",41700.0,277.0,4852552.0,0.0,57.08336561875071
+Lymphomas,"San Diego-Carlsbad, CA",41740.0,504.0,6612178.0,0.0,76.22299339188993
+Lymphomas,"San Francisco-Oakland-Hayward, CA",41860.0,701.0,14064594.0,0.0,49.841467162152
+Lymphomas,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,137.0,3975186.0,0.0,34.46379615947531
+Lymphomas,"Santa Rosa, CA",42220.0,16.0,1005094.0,0.0,15.918909077160944
+Lymphomas,"Seattle-Tacoma-Bellevue, WA",42660.0,609.0,11449065.0,0.0,53.19211656148341
+Lymphomas,"Springfield, MA",44140.0,17.0,1399608.0,0.0,12.146258095123779
+Lymphomas,"St. Louis, MO-IL",41180.0,525.0,5611004.0,0.0,93.56614252992868
+Lymphomas,"Syracuse, NY",45060.0,20.0,1308782.0,0.0,15.281383759862225
+Lymphomas,"Tampa-St. Petersburg-Clearwater, FL",45300.0,809.0,6097926.0,0.0,132.6680579593783
+Lymphomas,"Tucson, AZ",46060.0,77.0,2033414.0,0.0,37.86735018053382
+Lymphomas,"Tulsa, OK",46140.0,21.0,1977412.0,0.0,10.619941620663777
+Lymphomas,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,132.0,3517526.0,0.0,37.526375071570186
+Lymphomas,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,616.0,18447903.0,0.0,33.39132908493719
+Lymphomas,"Worcester, MA-CT",49340.0,36.0,1872844.0,0.0,19.22210285533659
+Male Genital System,"Akron, OH",10420.0,445.0,1407048.0,0.0,316.2649746135171
+Male Genital System,"Albany-Schenectady-Troy, NY",10580.0,586.0,1759584.0,0.0,333.0332624074781
+Male Genital System,"Albuquerque, NM",10740.0,382.0,1818474.0,0.0,210.06624235485359
+Male Genital System,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,551.0,1666326.0,0.0,330.66758845508025
+Male Genital System,"Atlanta-Sandy Springs-Roswell, GA",12060.0,3976.0,11575930.0,0.0,343.4713236863043
+Male Genital System,"Augusta-Richmond County, GA-SC",12260.0,328.0,1190058.0,0.0,275.6168186760645
+Male Genital System,"Austin-Round Rock, TX",12420.0,757.0,4124032.0,0.0,183.55822651230642
+Male Genital System,"Bakersfield, CA",12540.0,286.0,1761712.0,0.0,162.34208542599472
+Male Genital System,"Baltimore-Columbia-Towson, MD",12580.0,1931.0,5588222.0,0.0,345.548190462011
+Male Genital System,"Baton Rouge, LA",12940.0,651.0,1713446.0,0.0,379.9361053689465
+Male Genital System,"Birmingham-Hoover, AL",13820.0,890.0,2165754.0,0.0,410.94233232398506
+Male Genital System,"Boise City, ID",14260.0,391.0,1382570.0,0.0,282.80665716744903
+Male Genital System,"Boston-Cambridge-Newton, MA-NH",14460.0,3061.0,14427183.0,0.0,212.1689313845953
+Male Genital System,"Bridgeport-Stamford-Norwalk, CT",14860.0,562.0,1888694.0,0.0,297.56011296694965
+Male Genital System,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,956.0,2260464.0,0.0,422.9220195499685
+Male Genital System,"Cape Coral-Fort Myers, FL",15980.0,490.0,1445298.0,0.0,339.03042832689175
+Male Genital System,"Charleston-North Charleston, SC",16700.0,473.0,1523156.0,0.0,310.539432599156
+Male Genital System,"Charlotte-Concord-Gastonia, NC-SC",16740.0,1595.0,4999394.0,0.0,319.0386674864994
+Male Genital System,"Chattanooga, TN-GA",16860.0,315.0,1103718.0,0.0,285.39898778492335
+Male Genital System,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,5873.0,28600986.0,0.0,205.342571056816
+Male Genital System,"Cincinnati, OH-KY-IN",17140.0,1005.0,4383144.0,0.0,229.28747036373892
+Male Genital System,"Cleveland-Elyria, OH",17460.0,1456.0,4121994.0,0.0,353.22710319326035
+Male Genital System,"Colorado Springs, CO",17820.0,337.0,1424670.0,0.0,236.54600714551438
+Male Genital System,"Columbia, SC",17900.0,477.0,1634376.0,0.0,291.8545059398816
+Male Genital System,"Columbus, OH",18140.0,1194.0,4104384.0,0.0,290.90845301024467
+Male Genital System,"Dallas-Fort Worth-Arlington, TX",19100.0,3074.0,21584274.0,0.0,142.4185033974272
+Male Genital System,"Dayton-Kettering, OH",19430.0,416.0,1603322.0,0.0,259.4612934893927
+Male Genital System,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,455.0,1271718.0,0.0,357.78372249193615
+Male Genital System,"Denver-Aurora-Lakewood, CO",19740.0,1044.0,5713510.0,0.0,182.7248048922641
+Male Genital System,"Des Moines-West Des Moines, IA",19780.0,252.0,1342110.0,0.0,187.76404318572995
+Male Genital System,"Detroit-Warren-Dearborn, MI",19820.0,3066.0,12948780.0,0.0,236.7790633557756
+Male Genital System,"Durham-Chapel Hill, NC",20500.0,233.0,1236444.0,0.0,188.44363351676256
+Male Genital System,"El Paso, TX",21340.0,438.0,1678406.0,0.0,260.9618888397682
+Male Genital System,"Fayetteville, NC",22180.0,194.0,1033644.0,0.0,187.68550874382282
+Male Genital System,"Fayetteville-Springdale-Rogers, AR-MO",22220.0,196.0,1007612.0,0.0,194.51931894419678
+Male Genital System,"Fresno, CA",23420.0,239.0,1953660.0,0.0,122.33449013646182
+Male Genital System,"Grand Rapids-Wyoming, MI",24340.0,468.0,2109420.0,0.0,221.86193361208294
+Male Genital System,"Greensboro-High Point, NC",24660.0,497.0,1517270.0,0.0,327.56200280767433
+Male Genital System,"Greenville-Anderson-Mauldin, SC",24860.0,491.0,1768654.0,0.0,277.6122407209098
+Male Genital System,"Harrisburg-Carlisle, PA",25420.0,196.0,1135020.0,0.0,172.6841817765326
+Male Genital System,"Hartford-West Hartford-East Hartford, CT",25540.0,840.0,2417190.0,0.0,347.5109528005659
+Male Genital System,"Houston-The Woodlands-Sugar Land, TX",26420.0,2950.0,13613006.0,0.0,216.70452506962826
+Male Genital System,"Indianapolis-Carmel-Anderson, IN",26900.0,1122.0,4013520.0,0.0,279.5551037493273
+Male Genital System,"Jackson, MS",27140.0,375.0,1198340.0,0.0,312.93289049852297
+Male Genital System,"Jacksonville, FL",27260.0,819.0,2952046.0,0.0,277.4347012207804
+Male Genital System,"Knoxville, TN",28940.0,521.0,1689884.0,0.0,308.3051854446814
+Male Genital System,"Lakeland-Winter Haven, FL",29460.0,328.0,1331646.0,0.0,246.31170746579795
+Male Genital System,"Lancaster, PA",29540.0,283.0,1076320.0,0.0,262.93295674148953
+Male Genital System,"Lansing-East Lansing, MI",29620.0,314.0,1090292.0,0.0,287.9962432082414
+Male Genital System,"Las Vegas-Henderson-Paradise, NV",29820.0,861.0,4277672.0,0.0,201.27770432141594
+Male Genital System,"Lexington-Fayette, KY",30460.0,195.0,1014774.0,0.0,192.16101319111445
+Male Genital System,"Little Rock-North Little Rock-Conway, AR",30780.0,488.0,1468332.0,0.0,332.34990451750696
+Male Genital System,"Los Angeles-Long Beach-Anaheim, CA",31080.0,6030.0,39812082.0,0.0,151.46155883030684
+Male Genital System,"Louisville-Jefferson County, KY-IN",31140.0,680.0,2505050.0,0.0,271.45166763138457
+Male Genital System,"Madison, WI",31540.0,269.0,1296776.0,0.0,207.43752197758133
+Male Genital System,"McAllen-Edinburg-Mission, TX",32580.0,235.0,1697920.0,0.0,138.40463626083678
+Male Genital System,"Memphis, TN-MS-AR",32820.0,911.0,2672408.0,0.0,340.89106154449473
+Male Genital System,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,4225.0,18167058.0,0.0,232.56379761654307
+Male Genital System,"Milwaukee-Waukesha-West Allis, WI",33340.0,1125.0,3152008.0,0.0,356.9153377783305
+Male Genital System,"Modesto, CA",33700.0,164.0,1078510.0,0.0,152.0616405967492
+Male Genital System,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,1157.0,3682588.0,0.0,314.1812225532696
+Male Genital System,"New Haven-Milford, CT",35300.0,497.0,1715802.0,0.0,289.66046198803826
+Male Genital System,"New Orleans-Metairie, LA",35380.0,939.0,2535226.0,0.0,370.381181007137
+Male Genital System,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,13873.0,58004334.0,0.0,239.17178326709174
+Male Genital System,"North Port-Sarasota-Bradenton, FL",35840.0,721.0,1576682.0,0.0,457.2894217096409
+Male Genital System,"Ogden-Clearfield, UT",36260.0,303.0,1304952.0,0.0,232.19244845787432
+Male Genital System,"Oklahoma City, OK",36420.0,648.0,2745970.0,0.0,235.98218480172764
+Male Genital System,"Omaha-Council Bluffs, NE-IA",36540.0,510.0,1846862.0,0.0,276.14407573494935
+Male Genital System,"Orlando-Kissimmee-Sanford, FL",36740.0,1173.0,4911166.0,0.0,238.84348441897507
+Male Genital System,Other,99999.0,74771.0,0.0,0.0,0.0
+Male Genital System,"Oxnard-Thousand Oaks-Ventura, CA",37100.0,381.0,1694646.0,0.0,224.82571581321406
+Male Genital System,"Palm Bay-Melbourne-Titusville, FL",37340.0,299.0,1153748.0,0.0,259.1553788175581
+Male Genital System,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,4660.0,18199983.0,0.0,256.0441952061164
+Male Genital System,"Phoenix-Mesa-Scottsdale, AZ",38060.0,2004.0,9346672.0,0.0,214.40786624372825
+Male Genital System,"Pittsburgh, PA",38300.0,1531.0,4680444.0,0.0,327.10571903007497
+Male Genital System,"Portland-South Portland, ME",38860.0,288.0,1057824.0,0.0,272.2570106180234
+Male Genital System,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,1112.0,4853150.0,0.0,229.12953442609438
+Male Genital System,"Poughkeepsie-Newburgh-Middletown, NY",39100.0,332.0,1341656.0,0.0,247.45538349621663
+Male Genital System,"Providence-Warwick, RI-MA",39300.0,949.0,3229680.0,0.0,293.8371603378663
+Male Genital System,"Provo-Orem, UT",39340.0,173.0,1202608.0,0.0,143.8540239213443
+Male Genital System,"Raleigh, NC",39580.0,739.0,2607708.0,0.0,283.3906250239674
+Male Genital System,"Richmond, VA",40060.0,836.0,2516942.0,0.0,332.14909203311004
+Male Genital System,"Riverside-San Bernardino-Ontario, CA",40140.0,2117.0,9024082.0,0.0,234.59449947374148
+Male Genital System,"Rochester, NY",40380.0,911.0,2148126.0,0.0,424.0905794166637
+Male Genital System,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,1014.0,4583066.0,0.0,221.2492685027883
+Male Genital System,"Salt Lake City, UT",41620.0,522.0,2369442.0,0.0,220.30503384341125
+Male Genital System,"San Antonio-New Braunfels, TX",41700.0,796.0,4852552.0,0.0,164.03739722933418
+Male Genital System,"San Diego-Carlsbad, CA",41740.0,1542.0,6612178.0,0.0,233.20606311566326
+Male Genital System,"San Francisco-Oakland-Hayward, CA",41860.0,2057.0,14064594.0,0.0,146.25377739307655
+Male Genital System,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,575.0,3975186.0,0.0,144.64731964743285
+Male Genital System,"Santa Rosa, CA",42220.0,231.0,1005094.0,0.0,229.8292498015111
+Male Genital System,"Scranton-Wilkes-Barre-Hazleton, PA",42540.0,394.0,1111444.0,0.0,354.4937936594196
+Male Genital System,"Seattle-Tacoma-Bellevue, WA",42660.0,1959.0,11449065.0,0.0,171.10567544161904
+Male Genital System,"Spokane-Spokane Valley, WA",44060.0,142.0,1082060.0,0.0,131.23117017540616
+Male Genital System,"Springfield, MA",44140.0,328.0,1399608.0,0.0,234.35133265885878
+Male Genital System,"St. Louis, MO-IL",41180.0,1775.0,5611004.0,0.0,316.3426723630922
+Male Genital System,"Stockton-Lodi, CA",44700.0,176.0,1465618.0,0.0,120.08586139089448
+Male Genital System,"Syracuse, NY",45060.0,527.0,1308782.0,0.0,402.6644620723696
+Male Genital System,"Tampa-St. Petersburg-Clearwater, FL",45300.0,1921.0,6097926.0,0.0,315.0251413349391
+Male Genital System,"Toledo, OH",45780.0,390.0,1290882.0,0.0,302.1190163004829
+Male Genital System,"Tucson, AZ",46060.0,472.0,2033414.0,0.0,232.12193876898652
+Male Genital System,"Tulsa, OK",46140.0,477.0,1977412.0,0.0,241.2243882407915
+Male Genital System,"Urban Honolulu, HI",46520.0,156.0,1984536.0,0.0,78.60779547460967
+Male Genital System,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,968.0,3517526.0,0.0,275.1934171915147
+Male Genital System,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,3407.0,18447903.0,0.0,184.68223732529384
+Male Genital System,"Winston-Salem, NC",49180.0,306.0,1322048.0,0.0,231.45906956479647
+Male Genital System,"Worcester, MA-CT",49340.0,531.0,1872844.0,0.0,283.5260171162147
+Male Genital System,"Youngstown-Warren-Boardman, OH-PA",49660.0,343.0,1089164.0,0.0,314.9204343882097
+Male and Female Breast,"Akron, OH",10420.0,537.0,1407048.0,0.938,381.6500929605813
+Male and Female Breast,"Albany-Schenectady-Troy, NY",10580.0,734.0,1759584.0,0.938,417.1440522305272
+Male and Female Breast,"Albuquerque, NM",10740.0,656.0,1818474.0,0.938,360.74202875597894
+Male and Female Breast,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,616.0,1666326.0,0.938,369.6755616848084
+Male and Female Breast,"Atlanta-Sandy Springs-Roswell, GA",12060.0,4079.0,11575930.0,0.938,352.3690969105722
+Male and Female Breast,"Augusta-Richmond County, GA-SC",12260.0,395.0,1190058.0,0.938,331.91659566172405
+Male and Female Breast,"Austin-Round Rock, TX",12420.0,1119.0,4124032.0,0.938,271.33640088146745
+Male and Female Breast,"Bakersfield, CA",12540.0,396.0,1761712.0,0.938,224.7813490513773
+Male and Female Breast,"Baltimore-Columbia-Towson, MD",12580.0,2235.0,5588222.0,0.938,399.9483198770557
+Male and Female Breast,"Baton Rouge, LA",12940.0,513.0,1713446.0,0.938,299.3966544612436
+Male and Female Breast,"Birmingham-Hoover, AL",13820.0,776.0,2165754.0,0.938,358.30477514990156
+Male and Female Breast,"Boise City, ID",14260.0,499.0,1382570.0,0.938,360.9220509630615
+Male and Female Breast,"Boston-Cambridge-Newton, MA-NH",14460.0,4079.0,14427183.0,0.938,282.7301767781001
+Male and Female Breast,"Bridgeport-Stamford-Norwalk, CT",14860.0,739.0,1888694.0,0.938,391.2756645597434
+Male and Female Breast,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,914.0,2260464.0,0.938,404.3417634609532
+Male and Female Breast,"Cape Coral-Fort Myers, FL",15980.0,520.0,1445298.0,0.938,359.78739332649735
+Male and Female Breast,"Charleston-North Charleston, SC",16700.0,453.0,1523156.0,0.938,297.4088011996145
+Male and Female Breast,"Charlotte-Concord-Gastonia, NC-SC",16740.0,1879.0,4999394.0,0.938,375.8455524809607
+Male and Female Breast,"Chattanooga, TN-GA",16860.0,307.0,1103718.0,0.938,278.15075952371893
+Male and Female Breast,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,7005.0,28600986.0,0.938,244.92162612855375
+Male and Female Breast,"Cincinnati, OH-KY-IN",17140.0,1676.0,4383144.0,0.938,382.3739306762452
+Male and Female Breast,"Cleveland-Elyria, OH",17460.0,1801.0,4121994.0,0.938,436.9244593757293
+Male and Female Breast,"Colorado Springs, CO",17820.0,431.0,1424670.0,0.938,302.52619904960443
+Male and Female Breast,"Columbia, SC",17900.0,570.0,1634376.0,0.938,348.7569567835064
+Male and Female Breast,"Columbus, OH",18140.0,1427.0,4104384.0,0.938,347.6770204737179
+Male and Female Breast,"Dallas-Fort Worth-Arlington, TX",19100.0,4207.0,21584274.0,0.938,194.91042413564617
+Male and Female Breast,"Dayton-Kettering, OH",19430.0,616.0,1603322.0,0.938,384.2022999746776
+Male and Female Breast,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,565.0,1271718.0,0.938,444.2808861713053
+Male and Female Breast,"Denver-Aurora-Lakewood, CO",19740.0,1914.0,5713510.0,0.938,334.99547563581757
+Male and Female Breast,"Des Moines-West Des Moines, IA",19780.0,424.0,1342110.0,0.938,315.9204536140853
+Male and Female Breast,"Detroit-Warren-Dearborn, MI",19820.0,3398.0,12948780.0,0.938,262.4185444497474
+Male and Female Breast,"Durham-Chapel Hill, NC",20500.0,426.0,1236444.0,0.938,344.5364286615487
+Male and Female Breast,"El Paso, TX",21340.0,438.0,1678406.0,0.938,260.9618888397682
+Male and Female Breast,"Fayetteville, NC",22180.0,170.0,1033644.0,0.938,164.46668291984474
+Male and Female Breast,"Fayetteville-Springdale-Rogers, AR-MO",22220.0,314.0,1007612.0,0.938,311.6278885126418
+Male and Female Breast,"Fresno, CA",23420.0,401.0,1953660.0,0.938,205.25577633774557
+Male and Female Breast,"Grand Rapids-Wyoming, MI",24340.0,652.0,2109420.0,0.938,309.08970238264544
+Male and Female Breast,"Greensboro-High Point, NC",24660.0,643.0,1517270.0,0.938,423.78746037290665
+Male and Female Breast,"Greenville-Anderson-Mauldin, SC",24860.0,666.0,1768654.0,0.938,376.5575403668553
+Male and Female Breast,"Harrisburg-Carlisle, PA",25420.0,425.0,1135020.0,0.938,374.4427410970732
+Male and Female Breast,"Hartford-West Hartford-East Hartford, CT",25540.0,981.0,2417190.0,0.938,405.84314844923233
+Male and Female Breast,"Houston-The Woodlands-Sugar Land, TX",26420.0,3388.0,13613006.0,0.938,248.87963760539
+Male and Female Breast,"Indianapolis-Carmel-Anderson, IN",26900.0,1376.0,4013520.0,0.938,342.8411967549682
+Male and Female Breast,"Jackson, MS",27140.0,380.0,1198340.0,0.938,317.10532903850327
+Male and Female Breast,"Jacksonville, FL",27260.0,1106.0,2952046.0,0.938,374.6554084861821
+Male and Female Breast,"Knoxville, TN",28940.0,663.0,1689884.0,0.938,392.33462178469057
+Male and Female Breast,"Lakeland-Winter Haven, FL",29460.0,463.0,1331646.0,0.938,347.6900016971477
+Male and Female Breast,"Lancaster, PA",29540.0,434.0,1076320.0,0.938,403.2258064516129
+Male and Female Breast,"Lansing-East Lansing, MI",29620.0,332.0,1090292.0,0.938,304.5055819908795
+Male and Female Breast,"Las Vegas-Henderson-Paradise, NV",29820.0,1069.0,4277672.0,0.938,249.90228329801818
+Male and Female Breast,"Lexington-Fayette, KY",30460.0,356.0,1014774.0,0.938,350.81702921044484
+Male and Female Breast,"Little Rock-North Little Rock-Conway, AR",30780.0,395.0,1468332.0,0.938,269.0127300910148
+Male and Female Breast,"Los Angeles-Long Beach-Anaheim, CA",31080.0,8678.0,39812082.0,0.938,217.97403109940345
+Male and Female Breast,"Louisville-Jefferson County, KY-IN",31140.0,939.0,2505050.0,0.938,374.84281750863255
+Male and Female Breast,"Madison, WI",31540.0,442.0,1296776.0,0.938,340.8452963349106
+Male and Female Breast,"McAllen-Edinburg-Mission, TX",32580.0,306.0,1697920.0,0.938,180.22050508857896
+Male and Female Breast,"Memphis, TN-MS-AR",32820.0,866.0,2672408.0,0.938,324.0523153650191
+Male and Female Breast,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,4543.0,18167058.0,0.938,250.0680077093385
+Male and Female Breast,"Milwaukee-Waukesha-West Allis, WI",33340.0,1230.0,3152008.0,0.938,390.2274359709747
+Male and Female Breast,"Modesto, CA",33700.0,266.0,1078510.0,0.938,246.6365634069225
+Male and Female Breast,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,1232.0,3682588.0,0.938,334.5473346461782
+Male and Female Breast,"New Haven-Milford, CT",35300.0,676.0,1715802.0,0.938,393.98485373020895
+Male and Female Breast,"New Orleans-Metairie, LA",35380.0,969.0,2535226.0,0.938,382.21444557605514
+Male and Female Breast,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,15274.0,58004334.0,0.938,263.3251508413147
+Male and Female Breast,"North Port-Sarasota-Bradenton, FL",35840.0,750.0,1576682.0,0.938,475.68247750656127
+Male and Female Breast,"Ogden-Clearfield, UT",36260.0,306.0,1304952.0,0.938,234.4913835911206
+Male and Female Breast,"Oklahoma City, OK",36420.0,856.0,2745970.0,0.938,311.729552762776
+Male and Female Breast,"Omaha-Council Bluffs, NE-IA",36540.0,650.0,1846862.0,0.938,351.94833181905307
+Male and Female Breast,"Orlando-Kissimmee-Sanford, FL",36740.0,1537.0,4911166.0,0.938,312.96030311335437
+Male and Female Breast,Other,99999.0,84690.0,0.0,0.938,0.0
+Male and Female Breast,"Oxnard-Thousand Oaks-Ventura, CA",37100.0,535.0,1694646.0,0.938,315.70015212616676
+Male and Female Breast,"Palm Bay-Melbourne-Titusville, FL",37340.0,454.0,1153748.0,0.938,393.50014041194436
+Male and Female Breast,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,5026.0,18199983.0,0.938,276.15410409998736
+Male and Female Breast,"Phoenix-Mesa-Scottsdale, AZ",38060.0,2985.0,9346672.0,0.938,319.36501034806827
+Male and Female Breast,"Pittsburgh, PA",38300.0,2263.0,4680444.0,0.938,483.50113792623097
+Male and Female Breast,"Portland-South Portland, ME",38860.0,462.0,1057824.0,0.938,436.74562119974587
+Male and Female Breast,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,1643.0,4853150.0,0.938,338.5430081493463
+Male and Female Breast,"Poughkeepsie-Newburgh-Middletown, NY",39100.0,466.0,1341656.0,0.938,347.3319539434848
+Male and Female Breast,"Providence-Warwick, RI-MA",39300.0,1272.0,3229680.0,0.938,393.84706844021696
+Male and Female Breast,"Provo-Orem, UT",39340.0,170.0,1202608.0,0.938,141.3594454718412
+Male and Female Breast,"Raleigh, NC",39580.0,851.0,2607708.0,0.938,326.3402190736079
+Male and Female Breast,"Richmond, VA",40060.0,1008.0,2516942.0,0.938,400.48598656623795
+Male and Female Breast,"Riverside-San Bernardino-Ontario, CA",40140.0,2245.0,9024082.0,0.938,248.77876774612642
+Male and Female Breast,"Rochester, NY",40380.0,883.0,2148126.0,0.938,411.05596226664545
+Male and Female Breast,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,1434.0,4583066.0,0.938,312.8909773500971
+Male and Female Breast,"Salt Lake City, UT",41620.0,564.0,2369442.0,0.938,238.03072622161676
+Male and Female Breast,"San Antonio-New Braunfels, TX",41700.0,1254.0,4852552.0,0.938,258.4207237758606
+Male and Female Breast,"San Diego-Carlsbad, CA",41740.0,1928.0,6612178.0,0.938,291.58319694357897
+Male and Female Breast,"San Francisco-Oakland-Hayward, CA",41860.0,2890.0,14064594.0,0.938,205.48051369275217
+Male and Female Breast,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,868.0,3975186.0,0.938,218.35456252864645
+Male and Female Breast,"Santa Rosa, CA",42220.0,379.0,1005094.0,0.938,377.0791587652498
+Male and Female Breast,"Scranton-Wilkes-Barre-Hazleton, PA",42540.0,458.0,1111444.0,0.938,412.07654186805627
+Male and Female Breast,"Seattle-Tacoma-Bellevue, WA",42660.0,2589.0,11449065.0,0.938,226.13200291901566
+Male and Female Breast,"Spokane-Spokane Valley, WA",44060.0,395.0,1082060.0,0.938,365.044452248489
+Male and Female Breast,"Springfield, MA",44140.0,509.0,1399608.0,0.938,363.67325708341195
+Male and Female Breast,"St. Louis, MO-IL",41180.0,2456.0,5611004.0,0.938,437.7113258161997
+Male and Female Breast,"Stockton-Lodi, CA",44700.0,301.0,1465618.0,0.938,205.37411521965475
+Male and Female Breast,"Syracuse, NY",45060.0,503.0,1308782.0,0.938,384.32680156053493
+Male and Female Breast,"Tampa-St. Petersburg-Clearwater, FL",45300.0,2455.0,6097926.0,0.938,402.5958989991023
+Male and Female Breast,"Toledo, OH",45780.0,418.0,1290882.0,0.938,323.80961234256887
+Male and Female Breast,"Tucson, AZ",46060.0,716.0,2033414.0,0.938,352.1171783021067
+Male and Female Breast,"Tulsa, OK",46140.0,678.0,1977412.0,0.938,342.8724008957162
+Male and Female Breast,"Urban Honolulu, HI",46520.0,95.0,1984536.0,0.938,47.87013185953795
+Male and Female Breast,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,1367.0,3517526.0,0.938,388.62541456694277
+Male and Female Breast,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,3716.0,18447903.0,0.938,201.43210857082238
+Male and Female Breast,"Winston-Salem, NC",49180.0,528.0,1322048.0,0.938,399.38035532749194
+Male and Female Breast,"Worcester, MA-CT",49340.0,748.0,1872844.0,0.938,399.39258154977136
+Male and Female Breast,"Youngstown-Warren-Boardman, OH-PA",49660.0,436.0,1089164.0,0.938,400.3070244701441
+"Male and Female Breast, In Situ","Akron, OH",10420.0,73.0,1407048.0,0.0,51.88166999277921
+"Male and Female Breast, In Situ","Albany-Schenectady-Troy, NY",10580.0,116.0,1759584.0,0.0,65.92467310455199
+"Male and Female Breast, In Situ","Albuquerque, NM",10740.0,54.0,1818474.0,0.0,29.695227976864118
+"Male and Female Breast, In Situ","Allentown-Bethlehem-Easton, PA-NJ",10900.0,71.0,1666326.0,0.0,42.608709220164606
+"Male and Female Breast, In Situ","Atlanta-Sandy Springs-Roswell, GA",12060.0,889.0,11575930.0,0.0,76.79728540169127
+"Male and Female Breast, In Situ","Austin-Round Rock, TX",12420.0,240.0,4124032.0,0.0,58.19547471988579
+"Male and Female Breast, In Situ","Baltimore-Columbia-Towson, MD",12580.0,380.0,5588222.0,0.0,68.0001617688059
+"Male and Female Breast, In Situ","Birmingham-Hoover, AL",13820.0,79.0,2165754.0,0.0,36.47690365572451
+"Male and Female Breast, In Situ","Boston-Cambridge-Newton, MA-NH",14460.0,1039.0,14427183.0,0.0,72.01683100574797
+"Male and Female Breast, In Situ","Bridgeport-Stamford-Norwalk, CT",14860.0,225.0,1888694.0,0.0,119.12993846541578
+"Male and Female Breast, In Situ","Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,228.0,2260464.0,0.0,100.86424734036906
+"Male and Female Breast, In Situ","Cape Coral-Fort Myers, FL",15980.0,103.0,1445298.0,0.0,71.2655798319793
+"Male and Female Breast, In Situ","Charleston-North Charleston, SC",16700.0,22.0,1523156.0,0.0,14.443694539495626
+"Male and Female Breast, In Situ","Charlotte-Concord-Gastonia, NC-SC",16740.0,401.0,4999394.0,0.0,80.2097214182359
+"Male and Female Breast, In Situ","Chicago-Naperville-Elgin, IL-IN-WI",16980.0,1701.0,28600986.0,0.0,59.47347409631263
+"Male and Female Breast, In Situ","Cincinnati, OH-KY-IN",17140.0,308.0,4383144.0,0.0,70.26919489754387
+"Male and Female Breast, In Situ","Cleveland-Elyria, OH",17460.0,270.0,4121994.0,0.0,65.50227875149746
+"Male and Female Breast, In Situ","Colorado Springs, CO",17820.0,19.0,1424670.0,0.0,13.336421767847991
+"Male and Female Breast, In Situ","Columbus, OH",18140.0,242.0,4104384.0,0.0,58.96134474747003
+"Male and Female Breast, In Situ","Dallas-Fort Worth-Arlington, TX",19100.0,771.0,21584274.0,0.0,35.720450917181644
+"Male and Female Breast, In Situ","Dayton-Kettering, OH",19430.0,130.0,1603322.0,0.0,81.08165421543521
+"Male and Female Breast, In Situ","Deltona-Daytona Beach-Ormond Beach, FL",19660.0,76.0,1271718.0,0.0,59.76167672392779
+"Male and Female Breast, In Situ","Denver-Aurora-Lakewood, CO",19740.0,402.0,5713510.0,0.0,70.35955130909021
+"Male and Female Breast, In Situ","Des Moines-West Des Moines, IA",19780.0,38.0,1342110.0,0.0,28.31362555975293
+"Male and Female Breast, In Situ","Detroit-Warren-Dearborn, MI",19820.0,787.0,12948780.0,0.0,60.77792656914397
+"Male and Female Breast, In Situ","El Paso, TX",21340.0,16.0,1678406.0,0.0,9.532854386840848
+"Male and Female Breast, In Situ","Grand Rapids-Wyoming, MI",24340.0,104.0,2109420.0,0.0,49.30265191379621
+"Male and Female Breast, In Situ","Greensboro-High Point, NC",24660.0,78.0,1517270.0,0.0,51.408121164987115
+"Male and Female Breast, In Situ","Greenville-Anderson-Mauldin, SC",24860.0,196.0,1768654.0,0.0,110.8187356034589
+"Male and Female Breast, In Situ","Harrisburg-Carlisle, PA",25420.0,55.0,1135020.0,0.0,48.45729590668006
+"Male and Female Breast, In Situ","Hartford-West Hartford-East Hartford, CT",25540.0,231.0,2417190.0,0.0,95.56551202015562
+"Male and Female Breast, In Situ","Houston-The Woodlands-Sugar Land, TX",26420.0,681.0,13613006.0,0.0,50.02568866861588
+"Male and Female Breast, In Situ","Indianapolis-Carmel-Anderson, IN",26900.0,267.0,4013520.0,0.0,66.52514500986665
+"Male and Female Breast, In Situ","Jacksonville, FL",27260.0,155.0,2952046.0,0.0,52.505956885495685
+"Male and Female Breast, In Situ","Knoxville, TN",28940.0,120.0,1689884.0,0.0,71.01079127324716
+"Male and Female Breast, In Situ","Lakeland-Winter Haven, FL",29460.0,16.0,1331646.0,0.0,12.015205242234046
+"Male and Female Breast, In Situ","Lancaster, PA",29540.0,16.0,1076320.0,0.0,14.865467518953471
+"Male and Female Breast, In Situ","Lansing-East Lansing, MI",29620.0,40.0,1090292.0,0.0,36.687419516973435
+"Male and Female Breast, In Situ","Las Vegas-Henderson-Paradise, NV",29820.0,161.0,4277672.0,0.0,37.637294304004605
+"Male and Female Breast, In Situ","Little Rock-North Little Rock-Conway, AR",30780.0,17.0,1468332.0,0.0,11.577763067208235
+"Male and Female Breast, In Situ","Los Angeles-Long Beach-Anaheim, CA",31080.0,1861.0,39812082.0,0.0,46.744603811476125
+"Male and Female Breast, In Situ","Louisville-Jefferson County, KY-IN",31140.0,133.0,2505050.0,0.0,53.092752639667864
+"Male and Female Breast, In Situ","Madison, WI",31540.0,75.0,1296776.0,0.0,57.83574032832193
+"Male and Female Breast, In Situ","Memphis, TN-MS-AR",32820.0,50.0,2672408.0,0.0,18.7097179771951
+"Male and Female Breast, In Situ","Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,954.0,18167058.0,0.0,52.5126302783863
+"Male and Female Breast, In Situ","Milwaukee-Waukesha-West Allis, WI",33340.0,271.0,3152008.0,0.0,85.97693914482451
+"Male and Female Breast, In Situ","Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,158.0,3682588.0,0.0,42.9046094757274
+"Male and Female Breast, In Situ","New Haven-Milford, CT",35300.0,154.0,1715802.0,0.0,89.75394596812453
+"Male and Female Breast, In Situ","New Orleans-Metairie, LA",35380.0,107.0,2535226.0,0.0,42.20531029580795
+"Male and Female Breast, In Situ","New York-Newark-Jersey City, NY-NJ-PA",35620.0,4788.0,58004334.0,0.0,82.54555599241947
+"Male and Female Breast, In Situ","North Port-Sarasota-Bradenton, FL",35840.0,160.0,1576682.0,0.0,101.47892853473307
+"Male and Female Breast, In Situ","Ogden-Clearfield, UT",36260.0,16.0,1304952.0,0.0,12.260987377313496
+"Male and Female Breast, In Situ","Oklahoma City, OK",36420.0,85.0,2745970.0,0.0,30.95445325331304
+"Male and Female Breast, In Situ","Omaha-Council Bluffs, NE-IA",36540.0,65.0,1846862.0,0.0,35.19483318190531
+"Male and Female Breast, In Situ","Orlando-Kissimmee-Sanford, FL",36740.0,291.0,4911166.0,0.0,59.25273142874829
+"Male and Female Breast, In Situ",Other,99999.0,16297.0,0.0,0.0,0.0
+"Male and Female Breast, In Situ","Oxnard-Thousand Oaks-Ventura, CA",37100.0,54.0,1694646.0,0.0,31.865062083762624
+"Male and Female Breast, In Situ","Palm Bay-Melbourne-Titusville, FL",37340.0,32.0,1153748.0,0.0,27.735692716260395
+"Male and Female Breast, In Situ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,1212.0,18199983.0,0.0,66.59346879609723
+"Male and Female Breast, In Situ","Phoenix-Mesa-Scottsdale, AZ",38060.0,613.0,9346672.0,0.0,65.5848413210606
+"Male and Female Breast, In Situ","Pittsburgh, PA",38300.0,477.0,4680444.0,0.0,101.91340821511807
+"Male and Female Breast, In Situ","Portland-South Portland, ME",38860.0,18.0,1057824.0,0.0,17.016063163626463
+"Male and Female Breast, In Situ","Portland-Vancouver-Hillsboro, OR-WA",38900.0,291.0,4853150.0,0.0,59.96105622121714
+"Male and Female Breast, In Situ","Poughkeepsie-Newburgh-Middletown, NY",39100.0,106.0,1341656.0,0.0,79.00683930903301
+"Male and Female Breast, In Situ","Providence-Warwick, RI-MA",39300.0,298.0,3229680.0,0.0,92.26920314086844
+"Male and Female Breast, In Situ","Raleigh, NC",39580.0,113.0,2607708.0,0.0,43.33307256794089
+"Male and Female Breast, In Situ","Richmond, VA",40060.0,170.0,2516942.0,0.0,67.54227948041712
+"Male and Female Breast, In Situ","Riverside-San Bernardino-Ontario, CA",40140.0,393.0,9024082.0,0.0,43.550136180056874
+"Male and Female Breast, In Situ","Rochester, NY",40380.0,132.0,2148126.0,0.0,61.44890942151438
+"Male and Female Breast, In Situ","Sacramento-Roseville-Arden-Arcade, CA",40900.0,289.0,4583066.0,0.0,63.05822346874342
+"Male and Female Breast, In Situ","Salt Lake City, UT",41620.0,56.0,2369442.0,0.0,23.634256504274003
+"Male and Female Breast, In Situ","San Antonio-New Braunfels, TX",41700.0,192.0,4852552.0,0.0,39.56680938194995
+"Male and Female Breast, In Situ","San Diego-Carlsbad, CA",41740.0,359.0,6612178.0,0.0,54.2937591819216
+"Male and Female Breast, In Situ","San Francisco-Oakland-Hayward, CA",41860.0,606.0,14064594.0,0.0,43.08691740408575
+"Male and Female Breast, In Situ","San Jose-Sunnyvale-Santa Clara, CA",41940.0,152.0,3975186.0,0.0,38.23720449810399
+"Male and Female Breast, In Situ","Scranton-Wilkes-Barre-Hazleton, PA",42540.0,40.0,1111444.0,0.0,35.98921763039793
+"Male and Female Breast, In Situ","Seattle-Tacoma-Bellevue, WA",42660.0,592.0,11449065.0,0.0,51.70727915336318
+"Male and Female Breast, In Situ","Spokane-Spokane Valley, WA",44060.0,39.0,1082060.0,0.0,36.04236363972423
+"Male and Female Breast, In Situ","Springfield, MA",44140.0,111.0,1399608.0,0.0,79.30792050345525
+"Male and Female Breast, In Situ","St. Louis, MO-IL",41180.0,458.0,5611004.0,0.0,81.62532053087112
+"Male and Female Breast, In Situ","Syracuse, NY",45060.0,58.0,1308782.0,0.0,44.31601290360045
+"Male and Female Breast, In Situ","Tampa-St. Petersburg-Clearwater, FL",45300.0,526.0,6097926.0,0.0,86.25883620102965
+"Male and Female Breast, In Situ","Toledo, OH",45780.0,36.0,1290882.0,0.0,27.88790919696765
+"Male and Female Breast, In Situ","Tucson, AZ",46060.0,101.0,2033414.0,0.0,49.67016062641449
+"Male and Female Breast, In Situ","Tulsa, OK",46140.0,18.0,1977412.0,0.0,9.102807103426095
+"Male and Female Breast, In Situ","Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,301.0,3517526.0,0.0,85.57150679198959
+"Male and Female Breast, In Situ","Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,799.0,18447903.0,0.0,43.31115574491041
+"Male and Female Breast, In Situ","Winston-Salem, NC",49180.0,51.0,1322048.0,0.0,38.57651159413274
+"Male and Female Breast, In Situ","Worcester, MA-CT",49340.0,139.0,1872844.0,0.0,74.21867491366072
+"Male and Female Breast, In Situ","Youngstown-Warren-Boardman, OH-PA",49660.0,19.0,1089164.0,0.0,17.44457216727692
+Mesothelioma,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,16.0,28600986.0,0.62,0.5594212730987667
+Mesothelioma,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,89.0,58004334.0,0.62,1.534368104286828
+Mesothelioma,Other,99999.0,1105.0,0.0,0.62,0.0
+Miscellaneous,"Akron, OH",10420.0,17.0,1407048.0,0.0,12.082032738044473
+Miscellaneous,"Albany-Schenectady-Troy, NY",10580.0,101.0,1759584.0,0.0,57.399930892756466
+Miscellaneous,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,81.0,1666326.0,0.0,48.60993587089201
+Miscellaneous,"Atlanta-Sandy Springs-Roswell, GA",12060.0,648.0,11575930.0,0.0,55.97822377986046
+Miscellaneous,"Austin-Round Rock, TX",12420.0,87.0,4124032.0,0.0,21.095859585958596
+Miscellaneous,"Baltimore-Columbia-Towson, MD",12580.0,307.0,5588222.0,0.0,54.93697279743002
+Miscellaneous,"Boston-Cambridge-Newton, MA-NH",14460.0,578.0,14427183.0,0.0,40.0632611369801
+Miscellaneous,"Bridgeport-Stamford-Norwalk, CT",14860.0,37.0,1888694.0,0.0,19.59025654764615
+Miscellaneous,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,206.0,2260464.0,0.0,91.13173224612292
+Miscellaneous,"Cape Coral-Fort Myers, FL",15980.0,269.0,1445298.0,0.0,186.12078616313036
+Miscellaneous,"Charlotte-Concord-Gastonia, NC-SC",16740.0,225.0,4999394.0,0.0,45.00545466110493
+Miscellaneous,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,1063.0,28600986.0,0.0,37.16655083149931
+Miscellaneous,"Cincinnati, OH-KY-IN",17140.0,246.0,4383144.0,0.0,56.12409722336296
+Miscellaneous,"Cleveland-Elyria, OH",17460.0,203.0,4121994.0,0.0,49.24800957982957
+Miscellaneous,"Columbus, OH",18140.0,94.0,4104384.0,0.0,22.902340521744556
+Miscellaneous,"Dallas-Fort Worth-Arlington, TX",19100.0,648.0,21584274.0,0.0,30.02185758019936
+Miscellaneous,"Dayton-Kettering, OH",19430.0,16.0,1603322.0,0.0,9.979280518822796
+Miscellaneous,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,263.0,1271718.0,0.0,206.8068549788554
+Miscellaneous,"Denver-Aurora-Lakewood, CO",19740.0,213.0,5713510.0,0.0,37.280060768249285
+Miscellaneous,"Detroit-Warren-Dearborn, MI",19820.0,518.0,12948780.0,0.0,40.003768694811406
+Miscellaneous,"El Paso, TX",21340.0,17.0,1678406.0,0.0,10.128657786018401
+Miscellaneous,"Harrisburg-Carlisle, PA",25420.0,16.0,1135020.0,0.0,14.096667900125109
+Miscellaneous,"Hartford-West Hartford-East Hartford, CT",25540.0,100.0,2417190.0,0.0,41.3703515238769
+Miscellaneous,"Houston-The Woodlands-Sugar Land, TX",26420.0,530.0,13613006.0,0.0,38.93335535149254
+Miscellaneous,"Indianapolis-Carmel-Anderson, IN",26900.0,116.0,4013520.0,0.0,28.902310191552555
+Miscellaneous,"Jacksonville, FL",27260.0,294.0,2952046.0,0.0,99.59194402797246
+Miscellaneous,"Knoxville, TN",28940.0,16.0,1689884.0,0.0,9.468105503099622
+Miscellaneous,"Lakeland-Winter Haven, FL",29460.0,63.0,1331646.0,0.0,47.309870641296556
+Miscellaneous,"Lancaster, PA",29540.0,21.0,1076320.0,0.0,19.510926118626433
+Miscellaneous,"Las Vegas-Henderson-Paradise, NV",29820.0,216.0,4277672.0,0.0,50.49475509108693
+Miscellaneous,"Los Angeles-Long Beach-Anaheim, CA",31080.0,1374.0,39812082.0,0.0,34.51213629068683
+Miscellaneous,"Louisville-Jefferson County, KY-IN",31140.0,76.0,2505050.0,0.0,30.338715794095922
+Miscellaneous,"Memphis, TN-MS-AR",32820.0,16.0,2672408.0,0.0,5.987109752702432
+Miscellaneous,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,1873.0,18167058.0,0.0,103.09869655284857
+Miscellaneous,"Milwaukee-Waukesha-West Allis, WI",33340.0,195.0,3152008.0,0.0,61.86532521491063
+Miscellaneous,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,99.0,3682588.0,0.0,26.88326796263932
+Miscellaneous,"New Haven-Milford, CT",35300.0,44.0,1715802.0,0.0,25.643984562321293
+Miscellaneous,"New Orleans-Metairie, LA",35380.0,20.0,2535226.0,0.0,7.88884304594541
+Miscellaneous,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,3255.0,58004334.0,0.0,56.11649639835534
+Miscellaneous,"North Port-Sarasota-Bradenton, FL",35840.0,367.0,1576682.0,0.0,232.76729232654398
+Miscellaneous,"Oklahoma City, OK",36420.0,58.0,2745970.0,0.0,21.121862219907722
+Miscellaneous,"Orlando-Kissimmee-Sanford, FL",36740.0,577.0,4911166.0,0.0,117.48737468861773
+Miscellaneous,Other,99999.0,22712.0,0.0,0.0,0.0
+Miscellaneous,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,806.0,18199983.0,0.0,44.28575565153
+Miscellaneous,"Phoenix-Mesa-Scottsdale, AZ",38060.0,611.0,9346672.0,0.0,65.37086141462972
+Miscellaneous,"Pittsburgh, PA",38300.0,527.0,4680444.0,0.0,112.59615540747845
+Miscellaneous,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,242.0,4853150.0,0.0,49.864520981218384
+Miscellaneous,"Providence-Warwick, RI-MA",39300.0,165.0,3229680.0,0.0,51.08865274578286
+Miscellaneous,"Raleigh, NC",39580.0,73.0,2607708.0,0.0,27.993931835926414
+Miscellaneous,"Richmond, VA",40060.0,36.0,2516942.0,0.0,14.303070948794213
+Miscellaneous,"Riverside-San Bernardino-Ontario, CA",40140.0,473.0,9024082.0,0.0,52.41530385029746
+Miscellaneous,"Rochester, NY",40380.0,91.0,2148126.0,0.0,42.362505737559154
+Miscellaneous,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,274.0,4583066.0,0.0,59.78530529562525
+Miscellaneous,"San Antonio-New Braunfels, TX",41700.0,183.0,4852552.0,0.0,37.71211519217105
+Miscellaneous,"San Diego-Carlsbad, CA",41740.0,340.0,6612178.0,0.0,51.42027331992575
+Miscellaneous,"San Francisco-Oakland-Hayward, CA",41860.0,383.0,14064594.0,0.0,27.231500603572346
+Miscellaneous,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,81.0,3975186.0,0.0,20.37640502859489
+Miscellaneous,"Seattle-Tacoma-Bellevue, WA",42660.0,501.0,11449065.0,0.0,43.75903185107256
+Miscellaneous,"Springfield, MA",44140.0,17.0,1399608.0,0.0,12.146258095123779
+Miscellaneous,"St. Louis, MO-IL",41180.0,325.0,5611004.0,0.0,57.92189775662252
+Miscellaneous,"Syracuse, NY",45060.0,25.0,1308782.0,0.0,19.101729699827782
+Miscellaneous,"Tampa-St. Petersburg-Clearwater, FL",45300.0,1003.0,6097926.0,0.0,164.48215344036643
+Miscellaneous,"Tucson, AZ",46060.0,63.0,2033414.0,0.0,30.982377420436762
+Miscellaneous,"Tulsa, OK",46140.0,52.0,1977412.0,0.0,26.296998298786495
+Miscellaneous,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,16.0,3517526.0,0.0,4.548651523826689
+Miscellaneous,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,364.0,18447903.0,0.0,19.73123991382652
+Miscellaneous,"Worcester, MA-CT",49340.0,37.0,1872844.0,0.0,19.75605015687372
+Myeloma,"Albany-Schenectady-Troy, NY",10580.0,16.0,1759584.0,0.61,9.09305835924855
+Myeloma,"Atlanta-Sandy Springs-Roswell, GA",12060.0,271.0,11575930.0,0.61,23.410646056083614
+Myeloma,"Baltimore-Columbia-Towson, MD",12580.0,16.0,5588222.0,0.61,2.863164706054985
+Myeloma,"Boston-Cambridge-Newton, MA-NH",14460.0,225.0,14427183.0,0.61,15.595560131177375
+Myeloma,"Cape Coral-Fort Myers, FL",15980.0,17.0,1445298.0,0.61,11.762280166443183
+Myeloma,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,551.0,28600986.0,0.61,19.265070092338775
+Myeloma,"Cleveland-Elyria, OH",17460.0,36.0,4121994.0,0.61,8.733637166866327
+Myeloma,"Dallas-Fort Worth-Arlington, TX",19100.0,322.0,21584274.0,0.61,14.918268735839806
+Myeloma,"Denver-Aurora-Lakewood, CO",19740.0,33.0,5713510.0,0.61,5.775784062686509
+Myeloma,"Detroit-Warren-Dearborn, MI",19820.0,164.0,12948780.0,0.61,12.665285841600522
+Myeloma,"Houston-The Woodlands-Sugar Land, TX",26420.0,134.0,13613006.0,0.61,9.843527579433962
+Myeloma,"Jacksonville, FL",27260.0,16.0,2952046.0,0.61,5.4199697430189095
+Myeloma,"Los Angeles-Long Beach-Anaheim, CA",31080.0,582.0,39812082.0,0.61,14.618677817452502
+Myeloma,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,468.0,18167058.0,0.61,25.76091296675554
+Myeloma,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,1708.0,58004334.0,0.61,29.446075529459574
+Myeloma,"Orlando-Kissimmee-Sanford, FL",36740.0,42.0,4911166.0,0.61,8.551940618582227
+Myeloma,Other,99999.0,8992.0,0.0,0.61,0.0
+Myeloma,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,402.0,18199983.0,0.61,22.087932719497594
+Myeloma,"Phoenix-Mesa-Scottsdale, AZ",38060.0,104.0,9346672.0,0.61,11.126955134405058
+Myeloma,"Pittsburgh, PA",38300.0,40.0,4680444.0,0.61,8.546197753888308
+Myeloma,"Riverside-San Bernardino-Ontario, CA",40140.0,16.0,9024082.0,0.61,1.7730335340481171
+Myeloma,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,18.0,4583066.0,0.61,3.9275018077418045
+Myeloma,"San Antonio-New Braunfels, TX",41700.0,32.0,4852552.0,0.61,6.594468230324992
+Myeloma,"San Diego-Carlsbad, CA",41740.0,72.0,6612178.0,0.61,10.888999055984277
+Myeloma,"San Francisco-Oakland-Hayward, CA",41860.0,81.0,14064594.0,0.61,5.759142425298591
+Myeloma,"Seattle-Tacoma-Bellevue, WA",42660.0,101.0,11449065.0,0.61,8.82168107177311
+Myeloma,"St. Louis, MO-IL",41180.0,34.0,5611004.0,0.61,6.059521611462048
+Myeloma,"Tampa-St. Petersburg-Clearwater, FL",45300.0,170.0,6097926.0,0.61,27.878331091587533
+Myeloma,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,111.0,18447903.0,0.61,6.016944039655889
+"Nose, Nasal Cavity and Middle Ear",Other,99999.0,718.0,0.0,0.0,0.0
+Oral Cavity and Pharynx,"Albany-Schenectady-Troy, NY",10580.0,74.0,1759584.0,0.858,42.055394911524544
+Oral Cavity and Pharynx,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,38.0,1666326.0,0.858,22.804661272764154
+Oral Cavity and Pharynx,"Atlanta-Sandy Springs-Roswell, GA",12060.0,447.0,11575930.0,0.858,38.6146080703667
+Oral Cavity and Pharynx,"Augusta-Richmond County, GA-SC",12260.0,16.0,1190058.0,0.858,13.44472286224705
+Oral Cavity and Pharynx,"Austin-Round Rock, TX",12420.0,121.0,4124032.0,0.858,29.340218504609084
+Oral Cavity and Pharynx,"Baltimore-Columbia-Towson, MD",12580.0,199.0,5588222.0,0.858,35.610611031558875
+Oral Cavity and Pharynx,"Baton Rouge, LA",12940.0,17.0,1713446.0,0.858,9.921526561093842
+Oral Cavity and Pharynx,"Boston-Cambridge-Newton, MA-NH",14460.0,575.0,14427183.0,0.858,39.85532033523107
+Oral Cavity and Pharynx,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,87.0,2260464.0,0.858,38.48767332724609
+Oral Cavity and Pharynx,"Cape Coral-Fort Myers, FL",15980.0,76.0,1445298.0,0.858,52.58431133233423
+Oral Cavity and Pharynx,"Charlotte-Concord-Gastonia, NC-SC",16740.0,163.0,4999394.0,0.858,32.60395159893379
+Oral Cavity and Pharynx,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,978.0,28600986.0,0.858,34.19462531816211
+Oral Cavity and Pharynx,"Cincinnati, OH-KY-IN",17140.0,199.0,4383144.0,0.858,45.40120059938711
+Oral Cavity and Pharynx,"Cleveland-Elyria, OH",17460.0,213.0,4121994.0,0.858,51.674019903959106
+Oral Cavity and Pharynx,"Columbus, OH",18140.0,138.0,4104384.0,0.858,33.622585021284564
+Oral Cavity and Pharynx,"Dallas-Fort Worth-Arlington, TX",19100.0,651.0,21584274.0,0.858,30.160847661589173
+Oral Cavity and Pharynx,"Dayton-Kettering, OH",19430.0,21.0,1603322.0,0.858,13.097805680954918
+Oral Cavity and Pharynx,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,73.0,1271718.0,0.858,57.402663169035904
+Oral Cavity and Pharynx,"Denver-Aurora-Lakewood, CO",19740.0,138.0,5713510.0,0.858,24.15327880759813
+Oral Cavity and Pharynx,"Des Moines-West Des Moines, IA",19780.0,17.0,1342110.0,0.858,12.6666219609421
+Oral Cavity and Pharynx,"Detroit-Warren-Dearborn, MI",19820.0,433.0,12948780.0,0.858,33.43944371593309
+Oral Cavity and Pharynx,"Grand Rapids-Wyoming, MI",24340.0,22.0,2109420.0,0.858,10.429407135610736
+Oral Cavity and Pharynx,"Greenville-Anderson-Mauldin, SC",24860.0,16.0,1768654.0,0.858,9.046427396200727
+Oral Cavity and Pharynx,"Hartford-West Hartford-East Hartford, CT",25540.0,67.0,2417190.0,0.858,27.71813552099752
+Oral Cavity and Pharynx,"Houston-The Woodlands-Sugar Land, TX",26420.0,443.0,13613006.0,0.858,32.54240834096451
+Oral Cavity and Pharynx,"Indianapolis-Carmel-Anderson, IN",26900.0,181.0,4013520.0,0.858,45.09757021268114
+Oral Cavity and Pharynx,"Jacksonville, FL",27260.0,143.0,2952046.0,0.858,48.4409795782315
+Oral Cavity and Pharynx,"Knoxville, TN",28940.0,44.0,1689884.0,0.858,26.03729013352396
+Oral Cavity and Pharynx,"Las Vegas-Henderson-Paradise, NV",29820.0,118.0,4277672.0,0.858,27.58509768864934
+Oral Cavity and Pharynx,"Los Angeles-Long Beach-Anaheim, CA",31080.0,1013.0,39812082.0,0.858,25.44453716336664
+Oral Cavity and Pharynx,"Louisville-Jefferson County, KY-IN",31140.0,84.0,2505050.0,0.858,33.53226482505339
+Oral Cavity and Pharynx,"Memphis, TN-MS-AR",32820.0,39.0,2672408.0,0.858,14.593580022212178
+Oral Cavity and Pharynx,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,705.0,18167058.0,0.858,38.80650350761251
+Oral Cavity and Pharynx,"Milwaukee-Waukesha-West Allis, WI",33340.0,43.0,3152008.0,0.858,13.642097355082855
+Oral Cavity and Pharynx,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,125.0,3682588.0,0.858,33.943520154847626
+Oral Cavity and Pharynx,"New Haven-Milford, CT",35300.0,34.0,1715802.0,0.858,19.815806252702817
+Oral Cavity and Pharynx,"New Orleans-Metairie, LA",35380.0,63.0,2535226.0,0.858,24.84985559472804
+Oral Cavity and Pharynx,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,2029.0,58004334.0,0.858,34.980144759527796
+Oral Cavity and Pharynx,"North Port-Sarasota-Bradenton, FL",35840.0,84.0,1576682.0,0.858,53.27643748073486
+Oral Cavity and Pharynx,"Oklahoma City, OK",36420.0,25.0,2745970.0,0.858,9.104250956856776
+Oral Cavity and Pharynx,"Omaha-Council Bluffs, NE-IA",36540.0,18.0,1846862.0,0.858,9.746261496527623
+Oral Cavity and Pharynx,"Orlando-Kissimmee-Sanford, FL",36740.0,216.0,4911166.0,0.858,43.98140889556574
+Oral Cavity and Pharynx,Other,99999.0,17172.0,0.0,0.858,0.0
+Oral Cavity and Pharynx,"Oxnard-Thousand Oaks-Ventura, CA",37100.0,33.0,1694646.0,0.858,19.473093495632714
+Oral Cavity and Pharynx,"Palm Bay-Melbourne-Titusville, FL",37340.0,25.0,1153748.0,0.858,21.668509934578434
+Oral Cavity and Pharynx,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,680.0,18199983.0,0.858,37.36267226183673
+Oral Cavity and Pharynx,"Phoenix-Mesa-Scottsdale, AZ",38060.0,331.0,9346672.0,0.858,35.41367451430841
+Oral Cavity and Pharynx,"Pittsburgh, PA",38300.0,230.0,4680444.0,0.858,49.140637084857765
+Oral Cavity and Pharynx,"Portland-South Portland, ME",38860.0,23.0,1057824.0,0.858,21.742747375744923
+Oral Cavity and Pharynx,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,216.0,4853150.0,0.858,44.507175751831284
+Oral Cavity and Pharynx,"Providence-Warwick, RI-MA",39300.0,134.0,3229680.0,0.858,41.49017859354487
+Oral Cavity and Pharynx,"Raleigh, NC",39580.0,25.0,2607708.0,0.858,9.586962957509046
+Oral Cavity and Pharynx,"Richmond, VA",40060.0,60.0,2516942.0,0.858,23.83845158132369
+Oral Cavity and Pharynx,"Riverside-San Bernardino-Ontario, CA",40140.0,250.0,9024082.0,0.858,27.703648969501828
+Oral Cavity and Pharynx,"Rochester, NY",40380.0,75.0,2148126.0,0.858,34.914153080405896
+Oral Cavity and Pharynx,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,158.0,4583066.0,0.858,34.474738090178064
+Oral Cavity and Pharynx,"San Antonio-New Braunfels, TX",41700.0,138.0,4852552.0,0.858,28.438644243276528
+Oral Cavity and Pharynx,"San Diego-Carlsbad, CA",41740.0,269.0,6612178.0,0.858,40.682510361941254
+Oral Cavity and Pharynx,"San Francisco-Oakland-Hayward, CA",41860.0,289.0,14064594.0,0.858,20.548051369275218
+Oral Cavity and Pharynx,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,17.0,3975186.0,0.858,4.276529450445841
+Oral Cavity and Pharynx,"Santa Rosa, CA",42220.0,17.0,1005094.0,0.858,16.913840894483503
+Oral Cavity and Pharynx,"Seattle-Tacoma-Bellevue, WA",42660.0,330.0,11449065.0,0.858,28.823314392922043
+Oral Cavity and Pharynx,"St. Louis, MO-IL",41180.0,285.0,5611004.0,0.858,50.793048801961284
+Oral Cavity and Pharynx,"Tampa-St. Petersburg-Clearwater, FL",45300.0,507.0,6097926.0,0.858,83.14302272608752
+Oral Cavity and Pharynx,"Toledo, OH",45780.0,20.0,1290882.0,0.858,15.493282887204252
+Oral Cavity and Pharynx,"Tucson, AZ",46060.0,18.0,2033414.0,0.858,8.852107834410504
+Oral Cavity and Pharynx,"Tulsa, OK",46140.0,36.0,1977412.0,0.858,18.20561420685219
+Oral Cavity and Pharynx,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,125.0,3517526.0,0.858,35.53634002989601
+Oral Cavity and Pharynx,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,306.0,18447903.0,0.858,16.58725113634867
+Oral Cavity and Pharynx,"Worcester, MA-CT",49340.0,59.0,1872844.0,0.858,31.502890790690522
+Other Biliary,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,55.0,28600986.0,0.0,1.9230106262770101
+Other Biliary,"Los Angeles-Long Beach-Anaheim, CA",31080.0,60.0,39812082.0,0.0,1.5070801873662374
+Other Biliary,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,225.0,58004334.0,0.0,3.879020488365576
+Other Biliary,Other,99999.0,2020.0,0.0,0.0,0.0
+Other Digestive Organs,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,17.0,58004334.0,0.0,0.29308154800984354
+Other Digestive Organs,Other,99999.0,754.0,0.0,0.0,0.0
+Pancreas,"Albany-Schenectady-Troy, NY",10580.0,18.0,1759584.0,0.708,10.229690654154618
+Pancreas,"Albuquerque, NM",10740.0,18.0,1818474.0,0.708,9.898409325621373
+Pancreas,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,20.0,1666326.0,0.708,12.002453301454818
+Pancreas,"Atlanta-Sandy Springs-Roswell, GA",12060.0,521.0,11575930.0,0.708,45.007183008190275
+Pancreas,"Austin-Round Rock, TX",12420.0,53.0,4124032.0,0.708,12.85150066730811
+Pancreas,"Baltimore-Columbia-Towson, MD",12580.0,245.0,5588222.0,0.708,43.84220956146696
+Pancreas,"Boston-Cambridge-Newton, MA-NH",14460.0,633.0,14427183.0,0.708,43.875509169045685
+Pancreas,"Bridgeport-Stamford-Norwalk, CT",14860.0,73.0,1888694.0,0.708,38.65104670211267
+Pancreas,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,61.0,2260464.0,0.708,26.98561003404611
+Pancreas,"Charlotte-Concord-Gastonia, NC-SC",16740.0,186.0,4999394.0,0.708,37.204509186513405
+Pancreas,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,1178.0,28600986.0,0.708,41.18739123189669
+Pancreas,"Cincinnati, OH-KY-IN",17140.0,244.0,4383144.0,0.708,55.667803750002285
+Pancreas,"Cleveland-Elyria, OH",17460.0,196.0,4121994.0,0.708,47.5498023529389
+Pancreas,"Columbus, OH",18140.0,110.0,4104384.0,0.708,26.800611248850014
+Pancreas,"Dallas-Fort Worth-Arlington, TX",19100.0,643.0,21584274.0,0.708,29.790207444549676
+Pancreas,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,35.0,1271718.0,0.708,27.52182480707201
+Pancreas,"Denver-Aurora-Lakewood, CO",19740.0,233.0,5713510.0,0.708,40.780535957756264
+Pancreas,"Detroit-Warren-Dearborn, MI",19820.0,587.0,12948780.0,0.708,45.33245603060675
+Pancreas,"Hartford-West Hartford-East Hartford, CT",25540.0,101.0,2417190.0,0.708,41.784055039115664
+Pancreas,"Houston-The Woodlands-Sugar Land, TX",26420.0,530.0,13613006.0,0.708,38.93335535149254
+Pancreas,"Indianapolis-Carmel-Anderson, IN",26900.0,168.0,4013520.0,0.708,41.85851820845542
+Pancreas,"Jacksonville, FL",27260.0,69.0,2952046.0,0.708,23.373619516769047
+Pancreas,"Lansing-East Lansing, MI",29620.0,18.0,1090292.0,0.708,16.509338782638046
+Pancreas,"Las Vegas-Henderson-Paradise, NV",29820.0,89.0,4277672.0,0.708,20.8057092736423
+Pancreas,"Los Angeles-Long Beach-Anaheim, CA",31080.0,1194.0,39812082.0,0.708,29.99089572858812
+Pancreas,"Louisville-Jefferson County, KY-IN",31140.0,22.0,2505050.0,0.708,8.782259835133031
+Pancreas,"Memphis, TN-MS-AR",32820.0,16.0,2672408.0,0.708,5.987109752702432
+Pancreas,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,853.0,18167058.0,0.708,46.95311700991982
+Pancreas,"Milwaukee-Waukesha-West Allis, WI",33340.0,113.0,3152008.0,0.708,35.850162816845646
+Pancreas,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,59.0,3682588.0,0.708,16.02134151308808
+Pancreas,"New Haven-Milford, CT",35300.0,18.0,1715802.0,0.708,10.490720957313256
+Pancreas,"New Orleans-Metairie, LA",35380.0,17.0,2535226.0,0.708,6.705516589053599
+Pancreas,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,2859.0,58004334.0,0.708,49.289420338831924
+Pancreas,"North Port-Sarasota-Bradenton, FL",35840.0,34.0,1576682.0,0.708,21.564272313630777
+Pancreas,"Oklahoma City, OK",36420.0,23.0,2745970.0,0.708,8.375910880308234
+Pancreas,"Omaha-Council Bluffs, NE-IA",36540.0,17.0,1846862.0,0.708,9.20480252449831
+Pancreas,"Orlando-Kissimmee-Sanford, FL",36740.0,214.0,4911166.0,0.708,43.57417362801421
+Pancreas,Other,99999.0,17831.0,0.0,0.708,0.0
+Pancreas,"Oxnard-Thousand Oaks-Ventura, CA",37100.0,18.0,1694646.0,0.708,10.621687361254208
+Pancreas,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,912.0,18199983.0,0.708,50.109936915875146
+Pancreas,"Phoenix-Mesa-Scottsdale, AZ",38060.0,570.0,9346672.0,0.708,60.98427333279696
+Pancreas,"Pittsburgh, PA",38300.0,411.0,4680444.0,0.708,87.81218192120235
+Pancreas,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,244.0,4853150.0,0.708,50.276624460402005
+Pancreas,"Providence-Warwick, RI-MA",39300.0,167.0,3229680.0,0.708,51.70790914270144
+Pancreas,"Richmond, VA",40060.0,17.0,2516942.0,0.708,6.754227948041711
+Pancreas,"Riverside-San Bernardino-Ontario, CA",40140.0,377.0,9024082.0,0.708,41.77710264600876
+Pancreas,"Rochester, NY",40380.0,52.0,2148126.0,0.708,24.20714613574809
+Pancreas,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,183.0,4583066.0,0.708,39.92960171204168
+Pancreas,"San Antonio-New Braunfels, TX",41700.0,179.0,4852552.0,0.708,36.887806663380424
+Pancreas,"San Diego-Carlsbad, CA",41740.0,332.0,6612178.0,0.708,50.210384535927496
+Pancreas,"San Francisco-Oakland-Hayward, CA",41860.0,373.0,14064594.0,0.708,26.520495365881164
+Pancreas,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,17.0,3975186.0,0.708,4.276529450445841
+Pancreas,"Seattle-Tacoma-Bellevue, WA",42660.0,371.0,11449065.0,0.708,32.40439284780024
+Pancreas,"St. Louis, MO-IL",41180.0,219.0,5611004.0,0.708,39.03044802677025
+Pancreas,"Tampa-St. Petersburg-Clearwater, FL",45300.0,467.0,6097926.0,0.708,76.58341541041987
+Pancreas,"Tucson, AZ",46060.0,51.0,2033414.0,0.708,25.080972197496425
+Pancreas,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,566.0,18447903.0,0.708,30.68099393193904
+"Peritoneum, Omentum and Mesentery",Other,99999.0,545.0,0.0,0.0,0.0
+Retroperitoneum,Other,99999.0,255.0,0.0,0.0,0.0
+Skin excluding Basal and Squamous,"Akron, OH",10420.0,44.0,1407048.0,0.0,31.271143557291577
+Skin excluding Basal and Squamous,"Albany-Schenectady-Troy, NY",10580.0,190.0,1759584.0,0.0,107.98006801607653
+Skin excluding Basal and Squamous,"Albuquerque, NM",10740.0,106.0,1818474.0,0.0,58.29063269532586
+Skin excluding Basal and Squamous,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,109.0,1666326.0,0.0,65.41337049292875
+Skin excluding Basal and Squamous,"Atlanta-Sandy Springs-Roswell, GA",12060.0,1738.0,11575930.0,0.0,150.13912489104547
+Skin excluding Basal and Squamous,"Austin-Round Rock, TX",12420.0,102.0,4124032.0,0.0,24.73307675595146
+Skin excluding Basal and Squamous,"Baltimore-Columbia-Towson, MD",12580.0,837.0,5588222.0,0.0,149.7793036855014
+Skin excluding Basal and Squamous,"Baton Rouge, LA",12940.0,74.0,1713446.0,0.0,43.18782150123202
+Skin excluding Basal and Squamous,"Birmingham-Hoover, AL",13820.0,82.0,2165754.0,0.0,37.862102528726716
+Skin excluding Basal and Squamous,"Boise City, ID",14260.0,68.0,1382570.0,0.0,49.18376646390418
+Skin excluding Basal and Squamous,"Boston-Cambridge-Newton, MA-NH",14460.0,1309.0,14427183.0,0.0,90.73150316316082
+Skin excluding Basal and Squamous,"Bridgeport-Stamford-Norwalk, CT",14860.0,133.0,1888694.0,0.0,70.41903029289021
+Skin excluding Basal and Squamous,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,423.0,2260464.0,0.0,187.12972203936891
+Skin excluding Basal and Squamous,"Cape Coral-Fort Myers, FL",15980.0,199.0,1445298.0,0.0,137.68786783071727
+Skin excluding Basal and Squamous,"Charleston-North Charleston, SC",16700.0,43.0,1523156.0,0.0,28.23085750901418
+Skin excluding Basal and Squamous,"Charlotte-Concord-Gastonia, NC-SC",16740.0,546.0,4999394.0,0.0,109.2132366442813
+Skin excluding Basal and Squamous,"Chattanooga, TN-GA",16860.0,38.0,1103718.0,0.0,34.42908424072091
+Skin excluding Basal and Squamous,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,2015.0,28600986.0,0.0,70.45211658087592
+Skin excluding Basal and Squamous,"Cincinnati, OH-KY-IN",17140.0,491.0,4383144.0,0.0,112.02004771004559
+Skin excluding Basal and Squamous,"Cleveland-Elyria, OH",17460.0,571.0,4121994.0,0.0,138.52518950779648
+Skin excluding Basal and Squamous,"Colorado Springs, CO",17820.0,38.0,1424670.0,0.0,26.672843535695982
+Skin excluding Basal and Squamous,"Columbia, SC",17900.0,50.0,1634376.0,0.0,30.592715507325117
+Skin excluding Basal and Squamous,"Columbus, OH",18140.0,385.0,4104384.0,0.0,93.80213937097504
+Skin excluding Basal and Squamous,"Dallas-Fort Worth-Arlington, TX",19100.0,1080.0,21584274.0,0.0,50.036429300332266
+Skin excluding Basal and Squamous,"Dayton-Kettering, OH",19430.0,77.0,1603322.0,0.0,48.0252874968347
+Skin excluding Basal and Squamous,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,200.0,1271718.0,0.0,157.26757032612576
+Skin excluding Basal and Squamous,"Denver-Aurora-Lakewood, CO",19740.0,591.0,5713510.0,0.0,103.43904184993113
+Skin excluding Basal and Squamous,"Des Moines-West Des Moines, IA",19780.0,17.0,1342110.0,0.0,12.6666219609421
+Skin excluding Basal and Squamous,"Detroit-Warren-Dearborn, MI",19820.0,984.0,12948780.0,0.0,75.99171504960313
+Skin excluding Basal and Squamous,"Durham-Chapel Hill, NC",20500.0,33.0,1236444.0,0.0,26.689441656880536
+Skin excluding Basal and Squamous,"Grand Rapids-Wyoming, MI",24340.0,112.0,2109420.0,0.0,53.09516359947284
+Skin excluding Basal and Squamous,"Greensboro-High Point, NC",24660.0,133.0,1517270.0,0.0,87.65743737106779
+Skin excluding Basal and Squamous,"Greenville-Anderson-Mauldin, SC",24860.0,333.0,1768654.0,0.0,188.27877018342764
+Skin excluding Basal and Squamous,"Harrisburg-Carlisle, PA",25420.0,37.0,1135020.0,0.0,32.598544519039315
+Skin excluding Basal and Squamous,"Hartford-West Hartford-East Hartford, CT",25540.0,184.0,2417190.0,0.0,76.1214468039335
+Skin excluding Basal and Squamous,"Houston-The Woodlands-Sugar Land, TX",26420.0,734.0,13613006.0,0.0,53.91902420376513
+Skin excluding Basal and Squamous,"Indianapolis-Carmel-Anderson, IN",26900.0,484.0,4013520.0,0.0,120.59239769578825
+Skin excluding Basal and Squamous,"Jackson, MS",27140.0,19.0,1198340.0,0.0,15.855266451925164
+Skin excluding Basal and Squamous,"Jacksonville, FL",27260.0,407.0,2952046.0,0.0,137.8704803380435
+Skin excluding Basal and Squamous,"Knoxville, TN",28940.0,180.0,1689884.0,0.0,106.51618690987074
+Skin excluding Basal and Squamous,"Lakeland-Winter Haven, FL",29460.0,188.0,1331646.0,0.0,141.17866159625004
+Skin excluding Basal and Squamous,"Lancaster, PA",29540.0,76.0,1076320.0,0.0,70.610970715029
+Skin excluding Basal and Squamous,"Las Vegas-Henderson-Paradise, NV",29820.0,215.0,4277672.0,0.0,50.26098307677634
+Skin excluding Basal and Squamous,"Lexington-Fayette, KY",30460.0,33.0,1014774.0,0.0,32.519556078496294
+Skin excluding Basal and Squamous,"Little Rock-North Little Rock-Conway, AR",30780.0,72.0,1468332.0,0.0,49.0352318140584
+Skin excluding Basal and Squamous,"Los Angeles-Long Beach-Anaheim, CA",31080.0,2491.0,39812082.0,0.0,62.56894577882162
+Skin excluding Basal and Squamous,"Louisville-Jefferson County, KY-IN",31140.0,244.0,2505050.0,0.0,97.4032454442027
+Skin excluding Basal and Squamous,"Madison, WI",31540.0,71.0,1296776.0,0.0,54.75116751081143
+Skin excluding Basal and Squamous,"Memphis, TN-MS-AR",32820.0,38.0,2672408.0,0.0,14.219385662668277
+Skin excluding Basal and Squamous,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,1392.0,18167058.0,0.0,76.62220267034981
+Skin excluding Basal and Squamous,"Milwaukee-Waukesha-West Allis, WI",33340.0,274.0,3152008.0,0.0,86.92871337890006
+Skin excluding Basal and Squamous,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,139.0,3682588.0,0.0,37.74519441219056
+Skin excluding Basal and Squamous,"New Haven-Milford, CT",35300.0,58.0,1715802.0,0.0,33.80343419578716
+Skin excluding Basal and Squamous,"New Orleans-Metairie, LA",35380.0,78.0,2535226.0,0.0,30.7664878791871
+Skin excluding Basal and Squamous,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,3705.0,58004334.0,0.0,63.87453737508649
+Skin excluding Basal and Squamous,"North Port-Sarasota-Bradenton, FL",35840.0,429.0,1576682.0,0.0,272.09037713375307
+Skin excluding Basal and Squamous,"Ogden-Clearfield, UT",36260.0,147.0,1304952.0,0.0,112.64782152906774
+Skin excluding Basal and Squamous,"Oklahoma City, OK",36420.0,291.0,2745970.0,0.0,105.97348113781287
+Skin excluding Basal and Squamous,"Omaha-Council Bluffs, NE-IA",36540.0,160.0,1846862.0,0.0,86.63343552468999
+Skin excluding Basal and Squamous,"Orlando-Kissimmee-Sanford, FL",36740.0,426.0,4911166.0,0.0,86.74111198847687
+Skin excluding Basal and Squamous,Other,99999.0,33548.0,0.0,0.0,0.0
+Skin excluding Basal and Squamous,"Oxnard-Thousand Oaks-Ventura, CA",37100.0,82.0,1694646.0,0.0,48.38768686793584
+Skin excluding Basal and Squamous,"Palm Bay-Melbourne-Titusville, FL",37340.0,194.0,1153748.0,0.0,168.14763709232867
+Skin excluding Basal and Squamous,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,1456.0,18199983.0,0.0,80.00007472534453
+Skin excluding Basal and Squamous,"Phoenix-Mesa-Scottsdale, AZ",38060.0,1343.0,9346672.0,0.0,143.68750716832687
+Skin excluding Basal and Squamous,"Pittsburgh, PA",38300.0,532.0,4680444.0,0.0,113.66443012671448
+Skin excluding Basal and Squamous,"Portland-South Portland, ME",38860.0,59.0,1057824.0,0.0,55.774873702997844
+Skin excluding Basal and Squamous,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,780.0,4853150.0,0.0,160.72035688161296
+Skin excluding Basal and Squamous,"Poughkeepsie-Newburgh-Middletown, NY",39100.0,22.0,1341656.0,0.0,16.397645894327606
+Skin excluding Basal and Squamous,"Providence-Warwick, RI-MA",39300.0,309.0,3229680.0,0.0,95.67511332392063
+Skin excluding Basal and Squamous,"Provo-Orem, UT",39340.0,32.0,1202608.0,0.0,26.60883679469952
+Skin excluding Basal and Squamous,"Raleigh, NC",39580.0,141.0,2607708.0,0.0,54.07047108035102
+Skin excluding Basal and Squamous,"Richmond, VA",40060.0,190.0,2516942.0,0.0,75.48843000752501
+Skin excluding Basal and Squamous,"Riverside-San Bernardino-Ontario, CA",40140.0,782.0,9024082.0,0.0,86.65701397660172
+Skin excluding Basal and Squamous,"Rochester, NY",40380.0,270.0,2148126.0,0.0,125.69095108946124
+Skin excluding Basal and Squamous,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,686.0,4583066.0,0.0,149.68145778393767
+Skin excluding Basal and Squamous,"Salt Lake City, UT",41620.0,351.0,2369442.0,0.0,148.1361434464317
+Skin excluding Basal and Squamous,"San Antonio-New Braunfels, TX",41700.0,42.0,4852552.0,0.0,8.655239552301552
+Skin excluding Basal and Squamous,"San Diego-Carlsbad, CA",41740.0,868.0,6612178.0,0.0,131.27293306381043
+Skin excluding Basal and Squamous,"San Francisco-Oakland-Hayward, CA",41860.0,1350.0,14064594.0,0.0,95.98570708830984
+Skin excluding Basal and Squamous,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,429.0,3975186.0,0.0,107.91947848478034
+Skin excluding Basal and Squamous,"Santa Rosa, CA",42220.0,177.0,1005094.0,0.0,176.10293166609293
+Skin excluding Basal and Squamous,"Scranton-Wilkes-Barre-Hazleton, PA",42540.0,20.0,1111444.0,0.0,17.994608815198966
+Skin excluding Basal and Squamous,"Seattle-Tacoma-Bellevue, WA",42660.0,1126.0,11449065.0,0.0,98.34864244372794
+Skin excluding Basal and Squamous,"St. Louis, MO-IL",41180.0,644.0,5611004.0,0.0,114.77446817004585
+Skin excluding Basal and Squamous,"Stockton-Lodi, CA",44700.0,16.0,1465618.0,0.0,10.916896490081317
+Skin excluding Basal and Squamous,"Syracuse, NY",45060.0,21.0,1308782.0,0.0,16.045452947855335
+Skin excluding Basal and Squamous,"Tampa-St. Petersburg-Clearwater, FL",45300.0,1070.0,6097926.0,0.0,175.46949569410975
+Skin excluding Basal and Squamous,"Toledo, OH",45780.0,16.0,1290882.0,0.0,12.394626309763401
+Skin excluding Basal and Squamous,"Tucson, AZ",46060.0,334.0,2033414.0,0.0,164.25577870517267
+Skin excluding Basal and Squamous,"Tulsa, OK",46140.0,125.0,1977412.0,0.0,63.21393821823677
+Skin excluding Basal and Squamous,"Urban Honolulu, HI",46520.0,63.0,1984536.0,0.0,31.745455864746216
+Skin excluding Basal and Squamous,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,593.0,3517526.0,0.0,168.58439710182668
+Skin excluding Basal and Squamous,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,659.0,18447903.0,0.0,35.7222173165156
+Skin excluding Basal and Squamous,"Winston-Salem, NC",49180.0,103.0,1322048.0,0.0,77.90942537638574
+Skin excluding Basal and Squamous,"Worcester, MA-CT",49340.0,177.0,1872844.0,0.0,94.50867237207157
+Skin excluding Basal and Squamous,"Youngstown-Warren-Boardman, OH-PA",49660.0,55.0,1089164.0,0.0,50.49744574738056
+Small Intestine,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,16.0,28600986.0,0.0,0.5594212730987667
+Small Intestine,"Dallas-Fort Worth-Arlington, TX",19100.0,20.0,21584274.0,0.0,0.9266005425987457
+Small Intestine,"Los Angeles-Long Beach-Anaheim, CA",31080.0,21.0,39812082.0,0.0,0.5274780655781831
+Small Intestine,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,316.0,58004334.0,0.0,5.44786877477121
+Small Intestine,Other,99999.0,3271.0,0.0,0.0,0.0
+Soft Tissue including Heart,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,33.0,28600986.0,0.918,1.153806375766206
+Soft Tissue including Heart,"Dallas-Fort Worth-Arlington, TX",19100.0,18.0,21584274.0,0.918,0.8339404883388711
+Soft Tissue including Heart,"Los Angeles-Long Beach-Anaheim, CA",31080.0,192.0,39812082.0,0.918,4.8226565995719595
+Soft Tissue including Heart,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,446.0,58004334.0,0.918,7.689080612493543
+Soft Tissue including Heart,Other,99999.0,3513.0,0.0,0.918,0.0
+Stomach,"Atlanta-Sandy Springs-Roswell, GA",12060.0,73.0,11575930.0,0.84,6.306188790015144
+Stomach,"Baltimore-Columbia-Towson, MD",12580.0,16.0,5588222.0,0.84,2.863164706054985
+Stomach,"Boston-Cambridge-Newton, MA-NH",14460.0,179.0,14427183.0,0.84,12.40713450435889
+Stomach,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,592.0,28600986.0,0.84,20.698587104654365
+Stomach,"Cincinnati, OH-KY-IN",17140.0,16.0,4383144.0,0.84,3.650347786885396
+Stomach,"Cleveland-Elyria, OH",17460.0,37.0,4121994.0,0.84,8.976238199279281
+Stomach,"Dallas-Fort Worth-Arlington, TX",19100.0,100.0,21584274.0,0.84,4.633002712993728
+Stomach,"Denver-Aurora-Lakewood, CO",19740.0,16.0,5713510.0,0.84,2.80038015160558
+Stomach,"Detroit-Warren-Dearborn, MI",19820.0,128.0,12948780.0,0.84,9.885101144663823
+Stomach,"Houston-The Woodlands-Sugar Land, TX",26420.0,98.0,13613006.0,0.84,7.198997781974091
+Stomach,"Las Vegas-Henderson-Paradise, NV",29820.0,19.0,4277672.0,0.84,4.441668271901165
+Stomach,"Los Angeles-Long Beach-Anaheim, CA",31080.0,885.0,39812082.0,0.84,22.229432763652
+Stomach,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,290.0,18167058.0,0.84,15.96295888965621
+Stomach,"Milwaukee-Waukesha-West Allis, WI",33340.0,17.0,3152008.0,0.84,5.393387326428106
+Stomach,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,1684.0,58004334.0,0.84,29.032313344033913
+Stomach,"Orlando-Kissimmee-Sanford, FL",36740.0,16.0,4911166.0,0.84,3.257882140412277
+Stomach,Other,99999.0,7408.0,0.0,0.84,0.0
+Stomach,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,221.0,18199983.0,0.84,12.142868485096937
+Stomach,"Phoenix-Mesa-Scottsdale, AZ",38060.0,97.0,9346672.0,0.84,10.378025461897026
+Stomach,"Pittsburgh, PA",38300.0,90.0,4680444.0,0.84,19.228944946248692
+Stomach,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,35.0,4853150.0,0.84,7.211810885713402
+Stomach,"Riverside-San Bernardino-Ontario, CA",40140.0,83.0,9024082.0,0.84,9.197611457874608
+Stomach,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,16.0,4583066.0,0.84,3.4911127179927153
+Stomach,"San Diego-Carlsbad, CA",41740.0,17.0,6612178.0,0.84,2.5710136659962872
+Stomach,"San Francisco-Oakland-Hayward, CA",41860.0,131.0,14064594.0,0.84,9.31416861375451
+Stomach,"Seattle-Tacoma-Bellevue, WA",42660.0,39.0,11449065.0,0.84,3.406391700981696
+Stomach,"St. Louis, MO-IL",41180.0,38.0,5611004.0,0.84,6.772406506928172
+Stomach,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,71.0,18447903.0,0.84,3.8486759172573706
+"Trachea, Mediastinum and Other Respiratory Organs",Other,99999.0,16.0,0.0,0.0,0.0
+Urinary System,"Akron, OH",10420.0,159.0,1407048.0,0.915,113.00254149112183
+Urinary System,"Albany-Schenectady-Troy, NY",10580.0,468.0,1759584.0,0.915,265.97195700802007
+Urinary System,"Albuquerque, NM",10740.0,189.0,1818474.0,0.915,103.93329791902441
+Urinary System,"Allentown-Bethlehem-Easton, PA-NJ",10900.0,415.0,1666326.0,0.915,249.05090600518747
+Urinary System,"Atlanta-Sandy Springs-Roswell, GA",12060.0,1920.0,11575930.0,0.915,165.86140379217912
+Urinary System,"Augusta-Richmond County, GA-SC",12260.0,22.0,1190058.0,0.915,18.486493935589692
+Urinary System,"Austin-Round Rock, TX",12420.0,514.0,4124032.0,0.915,124.63530835842205
+Urinary System,"Bakersfield, CA",12540.0,149.0,1761712.0,0.915,84.57682072892732
+Urinary System,"Baltimore-Columbia-Towson, MD",12580.0,901.0,5588222.0,0.915,161.23196250972134
+Urinary System,"Baton Rouge, LA",12940.0,134.0,1713446.0,0.915,78.20497406979852
+Urinary System,"Birmingham-Hoover, AL",13820.0,204.0,2165754.0,0.915,94.19352336414939
+Urinary System,"Boise City, ID",14260.0,226.0,1382570.0,0.915,163.46369442415212
+Urinary System,"Boston-Cambridge-Newton, MA-NH",14460.0,1994.0,14427183.0,0.915,138.21131956252304
+Urinary System,"Bridgeport-Stamford-Norwalk, CT",14860.0,386.0,1888694.0,0.915,204.37402776733552
+Urinary System,"Buffalo-Cheektowaga-Niagara Falls, NY",15380.0,620.0,2260464.0,0.915,274.2799708378457
+Urinary System,"Cape Coral-Fort Myers, FL",15980.0,225.0,1445298.0,0.915,155.67723749704214
+Urinary System,"Charleston-North Charleston, SC",16700.0,129.0,1523156.0,0.915,84.69257252704254
+Urinary System,"Charlotte-Concord-Gastonia, NC-SC",16740.0,717.0,4999394.0,0.915,143.41738218672103
+Urinary System,"Chattanooga, TN-GA",16860.0,132.0,1103718.0,0.915,119.59576630987263
+Urinary System,"Chicago-Naperville-Elgin, IL-IN-WI",16980.0,3783.0,28600986.0,0.915,132.26816725828962
+Urinary System,"Cincinnati, OH-KY-IN",17140.0,769.0,4383144.0,0.915,175.44484050717932
+Urinary System,"Cleveland-Elyria, OH",17460.0,867.0,4121994.0,0.915,210.33509510203072
+Urinary System,"Colorado Springs, CO",17820.0,135.0,1424670.0,0.915,94.75878624523573
+Urinary System,"Columbia, SC",17900.0,110.0,1634376.0,0.915,67.30397411611526
+Urinary System,"Columbus, OH",18140.0,713.0,4104384.0,0.915,173.7166892766369
+Urinary System,"Dallas-Fort Worth-Arlington, TX",19100.0,2216.0,21584274.0,0.915,102.66734011994103
+Urinary System,"Dayton-Kettering, OH",19430.0,265.0,1603322.0,0.915,165.28183359300255
+Urinary System,"Deltona-Daytona Beach-Ormond Beach, FL",19660.0,254.0,1271718.0,0.915,199.72981431417972
+Urinary System,"Denver-Aurora-Lakewood, CO",19740.0,818.0,5713510.0,0.915,143.1694352508353
+Urinary System,"Des Moines-West Des Moines, IA",19780.0,154.0,1342110.0,0.915,114.74469305794608
+Urinary System,"Detroit-Warren-Dearborn, MI",19820.0,1768.0,12948780.0,0.915,136.53795956066904
+Urinary System,"Durham-Chapel Hill, NC",20500.0,94.0,1236444.0,0.915,76.02447017414455
+Urinary System,"El Paso, TX",21340.0,196.0,1678406.0,0.915,116.77746623880039
+Urinary System,"Fayetteville, NC",22180.0,34.0,1033644.0,0.915,32.893336583968946
+Urinary System,"Fayetteville-Springdale-Rogers, AR-MO",22220.0,94.0,1007612.0,0.915,93.28987745282907
+Urinary System,"Fresno, CA",23420.0,148.0,1953660.0,0.915,75.75524912216046
+Urinary System,"Grand Rapids-Wyoming, MI",24340.0,328.0,2109420.0,0.915,155.4929791127419
+Urinary System,"Greensboro-High Point, NC",24660.0,195.0,1517270.0,0.915,128.5203029124678
+Urinary System,"Greenville-Anderson-Mauldin, SC",24860.0,220.0,1768654.0,0.915,124.38837669776
+Urinary System,"Harrisburg-Carlisle, PA",25420.0,174.0,1135020.0,0.915,153.30126341386057
+Urinary System,"Hartford-West Hartford-East Hartford, CT",25540.0,527.0,2417190.0,0.915,218.02175253083124
+Urinary System,"Houston-The Woodlands-Sugar Land, TX",26420.0,1543.0,13613006.0,0.915,113.34748548557167
+Urinary System,"Indianapolis-Carmel-Anderson, IN",26900.0,754.0,4013520.0,0.915,187.8650162450916
+Urinary System,"Jackson, MS",27140.0,57.0,1198340.0,0.915,47.56579935577549
+Urinary System,"Jacksonville, FL",27260.0,516.0,2952046.0,0.915,174.79402421235983
+Urinary System,"Knoxville, TN",28940.0,325.0,1689884.0,0.915,192.32089303171105
+Urinary System,"Lakeland-Winter Haven, FL",29460.0,194.0,1331646.0,0.915,145.6843635620878
+Urinary System,"Lancaster, PA",29540.0,172.0,1076320.0,0.915,159.80377582874982
+Urinary System,"Lansing-East Lansing, MI",29620.0,116.0,1090292.0,0.915,106.39351659922296
+Urinary System,"Las Vegas-Henderson-Paradise, NV",29820.0,614.0,4277672.0,0.915,143.5360167867008
+Urinary System,"Lexington-Fayette, KY",30460.0,74.0,1014774.0,0.915,72.92264090329472
+Urinary System,"Little Rock-North Little Rock-Conway, AR",30780.0,172.0,1468332.0,0.915,117.13972044469507
+Urinary System,"Los Angeles-Long Beach-Anaheim, CA",31080.0,3633.0,39812082.0,0.915,91.25370534502566
+Urinary System,"Louisville-Jefferson County, KY-IN",31140.0,519.0,2505050.0,0.915,207.1814933833656
+Urinary System,"Madison, WI",31540.0,138.0,1296776.0,0.915,106.41776220411236
+Urinary System,"McAllen-Edinburg-Mission, TX",32580.0,56.0,1697920.0,0.915,32.98153034300791
+Urinary System,"Memphis, TN-MS-AR",32820.0,319.0,2672408.0,0.915,119.36800069450473
+Urinary System,"Miami-Fort Lauderdale-West Palm Beach, FL",33100.0,2354.0,18167058.0,0.915,129.5751904353473
+Urinary System,"Milwaukee-Waukesha-West Allis, WI",33340.0,650.0,3152008.0,0.915,206.21775071636876
+Urinary System,"Modesto, CA",33700.0,89.0,1078510.0,0.915,82.52125617750414
+Urinary System,"Nashville-Davidson-Murfreesboro-Franklin, TN",34980.0,635.0,3682588.0,0.915,172.43308238662593
+Urinary System,"New Haven-Milford, CT",35300.0,328.0,1715802.0,0.915,191.164248555486
+Urinary System,"New Orleans-Metairie, LA",35380.0,388.0,2535226.0,0.915,153.04355509134095
+Urinary System,"New York-Newark-Jersey City, NY-NJ-PA",35620.0,7884.0,58004334.0,0.915,135.9208779123298
+Urinary System,"North Port-Sarasota-Bradenton, FL",35840.0,455.0,1576682.0,0.915,288.58070302064715
+Urinary System,"Ogden-Clearfield, UT",36260.0,74.0,1304952.0,0.915,56.70706662007492
+Urinary System,"Oklahoma City, OK",36420.0,347.0,2745970.0,0.915,126.36700328117206
+Urinary System,"Omaha-Council Bluffs, NE-IA",36540.0,258.0,1846862.0,0.915,139.6964147835626
+Urinary System,"Orlando-Kissimmee-Sanford, FL",36740.0,740.0,4911166.0,0.915,150.6770489940678
+Urinary System,Other,99999.0,54383.0,0.0,0.915,0.0
+Urinary System,"Oxnard-Thousand Oaks-Ventura, CA",37100.0,195.0,1694646.0,0.915,115.0682797469206
+Urinary System,"Palm Bay-Melbourne-Titusville, FL",37340.0,239.0,1153748.0,0.915,207.15095497456983
+Urinary System,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980.0,2765.0,18199983.0,0.915,151.92321882938023
+Urinary System,"Phoenix-Mesa-Scottsdale, AZ",38060.0,1630.0,9346672.0,0.915,174.3936237411562
+Urinary System,"Pittsburgh, PA",38300.0,1215.0,4680444.0,0.915,259.5907567743573
+Urinary System,"Portland-South Portland, ME",38860.0,192.0,1057824.0,0.915,181.50467374534892
+Urinary System,"Portland-Vancouver-Hillsboro, OR-WA",38900.0,851.0,4853150.0,0.915,175.35003039263157
+Urinary System,"Poughkeepsie-Newburgh-Middletown, NY",39100.0,209.0,1341656.0,0.915,155.77763599611228
+Urinary System,"Providence-Warwick, RI-MA",39300.0,770.0,3229680.0,0.915,238.41371281365335
+Urinary System,"Raleigh, NC",39580.0,289.0,2607708.0,0.915,110.82529178880456
+Urinary System,"Richmond, VA",40060.0,229.0,2516942.0,0.915,90.98342353538541
+Urinary System,"Riverside-San Bernardino-Ontario, CA",40140.0,1187.0,9024082.0,0.915,131.53692530719468
+Urinary System,"Rochester, NY",40380.0,525.0,2148126.0,0.915,244.3990715628413
+Urinary System,"Sacramento-Roseville-Arden-Arcade, CA",40900.0,789.0,4583066.0,0.915,172.15549590601577
+Urinary System,"Salt Lake City, UT",41620.0,189.0,2369442.0,0.915,79.76561570192476
+Urinary System,"San Antonio-New Braunfels, TX",41700.0,729.0,4852552.0,0.915,150.2302293720912
+Urinary System,"San Diego-Carlsbad, CA",41740.0,909.0,6612178.0,0.915,137.4736130818015
+Urinary System,"San Francisco-Oakland-Hayward, CA",41860.0,1214.0,14064594.0,0.915,86.31603585570974
+Urinary System,"San Jose-Sunnyvale-Santa Clara, CA",41940.0,321.0,3975186.0,0.915,80.75093844665382
+Urinary System,"Santa Rosa, CA",42220.0,148.0,1005094.0,0.915,147.24990896373873
+Urinary System,"Scranton-Wilkes-Barre-Hazleton, PA",42540.0,286.0,1111444.0,0.915,257.3229060573452
+Urinary System,"Seattle-Tacoma-Bellevue, WA",42660.0,1279.0,11449065.0,0.915,111.71217911680998
+Urinary System,"Spokane-Spokane Valley, WA",44060.0,169.0,1082060.0,0.915,156.1835757721383
+Urinary System,"Springfield, MA",44140.0,233.0,1399608.0,0.915,166.4751844802259
+Urinary System,"St. Louis, MO-IL",41180.0,1216.0,5611004.0,0.915,216.7170082217015
+Urinary System,"Stockton-Lodi, CA",44700.0,128.0,1465618.0,0.915,87.33517192065054
+Urinary System,"Syracuse, NY",45060.0,299.0,1308782.0,0.915,228.45668720994024
+Urinary System,"Tampa-St. Petersburg-Clearwater, FL",45300.0,1424.0,6097926.0,0.915,233.5220204377685
+Urinary System,"Toledo, OH",45780.0,170.0,1290882.0,0.915,131.69290454123615
+Urinary System,"Tucson, AZ",46060.0,412.0,2033414.0,0.915,202.61491265428486
+Urinary System,"Tulsa, OK",46140.0,335.0,1977412.0,0.915,169.41335442487454
+Urinary System,"Virginia Beach-Norfolk-Newport News, VA-NC",47260.0,562.0,3517526.0,0.915,159.77138477441247
+Urinary System,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900.0,1509.0,18447903.0,0.915,81.79791491748412
+Urinary System,"Winston-Salem, NC",49180.0,178.0,1322048.0,0.915,134.63958948540449
+Urinary System,"Worcester, MA-CT",49340.0,408.0,1872844.0,0.915,217.85049902714803
+Urinary System,"Youngstown-Warren-Boardman, OH-PA",49660.0,217.0,1089164.0,0.915,199.23537685784694

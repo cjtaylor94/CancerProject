@@ -1,0 +1,601 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	72
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	165
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	85
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	239
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	103
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	385
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	168
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	464
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	307
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	596
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	522
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	685
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	700
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	765
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	843
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	647
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	633
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	496
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	516
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	400
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	366
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	433
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	335
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	51
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	86
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	119
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	90
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	181
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	177
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	196
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	220
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	202
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	265
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	185
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	203
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	156
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	159
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	116
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	131
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	158
+	"All Invasive Cancer Sites Combined"	"0"	"Des Moines-West Des Moines, IA"	"19780"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	81
+	"Oral Cavity and Pharynx"	"20010-20100"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Oral Cavity and Pharynx"	"20010-20100"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"Oral Cavity and Pharynx"	"20010-20100"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Oral Cavity and Pharynx"	"20010-20100"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Oral Cavity and Pharynx"	"20010-20100"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Oral Cavity and Pharynx"	"20010-20100"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Tongue"	"20020"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	36
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	45
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	57
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	90
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	73
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	115
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	95
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	150
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	110
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	148
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	93
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	133
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	84
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	93
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	96
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	74
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	114
+	"Digestive System"	"21010-21130"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	68
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	38
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	49
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	37
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	30
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Digestive System"	"21010-21130"	"Des Moines-West Des Moines, IA"	"19780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	39
+	"Esophagus"	"21010"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Stomach"	"21020"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	51
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	53
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	51
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	48
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	42
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	44
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	50
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	67
+	"Colon and Rectum"	"21041-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Colon and Rectum"	"21041-21052"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Des Moines-West Des Moines, IA"	"19780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	41
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	33
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	37
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	56
+	"Colon excluding Rectum"	"21041-21049"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum"	"21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Rectum"	"21052"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver"	"21071"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver"	"21071"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver"	"21071"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"Liver"	"21071"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver"	"21071"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Pancreas"	"21100"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Pancreas"	"21100"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	50
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	81
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	71
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	92
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	113
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	95
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	103
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	97
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	94
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	67
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	55
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	58
+	"Respiratory System"	"22010-22060"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	51
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	31
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Respiratory System"	"22010-22060"	"Des Moines-West Des Moines, IA"	"19780"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	46
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	77
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	60
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	91
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	96
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	93
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	100
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	96
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	87
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	64
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	53
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	57
+	"Lung and Bronchus"	"22030"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	48
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	30
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Des Moines-West Des Moines, IA"	"19780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	50
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	46
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	59
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	57
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	49
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	49
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	43
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	54
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	55
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	68
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	106
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	199
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	213
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	236
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	238
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	278
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	203
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	130
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	89
+	"Male and Female Breast"	"26000"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	107
+	"Male and Female Breast"	"26000"	"Des Moines-West Des Moines, IA"	"19780"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast"	"26000"	"Des Moines-West Des Moines, IA"	"19780"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	36
+	"Male and Female Breast"	"26000"	"Des Moines-West Des Moines, IA"	"19780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	45
+	"Male and Female Breast"	"26000"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	63
+	"Male and Female Breast"	"26000"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	56
+	"Male and Female Breast"	"26000"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	66
+	"Male and Female Breast"	"26000"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast"	"26000"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast"	"26000"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Des Moines-West Des Moines, IA"	"19780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	68
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	106
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	199
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	213
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	236
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	238
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	278
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	203
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	130
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	89
+	"Female Breast"	"26000-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	107
+	"Female Breast"	"26000-Female"	"Des Moines-West Des Moines, IA"	"19780"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast"	"26000-Female"	"Des Moines-West Des Moines, IA"	"19780"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Breast"	"26000-Female"	"Des Moines-West Des Moines, IA"	"19780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	45
+	"Female Breast"	"26000-Female"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Breast"	"26000-Female"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Breast"	"26000-Female"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	66
+	"Female Breast"	"26000-Female"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast"	"26000-Female"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast"	"26000-Female"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast"	"26000-Female"	"Des Moines-West Des Moines, IA"	"19780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Genital System"	"27010-27070"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Genital System"	"27010-27070"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	41
+	"Female Genital System"	"27010-27070"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Genital System"	"27010-27070"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	70
+	"Female Genital System"	"27010-27070"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	105
+	"Female Genital System"	"27010-27070"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	88
+	"Female Genital System"	"27010-27070"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	59
+	"Female Genital System"	"27010-27070"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Genital System"	"27010-27070"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Genital System"	"27010-27070"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Genital System"	"27010-27070"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Genital System"	"27010-27070"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Genital System"	"27010-27070"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Genital System"	"27010-27070"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Genital System"	"27010-27070"	"Des Moines-West Des Moines, IA"	"19780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Corpus Uteri"	"27020"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	44
+	"Corpus Uteri"	"27020"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	62
+	"Corpus Uteri"	"27020"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	57
+	"Corpus Uteri"	"27020"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Corpus Uteri"	"27020"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Corpus Uteri"	"27020"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Corpus Uteri"	"27020"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Corpus Uteri"	"27020"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Corpus Uteri"	"27020"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Ovary"	"27040"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Ovary"	"27040"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Ovary"	"27040"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Ovary"	"27040"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	66
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	123
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	194
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	237
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	121
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	99
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	44
+	"Male Genital System"	"28010-28040"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	44
+	"Male Genital System"	"28010-28040"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Male Genital System"	"28010-28040"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	56
+	"Male Genital System"	"28010-28040"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	83
+	"Male Genital System"	"28010-28040"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	48
+	"Male Genital System"	"28010-28040"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	63
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	117
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	189
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	236
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	121
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	96
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	40
+	"Prostate"	"28010"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	43
+	"Prostate"	"28010"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Prostate"	"28010"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	54
+	"Prostate"	"28010"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	82
+	"Prostate"	"28010"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	48
+	"Prostate"	"28010"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	34
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	63
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	94
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	39
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	106
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	46
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	82
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	30
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	71
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	70
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	51
+	"Urinary System"	"29010-29040"	"Des Moines-West Des Moines, IA"	"19780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary System"	"29010-29040"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary System"	"29010-29040"	"Des Moines-West Des Moines, IA"	"19780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	44
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	63
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	56
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	51
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	56
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	33
+	"Urinary Bladder, invasive and in situ"	"29010"	"Des Moines-West Des Moines, IA"	"19780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Des Moines-West Des Moines, IA"	"19780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary Bladder, invasive and in situ"	"29010"	"Des Moines-West Des Moines, IA"	"19780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Kidney and Renal Pelvis"	"29020"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Kidney and Renal Pelvis"	"29020"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	50
+	"Kidney and Renal Pelvis"	"29020"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Kidney and Renal Pelvis"	"29020"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Kidney and Renal Pelvis"	"29020"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Denver-Aurora-Lakewood, CO"	"19740"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	21
+	"Endocrine System"	"32010-32020"	"Denver-Aurora-Lakewood, CO"	"19740"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	30
+	"Endocrine System"	"32010-32020"	"Denver-Aurora-Lakewood, CO"	"19740"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	32
+	"Endocrine System"	"32010-32020"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	38
+	"Endocrine System"	"32010-32020"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Endocrine System"	"32010-32020"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Endocrine System"	"32010-32020"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Endocrine System"	"32010-32020"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Thyroid"	"32010"	"Denver-Aurora-Lakewood, CO"	"19740"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	21
+	"Thyroid"	"32010"	"Denver-Aurora-Lakewood, CO"	"19740"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	30
+	"Thyroid"	"32010"	"Denver-Aurora-Lakewood, CO"	"19740"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	32
+	"Thyroid"	"32010"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	37
+	"Thyroid"	"32010"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	27
+	"Thyroid"	"32010"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Thyroid"	"32010"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Thyroid"	"32010"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	35
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	39
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"NHL - Nodal"	"33041"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"NHL - Nodal"	"33041"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Nodal"	"33041"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"NHL - Nodal"	"33041"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"NHL - Nodal"	"33041"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Myeloma"	"34000"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Leukemias"	"35011-35043"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Leukemias"	"35011-35043"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Miscellaneous"	"37000"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Miscellaneous"	"37000"	"Denver-Aurora-Lakewood, CO"	"19740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Miscellaneous"	"37000"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	37
+	"Miscellaneous"	"37000"	"Denver-Aurora-Lakewood, CO"	"19740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	34
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	47
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	56
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	65
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	64
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	58
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	52
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Des Moines-West Des Moines, IA"	"19780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	65
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	64
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	58
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Denver-Aurora-Lakewood, CO"	"19740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Des Moines-West Des Moines, IA"	"19780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Des Moines-West Des Moines, IA"	"19780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Denver-Aurora-Lakewood, CO (19740); Des Moines-West Des Moines, IA (19780)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 9:22:42 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 9:22:42 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. These MSAs are missing data for the indicated years: Boise City, ID 1999-2002; Cape Coral-Fort Myers, FL 1999-2003;"
+"Chattanooga, TN-GA 1999-2005; Deltona-Daytona Beach-Ormond Beach, FL 1999-2000; Denver-Aurora-Lakewood, CO 1999-2001;"
+"Durham-Chapel Hill, NC 1999-2003; Fayetteville, NC 1999-2011; Fayetteville-Springdale-Rogers, AR-MO 1999-2015; Jackson, MS"
+"1999-2002; Kansas City, MO-KS 1999-2017; Lakeland-Winter Haven, FL 1999-2001; Lancaster, PA 1999-2005; Lexington-Fayette, KY"
+"1999-2014; Little Rock-North Little Rock-Conway, AR 1999-2000; Memphis, TN-MS-AR 1999-2002; Minneapolis-St. Paul-Bloomington,"
+"MN-WI 1999-2017; Modesto, CA 1999-2004; Ogden-Clearfield, UT 1999-2001; Palm Bay-Melbourne-Titusville, FL 1999-2002;"
+"Portland-South Portland, ME 1999-2001; Provo-Orem, UT 1999-2008; Santa Rosa, CA 1999-2014; Spokane-Spokane Valley, WA 1999-2007;"
+"Urban Honolulu, HI 1999; Wichita, KS 1999-2017."
+"6. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"7. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"8. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

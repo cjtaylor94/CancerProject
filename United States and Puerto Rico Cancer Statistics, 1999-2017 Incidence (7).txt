@@ -1,0 +1,595 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	67
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	86
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	177
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	113
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	272
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	212
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	59
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	365
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	398
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	408
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	79
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	561
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	471
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	639
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	433
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	520
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	353
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	436
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	324
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	335
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	409
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	289
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	54
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	79
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	146
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	118
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	193
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	166
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	208
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	271
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	316
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	443
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	357
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	483
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	257
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	418
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	209
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	273
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	222
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	214
+	"All Invasive Cancer Sites Combined"	"0"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"Oral Cavity and Pharynx"	"20010-20100"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Oral Cavity and Pharynx"	"20010-20100"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Oral Cavity and Pharynx"	"20010-20100"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Oral Cavity and Pharynx"	"20010-20100"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Oral Cavity and Pharynx"	"20010-20100"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	54
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	43
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	77
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	88
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	66
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	88
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	54
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	83
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	81
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	71
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	66
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	86
+	"Digestive System"	"21010-21130"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	51
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	28
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	55
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	55
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	64
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	63
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	53
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	50
+	"Digestive System"	"21010-21130"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	30
+	"Esophagus"	"21010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	35
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	40
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	48
+	"Colon and Rectum"	"21041-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	39
+	"Colon excluding Rectum"	"21041-21049"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectum"	"21052"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	53
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	54
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	74
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	61
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	73
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	105
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	105
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	84
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	91
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	84
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	69
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	50
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	64
+	"Respiratory System"	"22010-22060"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	46
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	31
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	61
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	85
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	66
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	78
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	89
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	37
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	51
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	69
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	51
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	72
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	95
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	104
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	78
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	89
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	77
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	66
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	46
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	62
+	"Lung and Bronchus"	"22030"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	45
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	58
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	74
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	64
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	71
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	45
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	88
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	38
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	37
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	44
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Melanoma of the Skin"	"25010"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Melanoma of the Skin"	"25010"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Melanoma of the Skin"	"25010"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Melanoma of the Skin"	"25010"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	36
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	73
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	104
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	109
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	106
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	133
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	113
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	83
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	63
+	"Male and Female Breast"	"26000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	59
+	"Male and Female Breast"	"26000"	"Cape Coral-Fort Myers, FL"	"15980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast"	"26000"	"Cape Coral-Fort Myers, FL"	"15980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	52
+	"Male and Female Breast"	"26000"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	52
+	"Male and Female Breast"	"26000"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	53
+	"Male and Female Breast"	"26000"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	90
+	"Male and Female Breast"	"26000"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	100
+	"Male and Female Breast"	"26000"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	63
+	"Male and Female Breast"	"26000"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast"	"26000"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	73
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	104
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	109
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	106
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	133
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	113
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	83
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Breast"	"26000-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	59
+	"Female Breast"	"26000-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast"	"26000-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Breast"	"26000-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Breast"	"26000-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	53
+	"Female Breast"	"26000-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	90
+	"Female Breast"	"26000-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	100
+	"Female Breast"	"26000-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Breast"	"26000-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast"	"26000-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Genital System"	"27010-27070"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Genital System"	"27010-27070"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Genital System"	"27010-27070"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	57
+	"Female Genital System"	"27010-27070"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Female Genital System"	"27010-27070"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	77
+	"Female Genital System"	"27010-27070"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Genital System"	"27010-27070"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Genital System"	"27010-27070"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Genital System"	"27010-27070"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Genital System"	"27010-27070"	"Cape Coral-Fort Myers, FL"	"15980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Genital System"	"27010-27070"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Genital System"	"27010-27070"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Genital System"	"27010-27070"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Corpus Uteri"	"27020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	45
+	"Corpus Uteri"	"27020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"Corpus Uteri"	"27020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	50
+	"Corpus Uteri"	"27020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Corpus Uteri"	"27020"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	47
+	"Male Genital System"	"28010-28040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Male Genital System"	"28010-28040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	113
+	"Male Genital System"	"28010-28040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Male Genital System"	"28010-28040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	176
+	"Male Genital System"	"28010-28040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Male Genital System"	"28010-28040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	207
+	"Male Genital System"	"28010-28040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	145
+	"Male Genital System"	"28010-28040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	97
+	"Male Genital System"	"28010-28040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	54
+	"Male Genital System"	"28010-28040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	43
+	"Male Genital System"	"28010-28040"	"Cape Coral-Fort Myers, FL"	"15980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	42
+	"Male Genital System"	"28010-28040"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	61
+	"Male Genital System"	"28010-28040"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	114
+	"Male Genital System"	"28010-28040"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	116
+	"Male Genital System"	"28010-28040"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	80
+	"Male Genital System"	"28010-28040"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Male Genital System"	"28010-28040"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"Prostate"	"28010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	40
+	"Prostate"	"28010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Prostate"	"28010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	111
+	"Prostate"	"28010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Prostate"	"28010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	172
+	"Prostate"	"28010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Prostate"	"28010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	205
+	"Prostate"	"28010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	144
+	"Prostate"	"28010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	96
+	"Prostate"	"28010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	54
+	"Prostate"	"28010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	39
+	"Prostate"	"28010"	"Cape Coral-Fort Myers, FL"	"15980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Prostate"	"28010"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	41
+	"Prostate"	"28010"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	60
+	"Prostate"	"28010"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	113
+	"Prostate"	"28010"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	116
+	"Prostate"	"28010"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	80
+	"Prostate"	"28010"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Prostate"	"28010"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	39
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	72
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	75
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	73
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	67
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	54
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Urinary System"	"29010-29040"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	46
+	"Urinary System"	"29010-29040"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	40
+	"Urinary System"	"29010-29040"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	47
+	"Urinary System"	"29010-29040"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"Urinary System"	"29010-29040"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary System"	"29010-29040"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	39
+	"Urinary System"	"29010-29040"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary Bladder, invasive and in situ"	"29010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary Bladder, invasive and in situ"	"29010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Urinary Bladder, invasive and in situ"	"29010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	51
+	"Urinary Bladder, invasive and in situ"	"29010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	47
+	"Urinary Bladder, invasive and in situ"	"29010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary Bladder, invasive and in situ"	"29010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	42
+	"Urinary Bladder, invasive and in situ"	"29010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	45
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary Bladder, invasive and in situ"	"29010"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Lymphomas"	"33011-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"NHL - Nodal"	"33041"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"NHL - Nodal"	"33041"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Myeloma"	"34000"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"Leukemias"	"35011-35043"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Leukemias"	"35011-35043"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Leukemias"	"35011-35043"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Leukemias"	"35011-35043"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Leukemias"	"35011-35043"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Chronic Lymphocytic Leukemia"	"35012"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Miscellaneous"	"37000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Miscellaneous"	"37000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	43
+	"Miscellaneous"	"37000"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Miscellaneous"	"37000"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Miscellaneous"	"37000"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Miscellaneous"	"37000"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Miscellaneous"	"37000"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Cape Coral-Fort Myers, FL"	"15980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Miscellaneous"	"37000"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Miscellaneous"	"37000"	"Cape Coral-Fort Myers, FL"	"15980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	46
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	43
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	46
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Cape Coral-Fort Myers, FL"	"15980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Buffalo-Cheektowaga-Niagara Falls, NY (15380); Cape Coral-Fort Myers, FL (15980)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 24, 2021 9:38:24 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 24, 2021 9:38:24 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. These MSAs are missing data for the indicated years: Boise City, ID 1999-2002; Cape Coral-Fort Myers, FL 1999-2003;"
+"Chattanooga, TN-GA 1999-2005; Deltona-Daytona Beach-Ormond Beach, FL 1999-2000; Denver-Aurora-Lakewood, CO 1999-2001;"
+"Durham-Chapel Hill, NC 1999-2003; Fayetteville, NC 1999-2011; Fayetteville-Springdale-Rogers, AR-MO 1999-2015; Jackson, MS"
+"1999-2002; Kansas City, MO-KS 1999-2017; Lakeland-Winter Haven, FL 1999-2001; Lancaster, PA 1999-2005; Lexington-Fayette, KY"
+"1999-2014; Little Rock-North Little Rock-Conway, AR 1999-2000; Memphis, TN-MS-AR 1999-2002; Minneapolis-St. Paul-Bloomington,"
+"MN-WI 1999-2017; Modesto, CA 1999-2004; Ogden-Clearfield, UT 1999-2001; Palm Bay-Melbourne-Titusville, FL 1999-2002;"
+"Portland-South Portland, ME 1999-2001; Provo-Orem, UT 1999-2008; Santa Rosa, CA 1999-2014; Spokane-Spokane Valley, WA 1999-2007;"
+"Urban Honolulu, HI 1999; Wichita, KS 1999-2017."
+"6. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"7. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"8. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

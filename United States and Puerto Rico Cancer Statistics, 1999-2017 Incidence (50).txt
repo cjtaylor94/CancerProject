@@ -1,0 +1,426 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	90
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	64
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	120
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	112
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	203
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	37
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	185
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	205
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	242
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	232
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	299
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	220
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	260
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	173
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	168
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	117
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	113
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	127
+	"All Invasive Cancer Sites Combined"	"0"	"Toledo, OH"	"45780"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	91
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	66
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	100
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	137
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	118
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	223
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	202
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	295
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	327
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	399
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	453
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	340
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	362
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	259
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	340
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	205
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	274
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	221
+	"All Invasive Cancer Sites Combined"	"0"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	251
+	"Oral Cavity and Pharynx"	"20010-20100"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	61
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	41
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	38
+	"Digestive System"	"21010-21130"	"Toledo, OH"	"45780"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	58
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	50
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	77
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	56
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	89
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	73
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	43
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	70
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	44
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	49
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	58
+	"Digestive System"	"21010-21130"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	50
+	"Colon and Rectum"	"21041-21052"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Toledo, OH"	"45780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Colon and Rectum"	"21041-21052"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon excluding Rectum"	"21041-21049"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Toledo, OH"	"45780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon excluding Rectum"	"21041-21049"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"Colon excluding Rectum"	"21041-21049"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver"	"21071"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver"	"21071"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver"	"21071"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	31
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	38
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Respiratory System"	"22010-22060"	"Toledo, OH"	"45780"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	38
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	59
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	59
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	59
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	54
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	57
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	45
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	60
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	25
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	38
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	31
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"Toledo, OH"	"45780"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	58
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	58
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	53
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	52
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	55
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	45
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	58
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Melanoma of the Skin"	"25010"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Melanoma of the Skin"	"25010"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Melanoma of the Skin"	"25010"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Melanoma of the Skin"	"25010"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Melanoma of the Skin"	"25010"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Melanoma of the Skin"	"25010"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Male and Female Breast"	"26000"	"Toledo, OH"	"45780"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast"	"26000"	"Toledo, OH"	"45780"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Male and Female Breast"	"26000"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast"	"26000"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	68
+	"Male and Female Breast"	"26000"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	49
+	"Male and Female Breast"	"26000"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	80
+	"Male and Female Breast"	"26000"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	59
+	"Male and Female Breast"	"26000"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	37
+	"Male and Female Breast"	"26000"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast"	"26000"	"Toledo, OH"	"45780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast"	"26000"	"Tucson, AZ"	"46060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Tucson, AZ"	"46060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast"	"26000"	"Tucson, AZ"	"46060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast"	"26000"	"Tucson, AZ"	"46060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	54
+	"Male and Female Breast"	"26000"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	84
+	"Male and Female Breast"	"26000"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	89
+	"Male and Female Breast"	"26000"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	134
+	"Male and Female Breast"	"26000"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	110
+	"Male and Female Breast"	"26000"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	72
+	"Male and Female Breast"	"26000"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	43
+	"Male and Female Breast"	"26000"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Breast"	"26000-Female"	"Toledo, OH"	"45780"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast"	"26000-Female"	"Toledo, OH"	"45780"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast"	"26000-Female"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast"	"26000-Female"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	68
+	"Female Breast"	"26000-Female"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Breast"	"26000-Female"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	80
+	"Female Breast"	"26000-Female"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	59
+	"Female Breast"	"26000-Female"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Breast"	"26000-Female"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast"	"26000-Female"	"Toledo, OH"	"45780"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast"	"26000-Female"	"Tucson, AZ"	"46060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast"	"26000-Female"	"Tucson, AZ"	"46060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast"	"26000-Female"	"Tucson, AZ"	"46060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast"	"26000-Female"	"Tucson, AZ"	"46060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	54
+	"Female Breast"	"26000-Female"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	84
+	"Female Breast"	"26000-Female"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	89
+	"Female Breast"	"26000-Female"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	134
+	"Female Breast"	"26000-Female"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	110
+	"Female Breast"	"26000-Female"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	72
+	"Female Breast"	"26000-Female"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Breast"	"26000-Female"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Genital System"	"27010-27070"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Genital System"	"27010-27070"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Genital System"	"27010-27070"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Genital System"	"27010-27070"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Genital System"	"27010-27070"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Genital System"	"27010-27070"	"Tucson, AZ"	"46060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Genital System"	"27010-27070"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"Female Genital System"	"27010-27070"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	55
+	"Female Genital System"	"27010-27070"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Genital System"	"27010-27070"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Corpus Uteri"	"27020"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Corpus Uteri"	"27020"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Corpus Uteri"	"27020"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Corpus Uteri"	"27020"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Male Genital System"	"28010-28040"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Male Genital System"	"28010-28040"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Male Genital System"	"28010-28040"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	74
+	"Male Genital System"	"28010-28040"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Male Genital System"	"28010-28040"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	105
+	"Male Genital System"	"28010-28040"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	76
+	"Male Genital System"	"28010-28040"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Male Genital System"	"28010-28040"	"Tucson, AZ"	"46060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Male Genital System"	"28010-28040"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	37
+	"Male Genital System"	"28010-28040"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	81
+	"Male Genital System"	"28010-28040"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	135
+	"Male Genital System"	"28010-28040"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	74
+	"Male Genital System"	"28010-28040"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	59
+	"Male Genital System"	"28010-28040"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Male Genital System"	"28010-28040"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	37
+	"Prostate"	"28010"	"Toledo, OH"	"45780"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Prostate"	"28010"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	43
+	"Prostate"	"28010"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Prostate"	"28010"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	72
+	"Prostate"	"28010"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Prostate"	"28010"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	104
+	"Prostate"	"28010"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	75
+	"Prostate"	"28010"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Prostate"	"28010"	"Tucson, AZ"	"46060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Prostate"	"28010"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	37
+	"Prostate"	"28010"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	81
+	"Prostate"	"28010"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	134
+	"Prostate"	"28010"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	74
+	"Prostate"	"28010"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	59
+	"Prostate"	"28010"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Prostate"	"28010"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	37
+	"Urinary System"	"29010-29040"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Toledo, OH"	"45780"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary System"	"29010-29040"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"Urinary System"	"29010-29040"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	60
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	59
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	49
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	46
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"Urinary Bladder, invasive and in situ"	"29010"	"Toledo, OH"	"45780"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary Bladder, invasive and in situ"	"29010"	"Toledo, OH"	"45780"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Toledo, OH"	"45780"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	37
+	"Urinary Bladder, invasive and in situ"	"29010"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"Kidney and Renal Pelvis"	"29020"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Kidney and Renal Pelvis"	"29020"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Toledo, OH"	"45780"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Tucson, AZ"	"46060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Toledo, OH"	"45780"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Tucson, AZ"	"46060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Tucson, AZ"	"46060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Tucson, AZ"	"46060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Tucson, AZ"	"46060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tucson, AZ"	"46060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Toledo, OH"	"45780"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Toledo, OH"	"45780"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tucson, AZ"	"46060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tucson, AZ"	"46060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tucson, AZ"	"46060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tucson, AZ"	"46060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Tucson, AZ"	"46060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Toledo, OH (45780); Tucson, AZ (46060)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 4:27:55 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 4:27:55 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

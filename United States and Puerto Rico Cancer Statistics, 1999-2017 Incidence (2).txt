@@ -1,0 +1,1007 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"10-14 years"	"10-14"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"15-19 years"	"15-19"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"20-24 years"	"20-24"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"20-24 years"	"20-24"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	91
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"25-29 years"	"25-29"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	95
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	158
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	95
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	178
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	245
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	74
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	125
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	246
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	374
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	92
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	215
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	346
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	515
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	219
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	348
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	455
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	774
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	406
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	621
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	480
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	946
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	631
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	1067
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	564
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	1137
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	712
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1313
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	581
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1329
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	851
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1787
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	402
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	1157
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	476
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1518
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	283
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	861
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	294
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1067
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	217
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	609
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	153
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	691
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	159
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	645
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	82
+	"All Invasive Cancer Sites Combined"	"0"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	591
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	81
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	79
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	118
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	153
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	106
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	162
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	72
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	177
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	87
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	188
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	57
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	128
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	81
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	155
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	95
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	132
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	96
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	80
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	67
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Augusta-Richmond County, GA-SC"	"12260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	68
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	34
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	75
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	61
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	62
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	45
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Oral Cavity and Pharynx"	"20010-20100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Tongue"	"20020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Tongue"	"20020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Tongue"	"20020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Tonsil"	"20070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Tonsil"	"20070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Tonsil"	"20070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Tonsil"	"20070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	44
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	59
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	50
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	82
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	95
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	106
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	103
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	175
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	90
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	98
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	119
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	214
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	103
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	181
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	147
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	245
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	118
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	208
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	165
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	289
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	71
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	167
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	83
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	264
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	69
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	159
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	189
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	61
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	128
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	125
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	46
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	149
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	119
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Augusta-Richmond County, GA-SC"	"12260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Esophagus"	"21010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Esophagus"	"21010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Esophagus"	"21010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Esophagus"	"21010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Esophagus"	"21010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Stomach"	"21020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Stomach"	"21020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Stomach"	"21020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Stomach"	"21020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	46
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	65
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	62
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	66
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	109
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	52
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	54
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	110
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	91
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	62
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	101
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	65
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	112
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	74
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	131
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	81
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	116
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	76
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	81
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	71
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	55
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	75
+	"Colon and Rectum"	"21041-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	49
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	41
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	62
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	37
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	59
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	57
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	48
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	61
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	80
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	93
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	61
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	79
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	58
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	56
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	60
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	40
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	68
+	"Colon excluding Rectum"	"21041-21049"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Cecum"	"21041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Cecum"	"21041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Cecum"	"21041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Cecum"	"21041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Cecum"	"21041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Cecum"	"21041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Ascending Colon"	"21043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Ascending Colon"	"21043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Ascending Colon"	"21043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Ascending Colon"	"21043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Sigmoid Colon"	"21048"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Sigmoid Colon"	"21048"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Sigmoid Colon"	"21048"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Sigmoid Colon"	"21048"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Sigmoid Colon"	"21048"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Sigmoid Colon"	"21048"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	47
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	51
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	34
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	40
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	39
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	40
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Rectum"	"21052"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	55
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver"	"21071"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver"	"21071"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Liver"	"21071"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Liver"	"21071"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Liver"	"21071"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	52
+	"Liver"	"21071"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Liver"	"21071"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Liver"	"21071"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Liver"	"21071"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	41
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	50
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Pancreas"	"21100"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	48
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	60
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	99
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	74
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	109
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	139
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	76
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	169
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	68
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	210
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	114
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	238
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	220
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	90
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	230
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	170
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	58
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	154
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	105
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	141
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	113
+	"Respiratory System"	"22010-22060"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	87
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Respiratory System"	"22010-22060"	"Augusta-Richmond County, GA-SC"	"12260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Larynx"	"22020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Larynx"	"22020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	44
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	92
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	71
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	94
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	132
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	67
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	152
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	67
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	202
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	104
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	213
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	211
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	79
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	210
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	46
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	166
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	53
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	144
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	103
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	132
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	113
+	"Lung and Bronchus"	"22030"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	82
+	"Lung and Bronchus"	"22030"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Lung and Bronchus"	"22030"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Lung and Bronchus"	"22030"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Lung and Bronchus"	"22030"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Lung and Bronchus"	"22030"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Lung and Bronchus"	"22030"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Lung and Bronchus"	"22030"	"Augusta-Richmond County, GA-SC"	"12260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	31
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	46
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	57
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	43
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	60
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	54
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	80
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	74
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	82
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	122
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	78
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	131
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	71
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	181
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	75
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	156
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	98
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	71
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	66
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	46
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	57
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	40
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	59
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	53
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	77
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	72
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	78
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	115
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	77
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	128
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	68
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	173
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	72
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	144
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	33
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	96
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	66
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Melanoma of the Skin"	"25010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	56
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	32
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	80
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	52
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	128
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	146
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	161
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	217
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	191
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	276
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	175
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	322
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	207
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	376
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	193
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	411
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	126
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	343
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	65
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	204
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	128
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Male and Female Breast"	"26000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	122
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	34
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	51
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	75
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast"	"26000"	"Augusta-Richmond County, GA-SC"	"12260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	80
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	128
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	146
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	161
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	217
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	191
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	276
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	175
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	322
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	207
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	376
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	193
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	411
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	126
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	343
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	65
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	204
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	128
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Female Breast"	"26000-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	122
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	75
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast"	"26000-Female"	"Augusta-Richmond County, GA-SC"	"12260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	58
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	57
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	104
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	79
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	135
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	77
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	142
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	80
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	135
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	103
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	84
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Genital System"	"27010-27070"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	52
+	"Female Genital System"	"27010-27070"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Genital System"	"27010-27070"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Cervix Uteri"	"27010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	22
+	"Cervix Uteri"	"27010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	20
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	60
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	46
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	86
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	54
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	89
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	81
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	46
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Corpus Uteri"	"27020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Corpus Uteri"	"27020"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Ovary"	"27040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Ovary"	"27040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Ovary"	"27040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Ovary"	"27040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Ovary"	"27040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Ovary"	"27040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Ovary"	"27040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Ovary"	"27040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Ovary"	"27040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	16
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	24
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	69
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	37
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	154
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	113
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	307
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	254
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	343
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	407
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	380
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	567
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	201
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	455
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	105
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	233
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	102
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Male Genital System"	"28010-28040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	77
+	"Male Genital System"	"28010-28040"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Male Genital System"	"28010-28040"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Male Genital System"	"28010-28040"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Male Genital System"	"28010-28040"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	47
+	"Male Genital System"	"28010-28040"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"Male Genital System"	"28010-28040"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	47
+	"Male Genital System"	"28010-28040"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Male Genital System"	"28010-28040"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Male Genital System"	"28010-28040"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	66
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	152
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	105
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	306
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	251
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	341
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	402
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	376
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	566
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	200
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	454
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	105
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	229
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	101
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Prostate"	"28010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	75
+	"Prostate"	"28010"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Prostate"	"28010"	"Augusta-Richmond County, GA-SC"	"12260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Prostate"	"28010"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"Prostate"	"28010"	"Augusta-Richmond County, GA-SC"	"12260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	47
+	"Prostate"	"28010"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"Prostate"	"28010"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Prostate"	"28010"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Prostate"	"28010"	"Augusta-Richmond County, GA-SC"	"12260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Prostate"	"28010"	"Augusta-Richmond County, GA-SC"	"12260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Testis"	"28020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	16
+	"Testis"	"28020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	18
+	"Testis"	"28020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	65
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	36
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	129
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	130
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	64
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	67
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	194
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	58
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	150
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	44
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	149
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	43
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	101
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	42
+	"Urinary System"	"29010-29040"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	106
+	"Urinary System"	"29010-29040"	"Augusta-Richmond County, GA-SC"	"12260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	55
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	64
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	114
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	98
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	95
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	73
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Urinary Bladder, invasive and in situ"	"29010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	89
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	20
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	36
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	74
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	64
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	74
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	48
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	49
+	"Kidney and Renal Pelvis"	"29020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	41
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	38
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	39
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	38
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	48
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Endocrine System"	"32010-32020"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	41
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	37
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	36
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	38
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	47
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Thyroid"	"32010"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	32
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	34
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	49
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	50
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	66
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	47
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	61
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	49
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	64
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	33
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Lymphomas"	"33011-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	29
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	32
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	40
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	46
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	61
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	59
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	48
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	62
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	33
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	42
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"NHL - Nodal"	"33041"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"NHL - Extranodal"	"33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"NHL - Extranodal"	"33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Extranodal"	"33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Extranodal"	"33042"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Myeloma"	"34000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	54
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	52
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	46
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Leukemias"	"35011-35043"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Chronic Lymphocytic Leukemia"	"35012"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Chronic Lymphocytic Leukemia"	"35012"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Chronic Lymphocytic Leukemia"	"35012"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Chronic Lymphocytic Leukemia"	"35012"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Chronic Lymphocytic Leukemia"	"35012"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Chronic Lymphocytic Leukemia"	"35012"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Chronic Lymphocytic Leukemia"	"35012"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Acute Myeloid Leukemia"	"35021"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Acute Myeloid Leukemia"	"35021"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	51
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	45
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	33
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	52
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	36
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	37
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	48
+	"Miscellaneous"	"37000"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	54
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	71
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	92
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	54
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	80
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	62
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	89
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	77
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	73
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	71
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	92
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	54
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	80
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	62
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	89
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	77
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	73
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Atlanta-Sandy Springs-Roswell, GA (12060); Augusta-Richmond County, GA-SC (12260)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 23, 2021 11:02:26 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 23, 2021 11:02:26 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

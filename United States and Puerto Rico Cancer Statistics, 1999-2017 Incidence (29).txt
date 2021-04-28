@@ -1,0 +1,1366 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	37
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	66
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	59
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	108
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"25-29 years"	"25-29"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	93
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	160
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	112
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	91
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	282
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	162
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	135
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	467
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	217
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	153
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	739
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	104
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	395
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	279
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	1034
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	206
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	829
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	67
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	320
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	1272
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	51
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	324
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	1193
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	85
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	375
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	1455
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	74
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	413
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1656
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	103
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	368
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1867
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	84
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	459
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	2187
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	190
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	265
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	1817
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	83
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	342
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	2179
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	187
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	236
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	1504
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	72
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	254
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1879
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	131
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	157
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	1349
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	48
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	136
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	1367
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	118
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	151
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	1631
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	74
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	81
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	1569
+	"All Invasive Cancer Sites Combined"	"0"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	109
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	51
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	78
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	129
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	198
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	109
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	273
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	65
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	228
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	97
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	422
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	91
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	376
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	94
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	466
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	120
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	563
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	92
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	498
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	100
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	653
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	77
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	448
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	68
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	569
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	405
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	407
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	338
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	330
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	366
+	"All Invasive Cancer Sites Combined"	"0"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	335
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	26
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	54
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	62
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	34
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	94
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	90
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	41
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	73
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	48
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Oral Cavity and Pharynx"	"20010-20100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	37
+	"Oral Cavity and Pharynx"	"20010-20100"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Oral Cavity and Pharynx"	"20010-20100"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Tongue"	"20020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Tongue"	"20020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Tongue"	"20020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Tongue"	"20020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"Tongue"	"20020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Tonsil"	"20070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Tonsil"	"20070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Tonsil"	"20070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	22
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	75
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	112
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	56
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	141
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	48
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	188
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	65
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	168
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	72
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	250
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	87
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	188
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	93
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	341
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	292
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	82
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	381
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	65
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	276
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	82
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	386
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	275
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	52
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	348
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	277
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	266
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	399
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Digestive System"	"21010-21130"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	291
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	58
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	53
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	67
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	90
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	57
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	115
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	79
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	100
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	61
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	72
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	62
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	74
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	84
+	"Digestive System"	"21010-21130"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	64
+	"Esophagus"	"21010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Esophagus"	"21010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Esophagus"	"21010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Esophagus"	"21010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Esophagus"	"21010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Stomach"	"21020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Stomach"	"21020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	56
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	66
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	87
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	99
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	92
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	118
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	87
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	137
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	148
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	168
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	114
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	37
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	170
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	138
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	163
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	134
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	104
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	210
+	"Colon and Rectum"	"21041-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	145
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	34
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	48
+	"Colon and Rectum"	"21041-21052"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	33
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	60
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	66
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	63
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	79
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	90
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	117
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	116
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	92
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	126
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	115
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	129
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	112
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	79
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	178
+	"Colon excluding Rectum"	"21041-21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	117
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Colon excluding Rectum"	"21041-21049"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Cecum"	"21041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Cecum"	"21041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Cecum"	"21041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Cecum"	"21041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Cecum"	"21041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Cecum"	"21041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Cecum"	"21041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Cecum"	"21041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Cecum"	"21041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	47
+	"Cecum"	"21041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Ascending Colon"	"21043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Ascending Colon"	"21043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Ascending Colon"	"21043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Ascending Colon"	"21043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Ascending Colon"	"21043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Ascending Colon"	"21043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	31
+	"Ascending Colon"	"21043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Ascending Colon"	"21043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	36
+	"Ascending Colon"	"21043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Ascending Colon"	"21043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Ascending Colon"	"21043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	30
+	"Transverse Colon"	"21045"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Transverse Colon"	"21045"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Transverse Colon"	"21045"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	39
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Sigmoid Colon"	"21048"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Large Intestine, NOS"	"21049"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	33
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	39
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	47
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Rectosigmoid Junction"	"21051"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Rectum"	"21052"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Anus, Anal Canal and Anorectum"	"21060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Anus, Anal Canal and Anorectum"	"21060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	73
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	53
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Liver"	"21071"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver"	"21071"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Liver"	"21071"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Liver"	"21071"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	68
+	"Liver"	"21071"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Liver"	"21071"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Liver"	"21071"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Liver"	"21071"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Liver"	"21071"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Liver"	"21071"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver"	"21071"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Liver"	"21071"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver"	"21071"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	28
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	37
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	48
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	74
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	66
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	71
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	67
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	61
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	76
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	64
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	85
+	"Pancreas"	"21100"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	69
+	"Pancreas"	"21100"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Pancreas"	"21100"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	67
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	81
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	116
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	144
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	171
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	235
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	257
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	51
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	281
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	297
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	365
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	230
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	357
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	223
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	225
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	215
+	"Respiratory System"	"22010-22060"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	239
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	53
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	42
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	67
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	64
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	85
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	95
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	71
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	92
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	66
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	77
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	78
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	59
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	50
+	"Respiratory System"	"22010-22060"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	53
+	"Larynx"	"22020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Larynx"	"22020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Larynx"	"22020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Larynx"	"22020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Larynx"	"22020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Larynx"	"22020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Larynx"	"22020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	62
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	58
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	108
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	118
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	159
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	195
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	251
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	247
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	288
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	338
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	227
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	334
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	218
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	203
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	210
+	"Lung and Bronchus"	"22030"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	225
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	48
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	63
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	57
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	84
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	88
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	69
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	88
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	66
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	73
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	78
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	57
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	49
+	"Lung and Bronchus"	"22030"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	47
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	34
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	57
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	41
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	67
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	87
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	72
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	118
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	63
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	125
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	54
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	94
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	57
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	114
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	78
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	141
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	53
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	41
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	64
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	82
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	66
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	110
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	60
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	121
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	51
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	89
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	53
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	106
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	72
+	"Melanoma of the Skin"	"25010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	125
+	"Melanoma of the Skin"	"25010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Melanoma of the Skin"	"25010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Melanoma of the Skin"	"25010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"Other Non-Epithelial Skin"	"25020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	85
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	61
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	178
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	302
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	85
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	360
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	102
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	419
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	115
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	470
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	22
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	118
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	526
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	21
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	59
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	474
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	56
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	347
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	265
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	273
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	24
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	56
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	91
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	112
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	123
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	137
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	156
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	127
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	112
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	66
+	"Male and Female Breast"	"26000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	78
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	85
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	61
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	178
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	302
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	85
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	360
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	102
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	419
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	115
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	470
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	22
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	118
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	526
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	21
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	59
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	474
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	56
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	347
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	265
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	273
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	91
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	112
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	123
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	137
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	156
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	127
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	112
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	66
+	"Female Breast"	"26000-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	78
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	82
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	153
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	189
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	202
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	65
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	225
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	175
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	151
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	93
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Genital System"	"27010-27070"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	101
+	"Female Genital System"	"27010-27070"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Genital System"	"27010-27070"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Genital System"	"27010-27070"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	72
+	"Female Genital System"	"27010-27070"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	83
+	"Female Genital System"	"27010-27070"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	75
+	"Female Genital System"	"27010-27070"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	57
+	"Female Genital System"	"27010-27070"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Genital System"	"27010-27070"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Genital System"	"27010-27070"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Cervix Uteri"	"27010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	22
+	"Cervix Uteri"	"27010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	20
+	"Cervix Uteri"	"27010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Cervix Uteri"	"27010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Cervix Uteri"	"27010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Cervix Uteri"	"27010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Cervix Uteri"	"27010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	73
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	118
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	119
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	135
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	90
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	88
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	43
+	"Corpus Uteri"	"27020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	43
+	"Corpus Uteri"	"27020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Corpus Uteri"	"27020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	59
+	"Corpus Uteri"	"27020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	58
+	"Corpus Uteri"	"27020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	49
+	"Corpus Uteri"	"27020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	39
+	"Corpus Uteri"	"27020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Ovary"	"27040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Ovary"	"27040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	45
+	"Ovary"	"27040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Ovary"	"27040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	45
+	"Ovary"	"27040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Ovary"	"27040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	51
+	"Ovary"	"27040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Ovary"	"27040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Ovary"	"27040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Ovary"	"27040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Ovary"	"27040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	22
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	21
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	25
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	26
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	36
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	65
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	157
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	133
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	293
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	29
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	197
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	430
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	46
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	227
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	653
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	92
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	132
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	511
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	82
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	84
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	346
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	67
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	179
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	50
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	151
+	"Male Genital System"	"28010-28040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	53
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	64
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	127
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	184
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	221
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	150
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	92
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	49
+	"Male Genital System"	"28010-28040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	41
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	27
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	64
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	142
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	133
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	285
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	28
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	194
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	423
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	46
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	226
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	645
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	92
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	132
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	509
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	82
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	83
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	340
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	67
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	175
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	50
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	146
+	"Prostate"	"28010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	52
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	63
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	123
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	182
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	219
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	149
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	91
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	49
+	"Prostate"	"28010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	41
+	"Testis"	"28020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	17
+	"Testis"	"28020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	22
+	"Testis"	"28020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	20
+	"Testis"	"28020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	78
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	115
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	45
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	152
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	80
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	216
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	28
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	104
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	258
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	39
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	82
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	247
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	24
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	61
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	192
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	30
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	85
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	227
+	"Urinary System"	"29010-29040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	71
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	76
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	84
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	38
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	54
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	52
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	65
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	53
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	77
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	122
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	25
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	57
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	163
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	35
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	179
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	43
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	143
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	58
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	192
+	"Urinary Bladder, invasive and in situ"	"29010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	42
+	"Urinary Bladder, invasive and in situ"	"29010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	39
+	"Urinary Bladder, invasive and in situ"	"29010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	54
+	"Urinary Bladder, invasive and in situ"	"29010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Urinary Bladder, invasive and in situ"	"29010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	41
+	"Urinary Bladder, invasive and in situ"	"29010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	55
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	55
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	61
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	72
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	50
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	89
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	40
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	88
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	45
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	65
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	47
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Kidney and Renal Pelvis"	"29020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Kidney and Renal Pelvis"	"29020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Brain and Other Nervous System"	"31010-31040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Brain and Other Nervous System"	"31010-31040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Brain and Other Nervous System"	"31010-31040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"Brain and Other Nervous System"	"31010-31040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Brain and Other Nervous System"	"31010-31040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Brain and Other Nervous System"	"31010-31040"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Brain"	"31010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Brain"	"31010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Brain"	"31010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Brain"	"31010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Brain"	"31010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Brain"	"31010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	22
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	33
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	35
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	71
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	67
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	92
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	26
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	90
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	90
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	71
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	74
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	45
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Endocrine System"	"32010-32020"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Endocrine System"	"32010-32020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Endocrine System"	"32010-32020"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	21
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	32
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	35
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	71
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	66
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	90
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	26
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	88
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	88
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	69
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	71
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	44
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Thyroid"	"32010"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	39
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	57
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	75
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	59
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	68
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	77
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	97
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	105
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	84
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	135
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	96
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	107
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	99
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	99
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	90
+	"Lymphomas"	"33011-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	98
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	36
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	53
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	66
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	54
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	55
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	61
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	72
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	93
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	100
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	80
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	126
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	95
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	103
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	92
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	91
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	88
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	98
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	30
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	34
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	44
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	40
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	46
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	46
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	64
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	79
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	61
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	98
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	78
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	66
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	60
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	65
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	59
+	"NHL - Nodal"	"33041"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	77
+	"NHL - Nodal"	"33041"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"NHL - Nodal"	"33041"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	28
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	32
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"NHL - Extranodal"	"33042"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	33
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Myeloma"	"34000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	47
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	36
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	48
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	56
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	60
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	88
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	66
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	94
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	54
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	108
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	64
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	62
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	92
+	"Leukemias"	"35011-35043"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	89
+	"Leukemias"	"35011-35043"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Leukemias"	"35011-35043"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	43
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	48
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	37
+	"Chronic Lymphocytic Leukemia"	"35012"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	40
+	"Chronic Lymphocytic Leukemia"	"35012"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Acute Myeloid Leukemia"	"35021"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Acute Myeloid Leukemia"	"35021"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Acute Myeloid Leukemia"	"35021"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Acute Myeloid Leukemia"	"35021"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Acute Myeloid Leukemia"	"35021"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Acute Myeloid Leukemia"	"35021"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Acute Myeloid Leukemia"	"35021"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Acute Myeloid Leukemia"	"35021"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Acute Myeloid Leukemia"	"35021"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Chronic Myeloid Leukemia"	"35022"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Chronic Myeloid Leukemia"	"35022"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	47
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	61
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	72
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	77
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	88
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	122
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	113
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	135
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	107
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	135
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	124
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	122
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	225
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	21
+	"Miscellaneous"	"37000"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	227
+	"Miscellaneous"	"37000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Miscellaneous"	"37000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Miscellaneous"	"37000"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	50
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	86
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	107
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	93
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	101
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	139
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	88
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	67
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	32
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	31
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	49
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	51
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	50
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	86
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	107
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	93
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	101
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	139
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	88
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	67
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Milwaukee-Waukesha-West Allis, WI"	"33340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Miami-Fort Lauderdale-West Palm Beach, FL (33100); Milwaukee-Waukesha-West Allis, WI (33340)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 12:58:40 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 12:58:40 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

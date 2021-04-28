@@ -1,0 +1,49 @@
+﻿index,Cancer_Sites,Race,Gender,5-Year_Conditional_Relative_Survival
+10,Oral Cavity and Pharynx,All races,Male,0.856
+11,Oral Cavity and Pharynx,All races,Female,0.863
+19,Esophagus,All races,Male,0.758
+20,Esophagus,All races,Female,0.753
+28,Stomach,All races,Male,0.842
+29,Stomach,All races,Female,0.837
+37,Colon and Rectum,All races,Male,0.894
+38,Colon and Rectum,All races,Female,0.911
+46,Liver and Intrahepatic Bile Duct,All races,Male,0.697
+47,Liver and Intrahepatic Bile Duct,All races,Female,0.716
+55,Gallbladder,All races,Male,0.772
+56,Gallbladder,All races,Female,0.844
+64,Pancreas,All races,Male,0.688
+65,Pancreas,All races,Female,0.726
+73,Larynx,All races,Male,0.804
+74,Larynx,All races,Female,0.726
+82,Lung and Bronchus,All races,Male,0.651
+83,Lung and Bronchus,All races,Female,0.69
+91,Bones and Joints,All races,Male,0.908
+92,Bones and Joints,All races,Female,0.915
+100,Soft Tissue including Heart,All races,Male,0.913
+101,Soft Tissue including Heart,All races,Female,0.923
+118,Male and Female Breast,All races,Male,0.851
+119,Male and Female Breast,All races,Female,0.938
+127,Cervix Uteri,All races,Male,
+128,Cervix Uteri,All races,Female,0.937
+136,"Corpus and Uterus, NOS",All races,Male,
+137,"Corpus and Uterus, NOS",All races,Female,0.961
+145,Ovary,All races,Male,
+146,Ovary,All races,Female,0.793
+154,Prostate,All races,Male,0.996
+155,Prostate,All races,Female,
+163,Testis,All races,Male,0.996
+164,Testis,All races,Female,
+172,Urinary System,All races,Male,0.912
+173,Urinary System,All races,Female,0.924
+190,Eye and Orbit,All races,Male,0.899
+191,Eye and Orbit,All races,Female,0.899
+199,Brain and Other Nervous System,All races,Male,0.825
+200,Brain and Other Nervous System,All races,Female,0.862
+208,Endocrine System,All races,Male,0.984
+209,Endocrine System,All races,Female,0.998
+235,Myeloma,All races,Male,0.612
+236,Myeloma,All races,Female,0.607
+244,Leukemias,All races,Male,0.869
+245,Leukemias,All races,Female,0.893
+316,Mesothelioma,All races,Male,0.626
+317,Mesothelioma,All races,Female,0.61

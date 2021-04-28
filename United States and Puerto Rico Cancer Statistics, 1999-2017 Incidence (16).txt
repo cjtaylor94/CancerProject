@@ -1,0 +1,273 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	42
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	47
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	17
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	70
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	95
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	54
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	131
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	95
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	167
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	150
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	161
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	179
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	199
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	277
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	165
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	234
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	137
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	192
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	106
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	117
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	121
+	"All Invasive Cancer Sites Combined"	"0"	"El Paso, TX"	"21340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	96
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	57
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	69
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	85
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	94
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	73
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	102
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	61
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	121
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	74
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	104
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	74
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	93
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Fayetteville, NC"	"22180"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	29
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	50
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	41
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"El Paso, TX"	"21340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"El Paso, TX"	"21340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon excluding Rectum"	"21041-21049"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver"	"21071"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Respiratory System"	"22010-22060"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"El Paso, TX"	"21340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"El Paso, TX"	"21340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Respiratory System"	"22010-22060"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"Fayetteville, NC"	"22180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Respiratory System"	"22010-22060"	"Fayetteville, NC"	"22180"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"El Paso, TX"	"21340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"El Paso, TX"	"21340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Lung and Bronchus"	"22030"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Lung and Bronchus"	"22030"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Lung and Bronchus"	"22030"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Fayetteville, NC"	"22180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Fayetteville, NC"	"22180"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Male and Female Breast"	"26000"	"El Paso, TX"	"21340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	30
+	"Male and Female Breast"	"26000"	"El Paso, TX"	"21340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	36
+	"Male and Female Breast"	"26000"	"El Paso, TX"	"21340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	55
+	"Male and Female Breast"	"26000"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	61
+	"Male and Female Breast"	"26000"	"El Paso, TX"	"21340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	64
+	"Male and Female Breast"	"26000"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	62
+	"Male and Female Breast"	"26000"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	57
+	"Male and Female Breast"	"26000"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast"	"26000"	"El Paso, TX"	"21340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast"	"26000"	"El Paso, TX"	"21340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast"	"26000"	"Fayetteville, NC"	"22180"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Male and Female Breast"	"26000"	"Fayetteville, NC"	"22180"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Male and Female Breast"	"26000"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast"	"26000"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Male and Female Breast"	"26000"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"Male and Female Breast"	"26000"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast"	"26000"	"Fayetteville, NC"	"22180"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Breast"	"26000-Female"	"El Paso, TX"	"21340"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Breast"	"26000-Female"	"El Paso, TX"	"21340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Breast"	"26000-Female"	"El Paso, TX"	"21340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	55
+	"Female Breast"	"26000-Female"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	61
+	"Female Breast"	"26000-Female"	"El Paso, TX"	"21340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	64
+	"Female Breast"	"26000-Female"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	62
+	"Female Breast"	"26000-Female"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	57
+	"Female Breast"	"26000-Female"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast"	"26000-Female"	"El Paso, TX"	"21340"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast"	"26000-Female"	"El Paso, TX"	"21340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast"	"26000-Female"	"Fayetteville, NC"	"22180"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Breast"	"26000-Female"	"Fayetteville, NC"	"22180"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast"	"26000-Female"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast"	"26000-Female"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Breast"	"26000-Female"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Breast"	"26000-Female"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast"	"26000-Female"	"Fayetteville, NC"	"22180"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"El Paso, TX"	"21340"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Genital System"	"27010-27070"	"El Paso, TX"	"21340"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Genital System"	"27010-27070"	"El Paso, TX"	"21340"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Genital System"	"27010-27070"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Genital System"	"27010-27070"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Corpus Uteri"	"27020"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Male Genital System"	"28010-28040"	"El Paso, TX"	"21340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Male Genital System"	"28010-28040"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Male Genital System"	"28010-28040"	"El Paso, TX"	"21340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	64
+	"Male Genital System"	"28010-28040"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	120
+	"Male Genital System"	"28010-28040"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	87
+	"Male Genital System"	"28010-28040"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	52
+	"Male Genital System"	"28010-28040"	"El Paso, TX"	"21340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Male Genital System"	"28010-28040"	"El Paso, TX"	"21340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Fayetteville, NC"	"22180"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Male Genital System"	"28010-28040"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Male Genital System"	"28010-28040"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	37
+	"Male Genital System"	"28010-28040"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Male Genital System"	"28010-28040"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Male Genital System"	"28010-28040"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Prostate"	"28010"	"El Paso, TX"	"21340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Prostate"	"28010"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Prostate"	"28010"	"El Paso, TX"	"21340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	63
+	"Prostate"	"28010"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	119
+	"Prostate"	"28010"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	87
+	"Prostate"	"28010"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	52
+	"Prostate"	"28010"	"El Paso, TX"	"21340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Prostate"	"28010"	"El Paso, TX"	"21340"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Prostate"	"28010"	"Fayetteville, NC"	"22180"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Prostate"	"28010"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Prostate"	"28010"	"Fayetteville, NC"	"22180"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Prostate"	"28010"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	37
+	"Prostate"	"28010"	"Fayetteville, NC"	"22180"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Prostate"	"28010"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Prostate"	"28010"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Prostate"	"28010"	"Fayetteville, NC"	"22180"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"El Paso, TX"	"21340"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"El Paso, TX"	"21340"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Urinary System"	"29010-29040"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"El Paso, TX"	"21340"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"El Paso, TX"	"21340"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"El Paso, TX"	"21340"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Fayetteville, NC"	"22180"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Fayetteville, NC"	"22180"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Kidney and Renal Pelvis"	"29020"	"El Paso, TX"	"21340"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Miscellaneous"	"37000"	"El Paso, TX"	"21340"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"El Paso, TX"	"21340"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: El Paso, TX (21340); Fayetteville, NC (22180)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 9:32:16 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 9:32:16 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. These MSAs are missing data for the indicated years: Boise City, ID 1999-2002; Cape Coral-Fort Myers, FL 1999-2003;"
+"Chattanooga, TN-GA 1999-2005; Deltona-Daytona Beach-Ormond Beach, FL 1999-2000; Denver-Aurora-Lakewood, CO 1999-2001;"
+"Durham-Chapel Hill, NC 1999-2003; Fayetteville, NC 1999-2011; Fayetteville-Springdale-Rogers, AR-MO 1999-2015; Jackson, MS"
+"1999-2002; Kansas City, MO-KS 1999-2017; Lakeland-Winter Haven, FL 1999-2001; Lancaster, PA 1999-2005; Lexington-Fayette, KY"
+"1999-2014; Little Rock-North Little Rock-Conway, AR 1999-2000; Memphis, TN-MS-AR 1999-2002; Minneapolis-St. Paul-Bloomington,"
+"MN-WI 1999-2017; Modesto, CA 1999-2004; Ogden-Clearfield, UT 1999-2001; Palm Bay-Melbourne-Titusville, FL 1999-2002;"
+"Portland-South Portland, ME 1999-2001; Provo-Orem, UT 1999-2008; Santa Rosa, CA 1999-2014; Spokane-Spokane Valley, WA 1999-2007;"
+"Urban Honolulu, HI 1999; Wichita, KS 1999-2017."
+"6. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"7. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"8. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

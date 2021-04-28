@@ -1,0 +1,476 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	77
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	104
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	158
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	89
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	219
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	151
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	283
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	301
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	345
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	55
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	381
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	377
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	484
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	355
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	384
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	255
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	335
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	211
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	238
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	202
+	"All Invasive Cancer Sites Combined"	"0"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	191
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	64
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	56
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	95
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	113
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	57
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	154
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	152
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	244
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	236
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	323
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	321
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	284
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	407
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	262
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	307
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	206
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	238
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	177
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	160
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	191
+	"All Invasive Cancer Sites Combined"	"0"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	120
+	"Oral Cavity and Pharynx"	"20010-20100"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Oral Cavity and Pharynx"	"20010-20100"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	37
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	62
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	66
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	54
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	90
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	65
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	56
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	41
+	"Digestive System"	"21010-21130"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	36
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	48
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	71
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	68
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	41
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	49
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	45
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	53
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon excluding Rectum"	"21041-21049"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon excluding Rectum"	"21041-21049"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver"	"21071"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	63
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	64
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	76
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	73
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	68
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	78
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	52
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	54
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Respiratory System"	"22010-22060"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	50
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	51
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	60
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	53
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Respiratory System"	"22010-22060"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	41
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	57
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	62
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	68
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	69
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	62
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	46
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	73
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	51
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	51
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Lung and Bronchus"	"22030"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	50
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	60
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	49
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	33
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Lung and Bronchus"	"22030"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"Melanoma of the Skin"	"25010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Male and Female Breast"	"26000"	"Oklahoma City, OK"	"36420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	22
+	"Male and Female Breast"	"26000"	"Oklahoma City, OK"	"36420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	40
+	"Male and Female Breast"	"26000"	"Oklahoma City, OK"	"36420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	77
+	"Male and Female Breast"	"26000"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	76
+	"Male and Female Breast"	"26000"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	113
+	"Male and Female Breast"	"26000"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	127
+	"Male and Female Breast"	"26000"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	127
+	"Male and Female Breast"	"26000"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	104
+	"Male and Female Breast"	"26000"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	78
+	"Male and Female Breast"	"26000"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	48
+	"Male and Female Breast"	"26000"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast"	"26000"	"Omaha-Council Bluffs, NE-IA"	"36540"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast"	"26000"	"Omaha-Council Bluffs, NE-IA"	"36540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	51
+	"Male and Female Breast"	"26000"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	66
+	"Male and Female Breast"	"26000"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	81
+	"Male and Female Breast"	"26000"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	114
+	"Male and Female Breast"	"26000"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	90
+	"Male and Female Breast"	"26000"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	71
+	"Male and Female Breast"	"26000"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	57
+	"Male and Female Breast"	"26000"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast"	"26000"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Breast"	"26000-Female"	"Oklahoma City, OK"	"36420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Breast"	"26000-Female"	"Oklahoma City, OK"	"36420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Breast"	"26000-Female"	"Oklahoma City, OK"	"36420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	77
+	"Female Breast"	"26000-Female"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	76
+	"Female Breast"	"26000-Female"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	113
+	"Female Breast"	"26000-Female"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	127
+	"Female Breast"	"26000-Female"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	127
+	"Female Breast"	"26000-Female"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	104
+	"Female Breast"	"26000-Female"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	78
+	"Female Breast"	"26000-Female"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	48
+	"Female Breast"	"26000-Female"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast"	"26000-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast"	"26000-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Breast"	"26000-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	66
+	"Female Breast"	"26000-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	81
+	"Female Breast"	"26000-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	114
+	"Female Breast"	"26000-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	90
+	"Female Breast"	"26000-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	71
+	"Female Breast"	"26000-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	57
+	"Female Breast"	"26000-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast"	"26000-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Genital System"	"27010-27070"	"Oklahoma City, OK"	"36420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Genital System"	"27010-27070"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Genital System"	"27010-27070"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Genital System"	"27010-27070"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Genital System"	"27010-27070"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Genital System"	"27010-27070"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Genital System"	"27010-27070"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Genital System"	"27010-27070"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Genital System"	"27010-27070"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Corpus Uteri"	"27020"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Corpus Uteri"	"27020"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Corpus Uteri"	"27020"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Corpus Uteri"	"27020"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Corpus Uteri"	"27020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Corpus Uteri"	"27020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	29
+	"Male Genital System"	"28010-28040"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Male Genital System"	"28010-28040"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	82
+	"Male Genital System"	"28010-28040"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	117
+	"Male Genital System"	"28010-28040"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Male Genital System"	"28010-28040"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	149
+	"Male Genital System"	"28010-28040"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	94
+	"Male Genital System"	"28010-28040"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	66
+	"Male Genital System"	"28010-28040"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Male Genital System"	"28010-28040"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Male Genital System"	"28010-28040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Male Genital System"	"28010-28040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	75
+	"Male Genital System"	"28010-28040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	91
+	"Male Genital System"	"28010-28040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	134
+	"Male Genital System"	"28010-28040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	83
+	"Male Genital System"	"28010-28040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	51
+	"Male Genital System"	"28010-28040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Male Genital System"	"28010-28040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Prostate"	"28010"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Prostate"	"28010"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Prostate"	"28010"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	80
+	"Prostate"	"28010"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Prostate"	"28010"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	115
+	"Prostate"	"28010"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Prostate"	"28010"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	148
+	"Prostate"	"28010"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	94
+	"Prostate"	"28010"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	66
+	"Prostate"	"28010"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Prostate"	"28010"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Prostate"	"28010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Prostate"	"28010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	75
+	"Prostate"	"28010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	90
+	"Prostate"	"28010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	132
+	"Prostate"	"28010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	81
+	"Prostate"	"28010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	48
+	"Prostate"	"28010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Prostate"	"28010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Oklahoma City, OK"	"36420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary System"	"29010-29040"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	53
+	"Urinary System"	"29010-29040"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	54
+	"Urinary System"	"29010-29040"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Urinary System"	"29010-29040"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary System"	"29010-29040"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"Urinary System"	"29010-29040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Urinary System"	"29010-29040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Urinary System"	"29010-29040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Omaha-Council Bluffs, NE-IA"	"36540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary Bladder, invasive and in situ"	"29010"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Urinary Bladder, invasive and in situ"	"29010"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary Bladder, invasive and in situ"	"29010"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary Bladder, invasive and in situ"	"29010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary Bladder, invasive and in situ"	"29010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Omaha-Council Bluffs, NE-IA"	"36540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Kidney and Renal Pelvis"	"29020"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Oklahoma City, OK"	"36420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Omaha-Council Bluffs, NE-IA"	"36540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Oklahoma City, OK"	"36420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Oklahoma City, OK"	"36420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Oklahoma City, OK"	"36420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Oklahoma City, OK"	"36420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Oklahoma City, OK"	"36420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Oklahoma City, OK"	"36420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Omaha-Council Bluffs, NE-IA"	"36540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Oklahoma City, OK (36420); Omaha-Council Bluffs, NE-IA (36540)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 1:36:46 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 1:36:46 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

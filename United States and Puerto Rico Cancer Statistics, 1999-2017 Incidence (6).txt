@@ -1,0 +1,993 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	119
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	66
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	183
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	85
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	253
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	119
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	402
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	172
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	81
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	692
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	329
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	97
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	1023
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	87
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	770
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	101
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	1265
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	132
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	1227
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	108
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	1505
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	143
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1566
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	54
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	109
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1676
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	151
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1838
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	64
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	95
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	1501
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	102
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1600
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	80
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	1252
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	64
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1270
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	976
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	48
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	978
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	1179
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	866
+	"All Invasive Cancer Sites Combined"	"0"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	76
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	122
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	73
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	207
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	164
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	222
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	234
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	265
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	311
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	275
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	343
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	274
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	300
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	258
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	219
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	204
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	214
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	301
+	"All Invasive Cancer Sites Combined"	"0"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	195
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	49
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	83
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	76
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	82
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	40
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Oral Cavity and Pharynx"	"20010-20100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Tongue"	"20020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Tongue"	"20020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Tongue"	"20020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Tonsil"	"20070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Tonsil"	"20070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	69
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	89
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	126
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	169
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	141
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	219
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	155
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	286
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	213
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	319
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	201
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	280
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	205
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	242
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	201
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	204
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	303
+	"Digestive System"	"21010-21130"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	207
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	47
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	55
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	67
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	53
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	51
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	51
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	86
+	"Digestive System"	"21010-21130"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Esophagus"	"21010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Esophagus"	"21010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Esophagus"	"21010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Esophagus"	"21010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Esophagus"	"21010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Esophagus"	"21010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Stomach"	"21020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Stomach"	"21020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Stomach"	"21020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Stomach"	"21020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Stomach"	"21020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Stomach"	"21020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Stomach"	"21020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Stomach"	"21020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	40
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	54
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	86
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	97
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	60
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	101
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	73
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	86
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	84
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	110
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	87
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	89
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	88
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	97
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	99
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	77
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	151
+	"Colon and Rectum"	"21041-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	96
+	"Colon and Rectum"	"21041-21052"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	43
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	59
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	52
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	55
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	54
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	60
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	64
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	78
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	62
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	67
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	70
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	72
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	80
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	63
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	131
+	"Colon excluding Rectum"	"21041-21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	77
+	"Colon excluding Rectum"	"21041-21049"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	37
+	"Cecum"	"21041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Cecum"	"21041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Cecum"	"21041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Cecum"	"21041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Cecum"	"21041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Cecum"	"21041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	37
+	"Cecum"	"21041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	25
+	"Ascending Colon"	"21043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Ascending Colon"	"21043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Ascending Colon"	"21043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Ascending Colon"	"21043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Ascending Colon"	"21043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Ascending Colon"	"21043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Transverse Colon"	"21045"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Sigmoid Colon"	"21048"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Sigmoid Colon"	"21048"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Sigmoid Colon"	"21048"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Sigmoid Colon"	"21048"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Large Intestine, NOS"	"21049"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	27
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	45
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	38
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	36
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	56
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	50
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	38
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	25
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver"	"21071"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Liver"	"21071"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	49
+	"Liver"	"21071"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Liver"	"21071"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Liver"	"21071"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Liver"	"21071"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	54
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	57
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	59
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	46
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	62
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	46
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	47
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	41
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	56
+	"Pancreas"	"21100"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	41
+	"Pancreas"	"21100"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Pancreas"	"21100"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	68
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	73
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	160
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	136
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	239
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	209
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	286
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	276
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	318
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	288
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	286
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	237
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	199
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	176
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	193
+	"Respiratory System"	"22010-22060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	150
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	34
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	43
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	41
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Respiratory System"	"22010-22060"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Larynx"	"22020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Larynx"	"22020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Larynx"	"22020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Larynx"	"22020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	31
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	63
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	56
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	155
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	113
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	230
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	184
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	279
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	258
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	315
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	270
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	281
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	222
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	198
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	167
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	189
+	"Lung and Bronchus"	"22030"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	142
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	43
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	40
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	43
+	"Lung and Bronchus"	"22030"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	49
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	59
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	69
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	61
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	60
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	91
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	65
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	99
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	47
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	97
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	53
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	85
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	48
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	76
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	59
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	86
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	28
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	49
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	58
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	63
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	60
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	56
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	83
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	60
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	95
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	45
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	87
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	51
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	84
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	45
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	65
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	46
+	"Melanoma of the Skin"	"25010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	70
+	"Melanoma of the Skin"	"25010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Melanoma of the Skin"	"25010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Other Non-Epithelial Skin"	"25020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	24
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	43
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	83
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	173
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	349
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	434
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	436
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	503
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	545
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	472
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	310
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	214
+	"Male and Female Breast"	"26000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	221
+	"Male and Female Breast"	"26000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast"	"26000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	46
+	"Male and Female Breast"	"26000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	70
+	"Male and Female Breast"	"26000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	107
+	"Male and Female Breast"	"26000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	82
+	"Male and Female Breast"	"26000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	90
+	"Male and Female Breast"	"26000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	96
+	"Male and Female Breast"	"26000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	79
+	"Male and Female Breast"	"26000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	68
+	"Male and Female Breast"	"26000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	40
+	"Male and Female Breast"	"26000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	45
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	83
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	173
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	349
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	434
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	436
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	503
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	545
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	472
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	310
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	214
+	"Female Breast"	"26000-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	221
+	"Female Breast"	"26000-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast"	"26000-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	46
+	"Female Breast"	"26000-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	70
+	"Female Breast"	"26000-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	107
+	"Female Breast"	"26000-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	82
+	"Female Breast"	"26000-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	90
+	"Female Breast"	"26000-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	96
+	"Female Breast"	"26000-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	79
+	"Female Breast"	"26000-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	68
+	"Female Breast"	"26000-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Breast"	"26000-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	45
+	"Female Genital System"	"27010-27070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Genital System"	"27010-27070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Genital System"	"27010-27070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	74
+	"Female Genital System"	"27010-27070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	149
+	"Female Genital System"	"27010-27070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	188
+	"Female Genital System"	"27010-27070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	217
+	"Female Genital System"	"27010-27070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	219
+	"Female Genital System"	"27010-27070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	162
+	"Female Genital System"	"27010-27070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	113
+	"Female Genital System"	"27010-27070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	85
+	"Female Genital System"	"27010-27070"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	100
+	"Female Genital System"	"27010-27070"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Genital System"	"27010-27070"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Genital System"	"27010-27070"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Genital System"	"27010-27070"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Genital System"	"27010-27070"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Cervix Uteri"	"27010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	36
+	"Corpus Uteri"	"27020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	93
+	"Corpus Uteri"	"27020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	126
+	"Corpus Uteri"	"27020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	147
+	"Corpus Uteri"	"27020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	154
+	"Corpus Uteri"	"27020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	106
+	"Corpus Uteri"	"27020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	67
+	"Corpus Uteri"	"27020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	45
+	"Corpus Uteri"	"27020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	40
+	"Corpus Uteri"	"27020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Corpus Uteri"	"27020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Ovary"	"27040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	26
+	"Ovary"	"27040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	26
+	"Ovary"	"27040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	37
+	"Ovary"	"27040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Ovary"	"27040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"Ovary"	"27040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Ovary"	"27040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Ovary"	"27040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Ovary"	"27040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	29
+	"Vulva"	"27060"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	19
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	36
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	180
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	67
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	377
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	67
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	490
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	31
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	85
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	574
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	40
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	416
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	27
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	234
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	133
+	"Male Genital System"	"28010-28040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	100
+	"Male Genital System"	"28010-28040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	45
+	"Male Genital System"	"28010-28040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	58
+	"Male Genital System"	"28010-28040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Male Genital System"	"28010-28040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	96
+	"Male Genital System"	"28010-28040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Male Genital System"	"28010-28040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	121
+	"Male Genital System"	"28010-28040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	101
+	"Male Genital System"	"28010-28040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Male Genital System"	"28010-28040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Male Genital System"	"28010-28040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	34
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	28
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	171
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	67
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	368
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	67
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	484
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	31
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	85
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	566
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	40
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	409
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	27
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	226
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	128
+	"Prostate"	"28010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	96
+	"Prostate"	"28010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	43
+	"Prostate"	"28010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	55
+	"Prostate"	"28010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Prostate"	"28010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	95
+	"Prostate"	"28010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Prostate"	"28010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	120
+	"Prostate"	"28010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	101
+	"Prostate"	"28010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Prostate"	"28010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	33
+	"Prostate"	"28010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	33
+	"Testis"	"28020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	16
+	"Testis"	"28020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	19
+	"Testis"	"28020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	39
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	39
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	92
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	48
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	137
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	86
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	175
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	94
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	222
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	76
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	215
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	74
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	214
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	62
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	173
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	71
+	"Urinary System"	"29010-29040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	125
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	44
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	48
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	34
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	65
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	96
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	56
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	124
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	42
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	148
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	52
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	157
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	137
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	46
+	"Urinary Bladder, invasive and in situ"	"29010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	109
+	"Urinary Bladder, invasive and in situ"	"29010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Urinary Bladder, invasive and in situ"	"29010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Urinary Bladder, invasive and in situ"	"29010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Urinary Bladder, invasive and in situ"	"29010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary Bladder, invasive and in situ"	"29010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary Bladder, invasive and in situ"	"29010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	27
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	57
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	71
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	50
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	72
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	96
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	62
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	50
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Kidney and Renal Pelvis"	"29020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Brain and Other Nervous System"	"31010-31040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Brain and Other Nervous System"	"31010-31040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Brain and Other Nervous System"	"31010-31040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Brain and Other Nervous System"	"31010-31040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Brain and Other Nervous System"	"31010-31040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	24
+	"Brain and Other Nervous System"	"31010-31040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Brain and Other Nervous System"	"31010-31040"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Brain"	"31010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Brain"	"31010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Brain"	"31010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Brain"	"31010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Brain"	"31010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Brain"	"31010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Brain"	"31010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	22
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	38
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	54
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	59
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	62
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	21
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	59
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	60
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	28
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	66
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	70
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	38
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	51
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Endocrine System"	"32010-32020"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	21
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	38
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	54
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	59
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	62
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	20
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	59
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	60
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	65
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	69
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	51
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	33
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	47
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	41
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	54
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	54
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	73
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	69
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	73
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	58
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	88
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	60
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	68
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	40
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	52
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	63
+	"Lymphomas"	"33011-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	48
+	"Lymphomas"	"33011-33042"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	42
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	52
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	50
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	66
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	66
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	70
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	57
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	83
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	58
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	66
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	40
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	49
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	62
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	48
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	35
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	45
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	45
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	39
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	54
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	33
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	36
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	38
+	"NHL - Nodal"	"33041"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"NHL - Nodal"	"33041"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"NHL - Extranodal"	"33042"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Myeloma"	"34000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Myeloma"	"34000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Myeloma"	"34000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Myeloma"	"34000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Myeloma"	"34000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Myeloma"	"34000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Myeloma"	"34000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Myeloma"	"34000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	45
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	33
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Leukemias"	"35011-35043"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Chronic Lymphocytic Leukemia"	"35012"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Chronic Lymphocytic Leukemia"	"35012"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Chronic Lymphocytic Leukemia"	"35012"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Acute Myeloid Leukemia"	"35021"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Acute Myeloid Leukemia"	"35021"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	35
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	47
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	43
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	44
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	43
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	52
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	69
+	"Miscellaneous"	"37000"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	58
+	"Miscellaneous"	"37000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	93
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	137
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	157
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	132
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	149
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	141
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	116
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	56
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	93
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	137
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	157
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	132
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	149
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	141
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	116
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Boston-Cambridge-Newton, MA-NH"	"14460"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Bridgeport-Stamford-Norwalk, CT"	"14860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Boston-Cambridge-Newton, MA-NH (14460); Bridgeport-Stamford-Norwalk, CT (14860)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 24, 2021 9:29:35 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 24, 2021 9:29:35 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

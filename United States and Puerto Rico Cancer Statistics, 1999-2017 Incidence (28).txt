@@ -1,0 +1,428 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	38
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	56
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	58
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	23
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	83
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	42
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	71
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	68
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	124
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	111
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	142
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	121
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	194
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	196
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	122
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	156
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	116
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	142
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	67
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	80
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	90
+	"All Invasive Cancer Sites Combined"	"0"	"McAllen-Edinburg-Mission, TX"	"32580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	96
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	54
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	63
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	89
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	107
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	57
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	134
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	139
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	112
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	117
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	196
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	184
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	192
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	197
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	177
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	212
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	276
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	291
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	209
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	279
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	259
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	366
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	125
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	245
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	171
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	340
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	99
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	184
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	104
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	230
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	81
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	146
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	138
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	80
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	179
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	119
+	"Oral Cavity and Pharynx"	"20010-20100"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	49
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	51
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"McAllen-Edinburg-Mission, TX"	"32580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	51
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	69
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	37
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	59
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	51
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	56
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	47
+	"Digestive System"	"21010-21130"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon and Rectum"	"21041-21052"	"McAllen-Edinburg-Mission, TX"	"32580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"McAllen-Edinburg-Mission, TX"	"32580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Colon excluding Rectum"	"21041-21049"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Colon excluding Rectum"	"21041-21049"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Colon excluding Rectum"	"21041-21049"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Colon excluding Rectum"	"21041-21049"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver"	"21071"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Respiratory System"	"22010-22060"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"McAllen-Edinburg-Mission, TX"	"32580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"McAllen-Edinburg-Mission, TX"	"32580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	50
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	49
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	61
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	39
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	65
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	60
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Lung and Bronchus"	"22030"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"McAllen-Edinburg-Mission, TX"	"32580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Lung and Bronchus"	"22030"	"McAllen-Edinburg-Mission, TX"	"32580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	45
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	60
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	39
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	61
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	53
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	30
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"McAllen-Edinburg-Mission, TX"	"32580"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Male and Female Breast"	"26000"	"McAllen-Edinburg-Mission, TX"	"32580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Male and Female Breast"	"26000"	"McAllen-Edinburg-Mission, TX"	"32580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	40
+	"Male and Female Breast"	"26000"	"McAllen-Edinburg-Mission, TX"	"32580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Male and Female Breast"	"26000"	"McAllen-Edinburg-Mission, TX"	"32580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"Male and Female Breast"	"26000"	"McAllen-Edinburg-Mission, TX"	"32580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast"	"26000"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	48
+	"Male and Female Breast"	"26000"	"McAllen-Edinburg-Mission, TX"	"32580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	37
+	"Male and Female Breast"	"26000"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	41
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	46
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	48
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	49
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	57
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	68
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	95
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	78
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	37
+	"Male and Female Breast"	"26000"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast"	"26000-Female"	"McAllen-Edinburg-Mission, TX"	"32580"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Breast"	"26000-Female"	"McAllen-Edinburg-Mission, TX"	"32580"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Breast"	"26000-Female"	"McAllen-Edinburg-Mission, TX"	"32580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Breast"	"26000-Female"	"McAllen-Edinburg-Mission, TX"	"32580"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Breast"	"26000-Female"	"McAllen-Edinburg-Mission, TX"	"32580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Breast"	"26000-Female"	"McAllen-Edinburg-Mission, TX"	"32580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast"	"26000-Female"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	48
+	"Female Breast"	"26000-Female"	"McAllen-Edinburg-Mission, TX"	"32580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Breast"	"26000-Female"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	41
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	46
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	48
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	57
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	68
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	95
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	78
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Breast"	"26000-Female"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Genital System"	"27010-27070"	"McAllen-Edinburg-Mission, TX"	"32580"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"McAllen-Edinburg-Mission, TX"	"32580"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"McAllen-Edinburg-Mission, TX"	"32580"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Genital System"	"27010-27070"	"McAllen-Edinburg-Mission, TX"	"32580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Genital System"	"27010-27070"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Genital System"	"27010-27070"	"McAllen-Edinburg-Mission, TX"	"32580"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Memphis, TN-MS-AR"	"32820"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Genital System"	"27010-27070"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Female Genital System"	"27010-27070"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Female Genital System"	"27010-27070"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Genital System"	"27010-27070"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Genital System"	"27010-27070"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Female Genital System"	"27010-27070"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Female Genital System"	"27010-27070"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Corpus Uteri"	"27020"	"McAllen-Edinburg-Mission, TX"	"32580"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Corpus Uteri"	"27020"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Corpus Uteri"	"27020"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Corpus Uteri"	"27020"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male Genital System"	"28010-28040"	"McAllen-Edinburg-Mission, TX"	"32580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Male Genital System"	"28010-28040"	"McAllen-Edinburg-Mission, TX"	"32580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Male Genital System"	"28010-28040"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	71
+	"Male Genital System"	"28010-28040"	"McAllen-Edinburg-Mission, TX"	"32580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Male Genital System"	"28010-28040"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Male Genital System"	"28010-28040"	"McAllen-Edinburg-Mission, TX"	"32580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"McAllen-Edinburg-Mission, TX"	"32580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	35
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	65
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	57
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	108
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	101
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	107
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	111
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	57
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	89
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	45
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Male Genital System"	"28010-28040"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Prostate"	"28010"	"McAllen-Edinburg-Mission, TX"	"32580"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Prostate"	"28010"	"McAllen-Edinburg-Mission, TX"	"32580"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Prostate"	"28010"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	70
+	"Prostate"	"28010"	"McAllen-Edinburg-Mission, TX"	"32580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Prostate"	"28010"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Prostate"	"28010"	"McAllen-Edinburg-Mission, TX"	"32580"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Prostate"	"28010"	"McAllen-Edinburg-Mission, TX"	"32580"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	33
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	64
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	56
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	106
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	100
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	106
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	109
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	57
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	89
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	45
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Prostate"	"28010"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"McAllen-Edinburg-Mission, TX"	"32580"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"McAllen-Edinburg-Mission, TX"	"32580"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"McAllen-Edinburg-Mission, TX"	"32580"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	49
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	47
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Urinary Bladder, invasive and in situ"	"29010"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary Bladder, invasive and in situ"	"29010"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary Bladder, invasive and in situ"	"29010"	"Memphis, TN-MS-AR"	"32820"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Memphis, TN-MS-AR"	"32820"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"Urinary Bladder, invasive and in situ"	"29010"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Kidney and Renal Pelvis"	"29020"	"Memphis, TN-MS-AR"	"32820"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Memphis, TN-MS-AR"	"32820"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Memphis, TN-MS-AR"	"32820"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Memphis, TN-MS-AR"	"32820"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Memphis, TN-MS-AR"	"32820"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Memphis, TN-MS-AR"	"32820"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: McAllen-Edinburg-Mission, TX (32580); Memphis, TN-MS-AR (32820)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 12:42:07 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 12:42:07 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. These MSAs are missing data for the indicated years: Boise City, ID 1999-2002; Cape Coral-Fort Myers, FL 1999-2003;"
+"Chattanooga, TN-GA 1999-2005; Deltona-Daytona Beach-Ormond Beach, FL 1999-2000; Denver-Aurora-Lakewood, CO 1999-2001;"
+"Durham-Chapel Hill, NC 1999-2003; Fayetteville, NC 1999-2011; Fayetteville-Springdale-Rogers, AR-MO 1999-2015; Jackson, MS"
+"1999-2002; Kansas City, MO-KS 1999-2017; Lakeland-Winter Haven, FL 1999-2001; Lancaster, PA 1999-2005; Lexington-Fayette, KY"
+"1999-2014; Little Rock-North Little Rock-Conway, AR 1999-2000; Memphis, TN-MS-AR 1999-2002; Minneapolis-St. Paul-Bloomington,"
+"MN-WI 1999-2017; Modesto, CA 1999-2004; Ogden-Clearfield, UT 1999-2001; Palm Bay-Melbourne-Titusville, FL 1999-2002;"
+"Portland-South Portland, ME 1999-2001; Provo-Orem, UT 1999-2008; Santa Rosa, CA 1999-2014; Spokane-Spokane Valley, WA 1999-2007;"
+"Urban Honolulu, HI 1999; Wichita, KS 1999-2017."
+"6. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"7. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"8. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

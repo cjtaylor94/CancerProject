@@ -1,0 +1,1272 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	57
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	103
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	78
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	126
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	171
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	142
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	194
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	185
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	269
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	165
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	206
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	118
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	150
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	84
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	120
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	109
+	"All Invasive Cancer Sites Combined"	"0"	"Chattanooga, TN-GA"	"16860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	77
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"< 1 year"	"1"	"Male"	"M"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	46
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	76
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	73
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"20-24 years"	"20-24"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	103
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"20-24 years"	"20-24"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	108
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	181
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"25-29 years"	"25-29"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	149
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	70
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	353
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	202
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	90
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	473
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	224
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	151
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	692
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	362
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	266
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	1092
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	149
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	617
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	393
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	1620
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	328
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	1227
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	537
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	2067
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	554
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	1944
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	41
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	640
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	2338
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	729
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	2600
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	635
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	2600
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	729
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	3081
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	43
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	555
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	2262
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	521
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	2626
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	441
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	1875
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	383
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	2017
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	327
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	1525
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	236
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	1447
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	287
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	1781
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	185
+	"All Invasive Cancer Sites Combined"	"0"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	1519
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	46
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	66
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	120
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	125
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	36
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	106
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	81
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	50
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	35
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Oral Cavity and Pharynx"	"20010-20100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Tongue"	"20020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Tongue"	"20020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	50
+	"Tongue"	"20020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Tongue"	"20020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	37
+	"Tongue"	"20020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	30
+	"Tongue"	"20020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Tonsil"	"20070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Tonsil"	"20070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Tonsil"	"20070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	42
+	"Tonsil"	"20070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Digestive System"	"21010-21130"	"Chattanooga, TN-GA"	"16860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	33
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	84
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	83
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	124
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	135
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	85
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	230
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	77
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	299
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	107
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	265
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	121
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	425
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	119
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	319
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	156
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	523
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	128
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	409
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	151
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	583
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	129
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	392
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	119
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	485
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	94
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	372
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	109
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	401
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	80
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	343
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	58
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	291
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	92
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	461
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	63
+	"Digestive System"	"21010-21130"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	356
+	"Esophagus"	"21010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Esophagus"	"21010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Esophagus"	"21010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	54
+	"Esophagus"	"21010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Esophagus"	"21010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Esophagus"	"21010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"Esophagus"	"21010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Esophagus"	"21010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	58
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	51
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	47
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	24
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Stomach"	"21020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	44
+	"Small Intestine"	"21030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	58
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	45
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	73
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	79
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	137
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	173
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	122
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	52
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	210
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	56
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	152
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	60
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	226
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	67
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	201
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	74
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	258
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	72
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	191
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	204
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	169
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	173
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	174
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	144
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	239
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Colon and Rectum"	"21041-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	165
+	"Colon excluding Rectum"	"21041-21049"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	36
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	45
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	40
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	83
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	109
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	80
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	119
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	107
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	132
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	144
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	194
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	57
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	146
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	147
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	131
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	139
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	146
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	116
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	193
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Colon excluding Rectum"	"21041-21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	123
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	37
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	31
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	30
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	51
+	"Cecum"	"21041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	40
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	38
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Ascending Colon"	"21043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	30
+	"Transverse Colon"	"21045"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Transverse Colon"	"21045"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	26
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	48
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	53
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	74
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	37
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	40
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	35
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Sigmoid Colon"	"21048"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	25
+	"Large Intestine, NOS"	"21049"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	22
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	28
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	39
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	54
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	64
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	42
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	91
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	45
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	94
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	57
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	64
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	45
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	57
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	38
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	34
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	46
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	42
+	"Rectosigmoid Junction"	"21051"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Rectosigmoid Junction"	"21051"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectosigmoid Junction"	"21051"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	22
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	31
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	46
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	36
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	65
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	34
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	74
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	44
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	51
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	35
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	30
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	26
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	34
+	"Rectum"	"21052"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Anus, Anal Canal and Anorectum"	"21060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Anus, Anal Canal and Anorectum"	"21060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Anus, Anal Canal and Anorectum"	"21060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	58
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	90
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	34
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	89
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	57
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	33
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	32
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	52
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	76
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	72
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	22
+	"Liver"	"21071"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Intrahepatic Bile Duct"	"21072"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Gallbladder"	"21080"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Other Biliary"	"21090"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Other Biliary"	"21090"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Other Biliary"	"21090"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	45
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	44
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	48
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	69
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	68
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	82
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	75
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	96
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	63
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	77
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	69
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	55
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	96
+	"Pancreas"	"21100"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	76
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	44
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	55
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	45
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	28
+	"Respiratory System"	"22010-22060"	"Chattanooga, TN-GA"	"16860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	39
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	40
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	89
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	102
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	70
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	188
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	79
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	207
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	100
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	257
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	108
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	329
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	119
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	411
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	126
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	448
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	118
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	450
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	113
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	441
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	99
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	388
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	99
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	389
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	57
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	294
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	63
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	306
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	283
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Respiratory System"	"22010-22060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	228
+	"Larynx"	"22020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Larynx"	"22020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Larynx"	"22020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Larynx"	"22020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	37
+	"Larynx"	"22020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Larynx"	"22020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Larynx"	"22020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	42
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	44
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	38
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	88
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	85
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	184
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	71
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	174
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	92
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	245
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	90
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	288
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	113
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	396
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	114
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	402
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	115
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	440
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	103
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	411
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	98
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	382
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	91
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	369
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	55
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	289
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	57
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	285
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	274
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Lung and Bronchus"	"22030"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	208
+	"Soft Tissue including Heart"	"24000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Soft Tissue including Heart"	"24000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	35
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	47
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	30
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	52
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	54
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	66
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	56
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	108
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	90
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	92
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	109
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	101
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	140
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	90
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	171
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	58
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	156
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	54
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	113
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	57
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	85
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	63
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	118
+	"Melanoma of the Skin"	"25010"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	46
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	28
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	52
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	53
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	64
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	54
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	108
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	87
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	88
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	107
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	93
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	134
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	83
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	169
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	55
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	146
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	46
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	100
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	48
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	76
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	52
+	"Melanoma of the Skin"	"25010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	108
+	"Male and Female Breast"	"26000"	"Chattanooga, TN-GA"	"16860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast"	"26000"	"Chattanooga, TN-GA"	"16860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast"	"26000"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	44
+	"Male and Female Breast"	"26000"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast"	"26000"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	54
+	"Male and Female Breast"	"26000"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	41
+	"Male and Female Breast"	"26000"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast"	"26000"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Male and Female Breast"	"26000"	"Chattanooga, TN-GA"	"16860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	99
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	166
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	59
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	271
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	113
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	474
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	144
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	651
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	193
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	743
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	215
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	801
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	173
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	790
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	137
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	601
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	106
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	469
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	74
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	321
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Male and Female Breast"	"26000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	300
+	"Female Breast"	"26000-Female"	"Chattanooga, TN-GA"	"16860"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast"	"26000-Female"	"Chattanooga, TN-GA"	"16860"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast"	"26000-Female"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	44
+	"Female Breast"	"26000-Female"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast"	"26000-Female"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	54
+	"Female Breast"	"26000-Female"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	41
+	"Female Breast"	"26000-Female"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast"	"26000-Female"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Breast"	"26000-Female"	"Chattanooga, TN-GA"	"16860"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	99
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	166
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	59
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	271
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	113
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	474
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	144
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	651
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	193
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	743
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	215
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	801
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	173
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	790
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	137
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	601
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	106
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	469
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	74
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	321
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Female Breast"	"26000-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	300
+	"Female Genital System"	"27010-27070"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	45
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	69
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	96
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	162
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	56
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	222
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	76
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	342
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	99
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	381
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	86
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	365
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	253
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	171
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	124
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Female Genital System"	"27010-27070"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	137
+	"Cervix Uteri"	"27010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	18
+	"Cervix Uteri"	"27010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	26
+	"Cervix Uteri"	"27010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	31
+	"Cervix Uteri"	"27010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Cervix Uteri"	"27010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	37
+	"Cervix Uteri"	"27010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Cervix Uteri"	"27010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Cervix Uteri"	"27010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Cervix Uteri"	"27010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	31
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	39
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	84
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	132
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	47
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	230
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	237
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	62
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	235
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	151
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	92
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	54
+	"Corpus Uteri"	"27020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	44
+	"Ovary"	"27040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Ovary"	"27040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Ovary"	"27040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Ovary"	"27040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	55
+	"Ovary"	"27040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	78
+	"Ovary"	"27040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	67
+	"Ovary"	"27040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	56
+	"Ovary"	"27040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	40
+	"Ovary"	"27040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"Ovary"	"27040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	42
+	"Vulva"	"27060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Vulva"	"27060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Vulva"	"27060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Vulva"	"27060"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Male Genital System"	"28010-28040"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	47
+	"Male Genital System"	"28010-28040"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	43
+	"Male Genital System"	"28010-28040"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	78
+	"Male Genital System"	"28010-28040"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	66
+	"Male Genital System"	"28010-28040"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Male Genital System"	"28010-28040"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	39
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	55
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	58
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	51
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	39
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	91
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	112
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	306
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	229
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	565
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	330
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	827
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	298
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	977
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	169
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	705
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	87
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	402
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	174
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Male Genital System"	"28010-28040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	182
+	"Prostate"	"28010"	"Chattanooga, TN-GA"	"16860"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Prostate"	"28010"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	43
+	"Prostate"	"28010"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Prostate"	"28010"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	77
+	"Prostate"	"28010"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	66
+	"Prostate"	"28010"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Prostate"	"28010"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	67
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	111
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	285
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	229
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	549
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	328
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	821
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	296
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	973
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	169
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	700
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	87
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	397
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	171
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Prostate"	"28010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	179
+	"Testis"	"28020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	39
+	"Testis"	"28020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	55
+	"Testis"	"28020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	57
+	"Testis"	"28020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	48
+	"Testis"	"28020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	27
+	"Testis"	"28020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Testis"	"28020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Urinary System"	"29010-29040"	"Chattanooga, TN-GA"	"16860"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Urinary System"	"29010-29040"	"Chattanooga, TN-GA"	"16860"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary System"	"29010-29040"	"Chattanooga, TN-GA"	"16860"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Chattanooga, TN-GA"	"16860"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	53
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	88
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	46
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	143
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	98
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	212
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	104
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	296
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	140
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	353
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	130
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	357
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	108
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	304
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	107
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	258
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	128
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Urinary System"	"29010-29040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	263
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chattanooga, TN-GA"	"16860"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chattanooga, TN-GA"	"16860"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	62
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	41
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	94
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	44
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	128
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	65
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	224
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	68
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	238
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	59
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	211
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	67
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	187
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	99
+	"Urinary Bladder, invasive and in situ"	"29010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	207
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	41
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	60
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	79
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	55
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	114
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	57
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	165
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	71
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	122
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	57
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	112
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	84
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	35
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	64
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	49
+	"Brain and Other Nervous System"	"31010-31040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Brain and Other Nervous System"	"31010-31040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Brain and Other Nervous System"	"31010-31040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Brain and Other Nervous System"	"31010-31040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Brain and Other Nervous System"	"31010-31040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Brain and Other Nervous System"	"31010-31040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Brain and Other Nervous System"	"31010-31040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Brain and Other Nervous System"	"31010-31040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Brain and Other Nervous System"	"31010-31040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Brain and Other Nervous System"	"31010-31040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Brain and Other Nervous System"	"31010-31040"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Brain"	"31010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"Brain"	"31010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Brain"	"31010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Brain"	"31010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Brain"	"31010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	33
+	"Brain"	"31010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	34
+	"Brain"	"31010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Brain"	"31010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Brain"	"31010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Brain"	"31010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Brain"	"31010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	24
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	28
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	57
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	72
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	25
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	71
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	23
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	74
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	23
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	97
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	28
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	103
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	41
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	100
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	79
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	57
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	40
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	42
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	24
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	28
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	55
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	72
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	22
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	70
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	23
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	74
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	22
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	95
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	27
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	103
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	41
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	98
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	36
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	76
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	54
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	39
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Thyroid"	"32010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	43
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	32
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	50
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	53
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	74
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	62
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	86
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	86
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	107
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	112
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	124
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	106
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	133
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	84
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	127
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	97
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	91
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	101
+	"Lymphomas"	"33011-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	98
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	33
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	40
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	52
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	64
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	59
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	81
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	84
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	100
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	108
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	114
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	101
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	129
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	82
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	122
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	92
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	90
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	99
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	93
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	21
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	45
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	56
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	61
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	72
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	74
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	71
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	67
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	90
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	58
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	83
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	58
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	69
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	59
+	"NHL - Nodal"	"33041"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	66
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	24
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	34
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	21
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	40
+	"NHL - Extranodal"	"33042"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	27
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	35
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	38
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	33
+	"Myeloma"	"34000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	24
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	21
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	38
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	51
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	36
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	69
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	56
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	82
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	60
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	70
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	62
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	36
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	64
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	61
+	"Leukemias"	"35011-35043"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	64
+	"Acute Lymphocytic Leukemia"	"35011"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	19
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Chronic Lymphocytic Leukemia"	"35012"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	20
+	"Acute Myeloid Leukemia"	"35021"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Acute Myeloid Leukemia"	"35021"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Acute Myeloid Leukemia"	"35021"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Acute Myeloid Leukemia"	"35021"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	29
+	"Acute Myeloid Leukemia"	"35021"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Acute Myeloid Leukemia"	"35021"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Acute Myeloid Leukemia"	"35021"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Acute Myeloid Leukemia"	"35021"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Acute Myeloid Leukemia"	"35021"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Acute Myeloid Leukemia"	"35021"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Mesothelioma"	"36010"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	48
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	48
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	52
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	84
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	63
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	68
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	74
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	71
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	75
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	67
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	135
+	"Miscellaneous"	"37000"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	97
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	113
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	179
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	196
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	181
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	177
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	199
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	159
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	84
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	53
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	113
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	179
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	196
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	50
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	181
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	177
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	199
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	159
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	84
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	53
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Chattanooga, TN-GA (16860); Chicago-Naperville-Elgin, IL-IN-WI (16980)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 24, 2021 9:51:17 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 24, 2021 9:51:17 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. These MSAs are missing data for the indicated years: Boise City, ID 1999-2002; Cape Coral-Fort Myers, FL 1999-2003;"
+"Chattanooga, TN-GA 1999-2005; Deltona-Daytona Beach-Ormond Beach, FL 1999-2000; Denver-Aurora-Lakewood, CO 1999-2001;"
+"Durham-Chapel Hill, NC 1999-2003; Fayetteville, NC 1999-2011; Fayetteville-Springdale-Rogers, AR-MO 1999-2015; Jackson, MS"
+"1999-2002; Kansas City, MO-KS 1999-2017; Lakeland-Winter Haven, FL 1999-2001; Lancaster, PA 1999-2005; Lexington-Fayette, KY"
+"1999-2014; Little Rock-North Little Rock-Conway, AR 1999-2000; Memphis, TN-MS-AR 1999-2002; Minneapolis-St. Paul-Bloomington,"
+"MN-WI 1999-2017; Modesto, CA 1999-2004; Ogden-Clearfield, UT 1999-2001; Palm Bay-Melbourne-Titusville, FL 1999-2002;"
+"Portland-South Portland, ME 1999-2001; Provo-Orem, UT 1999-2008; Santa Rosa, CA 1999-2014; Spokane-Spokane Valley, WA 1999-2007;"
+"Urban Honolulu, HI 1999; Wichita, KS 1999-2017."
+"6. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"7. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"8. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

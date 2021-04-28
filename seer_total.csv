@@ -1,0 +1,97 @@
+﻿index,Cancer_Sites,Race,Gender,5-Year_Conditional_Relative_Survival
+13,Oral Cavity and Pharynx,White,Male,0.862
+14,Oral Cavity and Pharynx,White,Female,0.863
+16,Oral Cavity and Pharynx,Black,Male,0.789
+17,Oral Cavity and Pharynx,Black,Female,0.809
+22,Esophagus,White,Male,0.768
+23,Esophagus,White,Female,0.766
+25,Esophagus,Black,Male,0.685
+26,Esophagus,Black,Female,0.637
+31,Stomach,White,Male,0.84
+32,Stomach,White,Female,0.841
+34,Stomach,Black,Male,0.831
+35,Stomach,Black,Female,0.826
+40,Colon and Rectum,White,Male,0.896
+41,Colon and Rectum,White,Female,0.912
+43,Colon and Rectum,Black,Male,0.883
+44,Colon and Rectum,Black,Female,0.903
+49,Liver and Intrahepatic Bile Duct,White,Male,0.704
+50,Liver and Intrahepatic Bile Duct,White,Female,0.713
+52,Liver and Intrahepatic Bile Duct,Black,Male,0.555
+53,Liver and Intrahepatic Bile Duct,Black,Female,0.705
+58,Gallbladder,White,Male,0.833
+59,Gallbladder,White,Female,0.849
+61,Gallbladder,Black,Male,- 
+62,Gallbladder,Black,Female,0.727
+67,Pancreas,White,Male,0.677
+68,Pancreas,White,Female,0.698
+70,Pancreas,Black,Male,0.691
+71,Pancreas,Black,Female,0.835
+76,Larynx,White,Male,0.808
+77,Larynx,White,Female,0.719
+79,Larynx,Black,Male,0.768
+80,Larynx,Black,Female,0.697
+85,Lung and Bronchus,White,Male,0.656
+86,Lung and Bronchus,White,Female,0.694
+88,Lung and Bronchus,Black,Male,0.637
+89,Lung and Bronchus,Black,Female,0.678
+94,Bones and Joints,White,Male,0.913
+95,Bones and Joints,White,Female,0.917
+97,Bones and Joints,Black,Male,0.857
+98,Bones and Joints,Black,Female,0.92
+103,Soft Tissue including Heart,White,Male,0.909
+104,Soft Tissue including Heart,White,Female,0.923
+106,Soft Tissue including Heart,Black,Male,0.943
+107,Soft Tissue including Heart,Black,Female,0.917
+121,Male and Female Breast,White,Male,0.867
+122,Male and Female Breast,White,Female,0.943
+124,Male and Female Breast,Black,Male,0.734
+125,Male and Female Breast,Black,Female,0.9
+130,Cervix Uteri,White,Male,
+131,Cervix Uteri,White,Female,0.939
+133,Cervix Uteri,Black,Male,
+134,Cervix Uteri,Black,Female,0.914
+139,"Corpus and Uterus, NOS",White,Male,
+140,"Corpus and Uterus, NOS",White,Female,0.966
+142,"Corpus and Uterus, NOS",Black,Male,
+143,"Corpus and Uterus, NOS",Black,Female,0.921
+148,Ovary,White,Male,
+149,Ovary,White,Female,0.786
+151,Ovary,Black,Male,
+152,Ovary,Black,Female,0.773
+157,Prostate,White,Male,0.999
+158,Prostate,White,Female,
+160,Prostate,Black,Male,0.977
+161,Prostate,Black,Female,
+166,Testis,White,Male,0.996
+167,Testis,White,Female,
+169,Testis,Black,Male,0.989
+170,Testis,Black,Female,
+175,Urinary System,White,Male,0.91
+176,Urinary System,White,Female,0.926
+178,Urinary System,Black,Male,0.896
+179,Urinary System,Black,Female,0.876
+193,Eye and Orbit,White,Male,0.889
+194,Eye and Orbit,White,Female,0.897
+196,Eye and Orbit,Black,Male,0.969
+197,Eye and Orbit,Black,Female,0.959
+202,Brain and Other Nervous System,White,Male,0.823
+203,Brain and Other Nervous System,White,Female,0.866
+205,Brain and Other Nervous System,Black,Male,0.84
+206,Brain and Other Nervous System,Black,Female,0.853
+211,Endocrine System,White,Male,0.987
+212,Endocrine System,White,Female,1
+214,Endocrine System,Black,Male,0.99
+215,Endocrine System,Black,Female,0.998
+238,Myeloma,White,Male,0.604
+239,Myeloma,White,Female,0.608
+241,Myeloma,Black,Male,0.606
+242,Myeloma,Black,Female,0.615
+247,Leukemias,White,Male,0.869
+248,Leukemias,White,Female,0.893
+250,Leukemias,Black,Male,0.829
+251,Leukemias,Black,Female,0.849
+319,Mesothelioma,White,Male,0.612
+320,Mesothelioma,White,Female,0.565
+322,Mesothelioma,Black,Male,- 
+323,Mesothelioma,Black,Female,- 

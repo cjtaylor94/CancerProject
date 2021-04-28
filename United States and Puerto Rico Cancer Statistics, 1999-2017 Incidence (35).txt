@@ -1,0 +1,664 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	76
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	126
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"35-39 years"	"35-39"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	184
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	86
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	287
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	159
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	75
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	394
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	62
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	286
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	528
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	102
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	521
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	96
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	561
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	125
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	703
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	85
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	745
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	47
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	137
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	831
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	644
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	93
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	744
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	58
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	505
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	622
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	389
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	467
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	382
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	380
+	"All Invasive Cancer Sites Combined"	"0"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	95
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	52
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	126
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	113
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	176
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	184
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	229
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	252
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	242
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	293
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	213
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	263
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	205
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	196
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	124
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	157
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	162
+	"All Invasive Cancer Sites Combined"	"0"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	155
+	"Oral Cavity and Pharynx"	"20010-20100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	32
+	"Oral Cavity and Pharynx"	"20010-20100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	47
+	"Oral Cavity and Pharynx"	"20010-20100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	53
+	"Oral Cavity and Pharynx"	"20010-20100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Oral Cavity and Pharynx"	"20010-20100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Oral Cavity and Pharynx"	"20010-20100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Oral Cavity and Pharynx"	"20010-20100"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Tongue"	"20020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Tongue"	"20020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	20
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	50
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	48
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	60
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	65
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	114
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	87
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	140
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	117
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	161
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	97
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	134
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	87
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	114
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	63
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	84
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	87
+	"Digestive System"	"21010-21130"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	65
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	21
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	52
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	60
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	56
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	43
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	51
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Esophagus"	"21010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Stomach"	"21020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	32
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	47
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	39
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	56
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	49
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	59
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	46
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	56
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	51
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	43
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	50
+	"Colon and Rectum"	"21041-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon and Rectum"	"21041-21052"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon and Rectum"	"21041-21052"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Colon and Rectum"	"21041-21052"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	40
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	39
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	40
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	41
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	45
+	"Colon excluding Rectum"	"21041-21049"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Colon excluding Rectum"	"21041-21049"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Cecum"	"21041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Rectum"	"21052"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Liver"	"21071"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Liver"	"21071"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Liver"	"21071"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	28
+	"Liver"	"21071"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Pancreas"	"21100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Pancreas"	"21100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	25
+	"Pancreas"	"21100"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	32
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	59
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	58
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	71
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	118
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	98
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	127
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	103
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	125
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	106
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	113
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	69
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	87
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	49
+	"Respiratory System"	"22010-22060"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	68
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	23
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	56
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	50
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	70
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	108
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	97
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	115
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	101
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	118
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	103
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	102
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	68
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	80
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	48
+	"Lung and Bronchus"	"22030"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	63
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	27
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	28
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Lung and Bronchus"	"22030"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	51
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	37
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	39
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	42
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	46
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	63
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	126
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	146
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	169
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	16
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	154
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	207
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	164
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	120
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	76
+	"Male and Female Breast"	"26000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	71
+	"Male and Female Breast"	"26000"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Male and Female Breast"	"26000"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Male and Female Breast"	"26000"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	48
+	"Male and Female Breast"	"26000"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	47
+	"Male and Female Breast"	"26000"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	69
+	"Male and Female Breast"	"26000"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	64
+	"Male and Female Breast"	"26000"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	85
+	"Male and Female Breast"	"26000"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	75
+	"Male and Female Breast"	"26000"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	51
+	"Male and Female Breast"	"26000"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Male and Female Breast"	"26000"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	46
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	126
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	146
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	169
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	16
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	154
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	24
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	207
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	164
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	120
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	76
+	"Female Breast"	"26000-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	71
+	"Female Breast"	"26000-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Breast"	"26000-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Breast"	"26000-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	48
+	"Female Breast"	"26000-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Breast"	"26000-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	69
+	"Female Breast"	"26000-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	64
+	"Female Breast"	"26000-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	85
+	"Female Breast"	"26000-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	75
+	"Female Breast"	"26000-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	51
+	"Female Breast"	"26000-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	27
+	"Female Breast"	"26000-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Female Genital System"	"27010-27070"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Genital System"	"27010-27070"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Genital System"	"27010-27070"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	43
+	"Female Genital System"	"27010-27070"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	97
+	"Female Genital System"	"27010-27070"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	105
+	"Female Genital System"	"27010-27070"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	90
+	"Female Genital System"	"27010-27070"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	69
+	"Female Genital System"	"27010-27070"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Genital System"	"27010-27070"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	25
+	"Female Genital System"	"27010-27070"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Female Genital System"	"27010-27070"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Genital System"	"27010-27070"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Female Genital System"	"27010-27070"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Female Genital System"	"27010-27070"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Genital System"	"27010-27070"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Genital System"	"27010-27070"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Corpus Uteri"	"27020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	21
+	"Corpus Uteri"	"27020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Corpus Uteri"	"27020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	62
+	"Corpus Uteri"	"27020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	74
+	"Corpus Uteri"	"27020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	54
+	"Corpus Uteri"	"27020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	44
+	"Corpus Uteri"	"27020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Corpus Uteri"	"27020"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Corpus Uteri"	"27020"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Ovary"	"27040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Ovary"	"27040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Ovary"	"27040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	49
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	119
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	154
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	61
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	216
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	169
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	28
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	119
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	61
+	"Male Genital System"	"28010-28040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Male Genital System"	"28010-28040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	29
+	"Male Genital System"	"28010-28040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	39
+	"Male Genital System"	"28010-28040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	77
+	"Male Genital System"	"28010-28040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	93
+	"Male Genital System"	"28010-28040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	75
+	"Male Genital System"	"28010-28040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Male Genital System"	"28010-28040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	46
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	119
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	47
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	152
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	61
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	215
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	168
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	28
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	117
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	60
+	"Prostate"	"28010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Prostate"	"28010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	29
+	"Prostate"	"28010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Prostate"	"28010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	77
+	"Prostate"	"28010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	92
+	"Prostate"	"28010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	72
+	"Prostate"	"28010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	36
+	"Prostate"	"28010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	56
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	66
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	51
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	82
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	41
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	93
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	77
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	68
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Urinary System"	"29010-29040"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	59
+	"Urinary System"	"29010-29040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	25
+	"Urinary System"	"29010-29040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Urinary System"	"29010-29040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"Urinary System"	"29010-29040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	31
+	"Urinary Bladder, invasive and in situ"	"29010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Urinary Bladder, invasive and in situ"	"29010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	54
+	"Urinary Bladder, invasive and in situ"	"29010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	24
+	"Urinary Bladder, invasive and in situ"	"29010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	68
+	"Urinary Bladder, invasive and in situ"	"29010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	53
+	"Urinary Bladder, invasive and in situ"	"29010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	49
+	"Urinary Bladder, invasive and in situ"	"29010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	47
+	"Urinary Bladder, invasive and in situ"	"29010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Urinary Bladder, invasive and in situ"	"29010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Urinary Bladder, invasive and in situ"	"29010"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	25
+	"Kidney and Renal Pelvis"	"29020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Kidney and Renal Pelvis"	"29020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	37
+	"Kidney and Renal Pelvis"	"29020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Kidney and Renal Pelvis"	"29020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	23
+	"Kidney and Renal Pelvis"	"29020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	23
+	"Kidney and Renal Pelvis"	"29020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Kidney and Renal Pelvis"	"29020"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	19
+	"Endocrine System"	"32010-32020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	20
+	"Endocrine System"	"32010-32020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Endocrine System"	"32010-32020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Endocrine System"	"32010-32020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Thyroid"	"32010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	19
+	"Thyroid"	"32010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Thyroid"	"32010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Thyroid"	"32010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Thyroid"	"32010"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	36
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	45
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	31
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	36
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	42
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	29
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	30
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	30
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Myeloma"	"34000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Myeloma"	"34000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Leukemias"	"35011-35043"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Leukemias"	"35011-35043"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	31
+	"Leukemias"	"35011-35043"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Leukemias"	"35011-35043"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Leukemias"	"35011-35043"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	21
+	"Leukemias"	"35011-35043"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Leukemias"	"35011-35043"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	32
+	"Leukemias"	"35011-35043"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Chronic Lymphocytic Leukemia"	"35012"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	27
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	30
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	41
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	41
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	45
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	47
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	43
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	47
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	43
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	53
+	"Miscellaneous"	"37000"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	57
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	49
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	48
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	49
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	48
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Orlando-Kissimmee-Sanford, FL"	"36740"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	23
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	19
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Orlando-Kissimmee-Sanford, FL (36740); Oxnard-Thousand Oaks-Ventura, CA (37100)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 1:51:20 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 1:51:20 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

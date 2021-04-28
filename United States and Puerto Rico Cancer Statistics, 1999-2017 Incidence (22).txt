@@ -1,0 +1,410 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	72
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	33
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	68
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	108
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	59
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	48
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	185
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	117
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	76
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	265
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	70
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	243
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	100
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	363
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	124
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	362
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	111
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	455
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	112
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	526
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	108
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	517
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	140
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	659
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	69
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	416
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	76
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	566
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	49
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	369
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	63
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	430
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	53
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	256
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	274
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	268
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	242
+	"Oral Cavity and Pharynx"	"20010-20100"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Oral Cavity and Pharynx"	"20010-20100"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Oral Cavity and Pharynx"	"20010-20100"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Oral Cavity and Pharynx"	"20010-20100"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Oral Cavity and Pharynx"	"20010-20100"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	41
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	43
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	58
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	70
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	66
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	96
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	61
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	115
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	61
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	79
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	59
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	69
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	48
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	56
+	"Digestive System"	"21010-21130"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	38
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	55
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	36
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	34
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	36
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	30
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon excluding Rectum"	"21041-21049"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	28
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	22
+	"Rectum"	"21052"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Liver"	"21071"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver"	"21071"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Pancreas"	"21100"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	38
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	53
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	66
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	67
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	102
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	97
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	110
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	72
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	126
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	79
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	87
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	55
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	54
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	50
+	"Respiratory System"	"22010-22060"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	38
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	30
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	30
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	50
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	56
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	66
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	93
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	96
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	100
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	69
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	120
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	77
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	79
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	54
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	50
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	49
+	"Lung and Bronchus"	"22030"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	22
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	36
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	54
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	38
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	39
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	32
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	29
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	52
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Melanoma of the Skin"	"25010"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	29
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	41
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	80
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	97
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	94
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	145
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	164
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	114
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	78
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	49
+	"Male and Female Breast"	"26000"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	46
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	41
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	80
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	97
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	94
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	145
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	164
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	114
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	78
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Breast"	"26000-Female"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	46
+	"Female Genital System"	"27010-27070"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Genital System"	"27010-27070"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	50
+	"Female Genital System"	"27010-27070"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	53
+	"Female Genital System"	"27010-27070"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	45
+	"Female Genital System"	"27010-27070"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Female Genital System"	"27010-27070"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	39
+	"Female Genital System"	"27010-27070"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	20
+	"Corpus Uteri"	"27020"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Corpus Uteri"	"27020"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Corpus Uteri"	"27020"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	30
+	"Corpus Uteri"	"27020"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Corpus Uteri"	"27020"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Ovary"	"27040"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	34
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	69
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	106
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	176
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	118
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	78
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	29
+	"Male Genital System"	"28010-28040"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	32
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	67
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	106
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	56
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	173
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	118
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	74
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	27
+	"Prostate"	"28010"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	23
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	53
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	61
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	64
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	47
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Urinary Bladder, invasive and in situ"	"29010"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary Bladder, invasive and in situ"	"29010"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	36
+	"Urinary Bladder, invasive and in situ"	"29010"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	39
+	"Urinary Bladder, invasive and in situ"	"29010"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	17
+	"Urinary Bladder, invasive and in situ"	"29010"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Urinary Bladder, invasive and in situ"	"29010"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary Bladder, invasive and in situ"	"29010"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Kidney and Renal Pelvis"	"29020"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Kidney and Renal Pelvis"	"29020"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Kidney and Renal Pelvis"	"29020"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Endocrine System"	"32010-32020"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Lymphomas"	"33011-33042"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Lymphomas"	"33011-33042"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	30
+	"Lymphomas"	"33011-33042"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	29
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"NHL - Nodal"	"33041"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Nodal"	"33041"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"NHL - Nodal"	"33041"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Myeloma"	"34000"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	23
+	"Leukemias"	"35011-35043"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Leukemias"	"35011-35043"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	22
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	34
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	40
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	27
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	30
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Jacksonville, FL"	"27260"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	36
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Jacksonville, FL"	"27260"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Jacksonville, FL"	"27260"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Jacksonville, FL"	"27260"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Jacksonville, FL"	"27260"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Jacksonville, FL"	"27260"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	38
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Jacksonville, FL"	"27260"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Jacksonville, FL (27260); Kansas City, MO-KS (28140)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 10:34:22 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 10:34:22 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. 'Missing' is displayed for a combination of states/territories/MSAs and years that did not meet the United States Cancer"
+"Statistics (USCS) publication standard or did not allow permission for their data to be used."
+"4. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"5. Age-adjusted rates are not available when results are grouped by age."
+"6. These MSAs are missing data for the indicated years: Boise City, ID 1999-2002; Cape Coral-Fort Myers, FL 1999-2003;"
+"Chattanooga, TN-GA 1999-2005; Deltona-Daytona Beach-Ormond Beach, FL 1999-2000; Denver-Aurora-Lakewood, CO 1999-2001;"
+"Durham-Chapel Hill, NC 1999-2003; Fayetteville, NC 1999-2011; Fayetteville-Springdale-Rogers, AR-MO 1999-2015; Jackson, MS"
+"1999-2002; Kansas City, MO-KS 1999-2017; Lakeland-Winter Haven, FL 1999-2001; Lancaster, PA 1999-2005; Lexington-Fayette, KY"
+"1999-2014; Little Rock-North Little Rock-Conway, AR 1999-2000; Memphis, TN-MS-AR 1999-2002; Minneapolis-St. Paul-Bloomington,"
+"MN-WI 1999-2017; Modesto, CA 1999-2004; Ogden-Clearfield, UT 1999-2001; Palm Bay-Melbourne-Titusville, FL 1999-2002;"
+"Portland-South Portland, ME 1999-2001; Provo-Orem, UT 1999-2008; Santa Rosa, CA 1999-2014; Spokane-Spokane Valley, WA 1999-2007;"
+"Urban Honolulu, HI 1999; Wichita, KS 1999-2017."
+"7. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"8. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"9. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

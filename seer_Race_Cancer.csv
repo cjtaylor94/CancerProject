@@ -1,0 +1,49 @@
+﻿index,Cancer_Sites,Race,Gender,5-Year_Conditional_Relative_Survival
+12,Oral Cavity and Pharynx,White,Male and female,0.862
+15,Oral Cavity and Pharynx,Black,Male and female,0.797
+21,Esophagus,White,Male and female,0.767
+24,Esophagus,Black,Male and female,0.666
+30,Stomach,White,Male and female,0.841
+33,Stomach,Black,Male and female,0.835
+39,Colon and Rectum,White,Male and female,0.904
+42,Colon and Rectum,Black,Male and female,0.894
+48,Liver and Intrahepatic Bile Duct,White,Male and female,0.706
+51,Liver and Intrahepatic Bile Duct,Black,Male and female,0.606
+57,Gallbladder,White,Male and female,0.847
+60,Gallbladder,Black,Male and female,0.657
+66,Pancreas,White,Male and female,0.688
+69,Pancreas,Black,Male and female,0.778
+75,Larynx,White,Male and female,0.791
+78,Larynx,Black,Male and female,0.752
+84,Lung and Bronchus,White,Male and female,0.677
+87,Lung and Bronchus,Black,Male and female,0.658
+93,Bones and Joints,White,Male and female,0.915
+96,Bones and Joints,Black,Male and female,0.888
+102,Soft Tissue including Heart,White,Male and female,0.915
+105,Soft Tissue including Heart,Black,Male and female,0.935
+120,Male and Female Breast,White,Male and female,0.943
+123,Male and Female Breast,Black,Male and female,0.898
+129,Cervix Uteri,White,Male and female,0.939
+132,Cervix Uteri,Black,Male and female,0.914
+138,"Corpus and Uterus, NOS",White,Male and female,0.966
+141,"Corpus and Uterus, NOS",Black,Male and female,0.921
+147,Ovary,White,Male and female,0.786
+150,Ovary,Black,Male and female,0.773
+156,Prostate,White,Male and female,0.999
+159,Prostate,Black,Male and female,0.977
+165,Testis,White,Male and female,0.996
+168,Testis,Black,Male and female,0.989
+174,Urinary System,White,Male and female,0.914
+177,Urinary System,Black,Male and female,0.892
+192,Eye and Orbit,White,Male and female,0.893
+195,Eye and Orbit,Black,Male and female,0.968
+201,Brain and Other Nervous System,White,Male and female,0.843
+204,Brain and Other Nervous System,Black,Male and female,0.848
+210,Endocrine System,White,Male and female,0.997
+213,Endocrine System,Black,Male and female,0.998
+237,Myeloma,White,Male and female,0.606
+240,Myeloma,Black,Male and female,0.611
+246,Leukemias,White,Male and female,0.879
+249,Leukemias,Black,Male and female,0.838
+318,Mesothelioma,White,Male and female,0.591
+321,Mesothelioma,Black,Male and female,- 

@@ -1,0 +1,1066 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"MSA"	"MSA Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	48
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	32
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	88
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	39
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	136
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	86
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	256
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	200
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	328
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	329
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	363
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	433
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	475
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	63
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	535
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	448
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	485
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	17
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	324
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	363
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	263
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	285
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	329
+	"All Invasive Cancer Sites Combined"	"0"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	251
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	36
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	26
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	24
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	35
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	34
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	40
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	51
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	54
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	122
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	73
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	60
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	190
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	103
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	295
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	128
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	109
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	402
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	210
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	140
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	613
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	18
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	98
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	341
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	202
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	834
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	197
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	609
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	292
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	1018
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	355
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	1066
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	21
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	317
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	1131
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	406
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1420
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	29
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	309
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1219
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	444
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1623
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	28
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	238
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	1048
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	277
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1279
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	151
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	833
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	194
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	929
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	108
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	537
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	99
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	575
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	121
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	586
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	71
+	"All Invasive Cancer Sites Combined"	"0"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	582
+	"Oral Cavity and Pharynx"	"20010-20100"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Oral Cavity and Pharynx"	"20010-20100"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Oral Cavity and Pharynx"	"20010-20100"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Oral Cavity and Pharynx"	"20010-20100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	25
+	"Oral Cavity and Pharynx"	"20010-20100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"Oral Cavity and Pharynx"	"20010-20100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	24
+	"Oral Cavity and Pharynx"	"20010-20100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	75
+	"Oral Cavity and Pharynx"	"20010-20100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Oral Cavity and Pharynx"	"20010-20100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	77
+	"Oral Cavity and Pharynx"	"20010-20100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	64
+	"Oral Cavity and Pharynx"	"20010-20100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	57
+	"Oral Cavity and Pharynx"	"20010-20100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	37
+	"Oral Cavity and Pharynx"	"20010-20100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	16
+	"Tongue"	"20020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Tongue"	"20020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	28
+	"Tongue"	"20020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Tongue"	"20020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Tongue"	"20020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	16
+	"Tonsil"	"20070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	28
+	"Tonsil"	"20070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	18
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	24
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	42
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	48
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	82
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	66
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	87
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	78
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	69
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	46
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	67
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	51
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	57
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	93
+	"Digestive System"	"21010-21130"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	66
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	16
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	34
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	23
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	40
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	56
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	74
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	87
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	45
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	120
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	174
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	58
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	163
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	107
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	280
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	66
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	205
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	102
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	329
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	69
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	202
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	91
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	343
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	46
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	180
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	60
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	287
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	162
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	49
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	176
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	141
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	118
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	159
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Digestive System"	"21010-21130"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	128
+	"Esophagus"	"21010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	17
+	"Esophagus"	"21010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Esophagus"	"21010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	29
+	"Esophagus"	"21010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	30
+	"Esophagus"	"21010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	36
+	"Esophagus"	"21010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Stomach"	"21020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Stomach"	"21020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Stomach"	"21020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Stomach"	"21020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	21
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	30
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	34
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	32
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	27
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	31
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	52
+	"Colon and Rectum"	"21041-21052"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	23
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	25
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	33
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	42
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	46
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	65
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	90
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	40
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	71
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	112
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	92
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	136
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	31
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	102
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	38
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	138
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	66
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	109
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	58
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	70
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	69
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	52
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	86
+	"Colon and Rectum"	"21041-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	52
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	26
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	20
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	45
+	"Colon excluding Rectum"	"21041-21049"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	17
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	19
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	31
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	29
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	41
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	46
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	46
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	80
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	29
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	63
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	32
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	81
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	69
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	26
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	95
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	50
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	74
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	44
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	43
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	50
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	41
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	72
+	"Colon excluding Rectum"	"21041-21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	38
+	"Cecum"	"21041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Cecum"	"21041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Cecum"	"21041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Cecum"	"21041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Ascending Colon"	"21043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Ascending Colon"	"21043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Ascending Colon"	"21043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Ascending Colon"	"21043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Sigmoid Colon"	"21048"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	16
+	"Sigmoid Colon"	"21048"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	25
+	"Sigmoid Colon"	"21048"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"Sigmoid Colon"	"21048"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Sigmoid Colon"	"21048"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Large Intestine, NOS"	"21049"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	24
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	44
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	32
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	55
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	43
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	16
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	35
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	27
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	19
+	"Rectum"	"21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	22
+	"Rectum"	"21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"Rectum"	"21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	18
+	"Rectum"	"21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Rectum"	"21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Rectum"	"21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	41
+	"Rectum"	"21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	25
+	"Rectum"	"21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	33
+	"Rectum"	"21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Rectum"	"21052"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	17
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	27
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	26
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	79
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	28
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	79
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	21
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	66
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	19
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	40
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	25
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"Liver"	"21071"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	16
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	26
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	19
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	75
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	24
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	30
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	74
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	57
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	17
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	38
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	22
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Liver"	"21071"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	22
+	"Pancreas"	"21100"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	19
+	"Pancreas"	"21100"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	21
+	"Pancreas"	"21100"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Pancreas"	"21100"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	20
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	25
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	39
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	41
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	38
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	36
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	57
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	51
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	56
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	37
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	29
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	18
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Pancreas"	"21100"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	26
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	20
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	24
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	44
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	59
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	60
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	85
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	86
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	87
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	81
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	77
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	71
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	47
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	50
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	41
+	"Respiratory System"	"22010-22060"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	36
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	27
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	56
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	65
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	97
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	44
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	116
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	122
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	59
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	182
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	172
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	63
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	229
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	176
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	45
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	201
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	137
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	46
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	186
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	100
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	22
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	114
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	95
+	"Respiratory System"	"22010-22060"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	95
+	"Larynx"	"22020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	18
+	"Larynx"	"22020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Larynx"	"22020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	27
+	"Larynx"	"22020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	19
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	43
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	29
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	55
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	58
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	85
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	77
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	85
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	73
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	77
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	68
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	47
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	48
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	39
+	"Lung and Bronchus"	"22030"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	34
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	23
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	20
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	54
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	51
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	92
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	40
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	96
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	36
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	120
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	50
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	154
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	42
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	168
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	53
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	198
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	38
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	172
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	41
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	177
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	25
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	131
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	43
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	172
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	98
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	19
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	110
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	21
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	92
+	"Lung and Bronchus"	"22030"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	91
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	27
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	24
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	16
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	27
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	25
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	27
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	43
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	40
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	46
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	52
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	32
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	82
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	33
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	64
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	26
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	58
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	18
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	55
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	34
+	"Skin excluding Basal and Squamous"	"25010-25020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	39
+	"Melanoma of the Skin"	"25010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Melanoma of the Skin"	"25010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Melanoma of the Skin"	"25010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	23
+	"Melanoma of the Skin"	"25010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	19
+	"Melanoma of the Skin"	"25010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	21
+	"Melanoma of the Skin"	"25010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	22
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	26
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	42
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	38
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	44
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	48
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	80
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	59
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	25
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	51
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	51
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Melanoma of the Skin"	"25010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	37
+	"Male and Female Breast"	"26000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	36
+	"Male and Female Breast"	"26000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	65
+	"Male and Female Breast"	"26000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Male and Female Breast"	"26000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	99
+	"Male and Female Breast"	"26000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	127
+	"Male and Female Breast"	"26000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	127
+	"Male and Female Breast"	"26000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	158
+	"Male and Female Breast"	"26000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	129
+	"Male and Female Breast"	"26000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	91
+	"Male and Female Breast"	"26000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	63
+	"Male and Female Breast"	"26000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	69
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	19
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	46
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	90
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	157
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	68
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	245
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	70
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	316
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	116
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	340
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	99
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	361
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	95
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	385
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	79
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	293
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	210
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	96
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast"	"26000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	97
+	"Female Breast"	"26000-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	36
+	"Female Breast"	"26000-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	65
+	"Female Breast"	"26000-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Breast"	"26000-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	99
+	"Female Breast"	"26000-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	127
+	"Female Breast"	"26000-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	127
+	"Female Breast"	"26000-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	158
+	"Female Breast"	"26000-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	129
+	"Female Breast"	"26000-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	91
+	"Female Breast"	"26000-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	63
+	"Female Breast"	"26000-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	69
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	19
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	46
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	90
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	52
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	157
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	68
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	245
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	70
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	316
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	116
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	340
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	99
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	361
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	95
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	385
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	79
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	293
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	44
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	210
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	28
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	96
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast"	"26000-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	97
+	"Female Genital System"	"27010-27070"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Genital System"	"27010-27070"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	49
+	"Female Genital System"	"27010-27070"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	47
+	"Female Genital System"	"27010-27070"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	71
+	"Female Genital System"	"27010-27070"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	45
+	"Female Genital System"	"27010-27070"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Genital System"	"27010-27070"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	21
+	"Female Genital System"	"27010-27070"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	18
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	46
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	61
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	17
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	85
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	102
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	32
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	128
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	23
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	167
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	63
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	173
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	43
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	153
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	124
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	79
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	42
+	"Female Genital System"	"27010-27070"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Cervix Uteri"	"27010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	25
+	"Cervix Uteri"	"27010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	26
+	"Cervix Uteri"	"27010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	36
+	"Cervix Uteri"	"27010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	37
+	"Cervix Uteri"	"27010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	23
+	"Cervix Uteri"	"27010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	27
+	"Cervix Uteri"	"27010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	26
+	"Corpus Uteri"	"27020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"Corpus Uteri"	"27020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	33
+	"Corpus Uteri"	"27020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	38
+	"Corpus Uteri"	"27020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	48
+	"Corpus Uteri"	"27020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	31
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	24
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	30
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	40
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	64
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	90
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	33
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	90
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	34
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	100
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	16
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	68
+	"Corpus Uteri"	"27020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Ovary"	"27040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Ovary"	"27040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Ovary"	"27040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	29
+	"Ovary"	"27040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	32
+	"Ovary"	"27040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Ovary"	"27040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	31
+	"Ovary"	"27040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	38
+	"Ovary"	"27040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	33
+	"Ovary"	"27040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	54
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	102
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	18
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	140
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	29
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	173
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	141
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	71
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	49
+	"Male Genital System"	"28010-28040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	27
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	28
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	29
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	19
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	18
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	51
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	73
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	104
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	131
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	251
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	151
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	402
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	195
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	538
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	112
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	319
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	53
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	193
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	76
+	"Male Genital System"	"28010-28040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	95
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	49
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	23
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	99
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	136
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	172
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	19
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	141
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	70
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	48
+	"Prostate"	"28010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	27
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	43
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	72
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	98
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	130
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	246
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	151
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	397
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	16
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	194
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	535
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	20
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	111
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	317
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	51
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	189
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	21
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	75
+	"Prostate"	"28010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	94
+	"Testis"	"28020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	27
+	"Testis"	"28020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	27
+	"Testis"	"28020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	27
+	"Testis"	"28020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	19
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	42
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	18
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	55
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	64
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	69
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	16
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	57
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	22
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	55
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Urinary System"	"29010-29040"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	27
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	29
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	46
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	57
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	39
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	24
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	111
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	56
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	28
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	142
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	19
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	89
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	39
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	166
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	64
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	20
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	143
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	57
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	127
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	28
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	83
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	35
+	"Urinary System"	"29010-29040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	79
+	"Urinary Bladder, invasive and in situ"	"29010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	33
+	"Urinary Bladder, invasive and in situ"	"29010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	44
+	"Urinary Bladder, invasive and in situ"	"29010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	50
+	"Urinary Bladder, invasive and in situ"	"29010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary Bladder, invasive and in situ"	"29010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	49
+	"Urinary Bladder, invasive and in situ"	"29010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"Urinary Bladder, invasive and in situ"	"29010"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	35
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	18
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	43
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	64
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	85
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	85
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	83
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	58
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	19
+	"Urinary Bladder, invasive and in situ"	"29010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	55
+	"Kidney and Renal Pelvis"	"29020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	19
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	22
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	26
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	34
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	31
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	38
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	29
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	67
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	46
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	17
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	77
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	63
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	25
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	80
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	37
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	54
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	32
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	40
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	24
+	"Kidney and Renal Pelvis"	"29020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	21
+	"Brain and Other Nervous System"	"31010-31040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	23
+	"Brain and Other Nervous System"	"31010-31040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	22
+	"Brain and Other Nervous System"	"31010-31040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	22
+	"Brain and Other Nervous System"	"31010-31040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Brain and Other Nervous System"	"31010-31040"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	22
+	"Brain"	"31010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	21
+	"Brain"	"31010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	20
+	"Brain"	"31010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	21
+	"Brain"	"31010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	21
+	"Endocrine System"	"32010-32020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	36
+	"Endocrine System"	"32010-32020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	25
+	"Endocrine System"	"32010-32020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	41
+	"Endocrine System"	"32010-32020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	34
+	"Endocrine System"	"32010-32020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	43
+	"Endocrine System"	"32010-32020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	47
+	"Endocrine System"	"32010-32020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	35
+	"Endocrine System"	"32010-32020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	31
+	"Endocrine System"	"32010-32020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	17
+	"Endocrine System"	"32010-32020"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	30
+	"Thyroid"	"32010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	35
+	"Thyroid"	"32010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	24
+	"Thyroid"	"32010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	41
+	"Thyroid"	"32010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	34
+	"Thyroid"	"32010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	42
+	"Thyroid"	"32010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	45
+	"Thyroid"	"32010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	32
+	"Thyroid"	"32010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	17
+	"Thyroid"	"32010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	29
+	"Thyroid"	"32010"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	28
+	"Lymphomas"	"33011-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	20
+	"Lymphomas"	"33011-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Lymphomas"	"33011-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	24
+	"Lymphomas"	"33011-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	16
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	17
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	22
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	45
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	36
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	39
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	53
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	51
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	56
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	51
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	51
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	61
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	41
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	45
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	33
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	27
+	"Lymphomas"	"33011-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	24
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	16
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	21
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	18
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	17
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	25
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	40
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	32
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	34
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	51
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	48
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	50
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	49
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	47
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	59
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	41
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	45
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	30
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	26
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	18
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	31
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	23
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	26
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	35
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	35
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	37
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	40
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	34
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	43
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	34
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	35
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	19
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	20
+	"NHL - Nodal"	"33041"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	17
+	"NHL - Extranodal"	"33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	16
+	"NHL - Extranodal"	"33042"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	16
+	"Myeloma"	"34000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	16
+	"Myeloma"	"34000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	24
+	"Myeloma"	"34000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	18
+	"Myeloma"	"34000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	21
+	"Myeloma"	"34000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	20
+	"Myeloma"	"34000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	19
+	"Myeloma"	"34000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	16
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	21
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	38
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	34
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	24
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	46
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	23
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	37
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	25
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	33
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	17
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	26
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	31
+	"Leukemias"	"35011-35043"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	28
+	"Chronic Lymphocytic Leukemia"	"35012"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	24
+	"Miscellaneous"	"37000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	18
+	"Miscellaneous"	"37000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	23
+	"Miscellaneous"	"37000"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	16
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	20
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	24
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	19
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	43
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	32
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	49
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	32
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	41
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	35
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	32
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	33
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	45
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	62
+	"Miscellaneous"	"37000"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	47
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	35
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	56
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	74
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	68
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	76
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	78
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	72
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	68
+	"Male and Female Breast, In Situ"	"Breast-InSitu"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	35
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	33
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	37
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	28
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	22
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Hartford-West Hartford-East Hartford, CT"	"25540"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	20
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	56
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	74
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	26
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	68
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	30
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	76
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	37
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	78
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	27
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	72
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	20
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	68
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"Houston-The Woodlands-Sugar Land, TX"	"26420"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	29
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2017 Incidence"
+"Query Parameters:"
+"MSA: Hartford-West Hartford-East Hartford, CT (25540); Houston-The Woodlands-Sugar Land, TX (26420)"
+"Year: 2016"
+"Group By: Cancer Sites; MSA; Age Groups; Sex; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2017.html for more information."
+"---"
+"Query Date: Mar 25, 2021 10:25:10 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2017, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2020. Accessed at"
+"http://wonder.cdc.gov/cancer-v2017.html on Mar 25, 2021 10:25:10 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. Data are suppressed at the state and Metropolitan Statistical Area level for certain race"
+"and ethnicity groups: 1) ""American Indian or Alaska Native"" race data are suppressed at the state and MSA level for Delaware,"
+"Illinois, Kansas, Kentucky, New Jersey, and New York; 2) ""Asian or Pacific Islander"" race data are suppressed at the state and"
+"MSA level for Delaware, Illinois, Kansas, and Kentucky; 3) ""Hispanic"" ethnicity data are supressed at the state and MSA level"
+"for Delaware, and Kentucky. 4) All combinations of race by ethnicity are supressed at the state and MSA level for Delaware,"
+"Kansas, Kentucky, Pennsylvania, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Confidentiality."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/cancer-v2017.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. Age-adjusted rates are not available when results are grouped by age."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
